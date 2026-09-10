@@ -1,0 +1,1362 @@
+[
+  {
+    "symbol_id": "01.Marked_p1_0000",
+    "type": "Instrument",
+    "group": "Instrument",
+    "tag": "S1",
+    "mounting": "Field-Mounted",
+    "location_xy": "924.3,937.2",
+    "bounding_box": "890.3,907.2,958.2,967.1",
+    "nearby_text": "300# 300# D C S1 T2 S2 T1 FOD"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0001",
+    "type": "Instrument",
+    "group": "Instrument",
+    "tag": "S1",
+    "mounting": "Field-Mounted",
+    "location_xy": "925.0,1023.3",
+    "bounding_box": "891.8,993.4,958.2,1053.3",
+    "nearby_text": "300# 300# T1 C T2 S2 S1 203"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0002",
+    "type": "Instrument",
+    "group": "Instrument",
+    "tag": "S2",
+    "mounting": "Field-Mounted",
+    "location_xy": "920.1,1743.2",
+    "bounding_box": "882.0,1713.3,958.3,1773.1",
+    "nearby_text": "300# 300# S1 S2 B A T2 T1 FOD"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0003",
+    "type": "Tank",
+    "group": "Vessel",
+    "tag": "S2",
+    "mounting": "Field-Mounted",
+    "location_xy": "920.1,1828.4",
+    "bounding_box": "882.0,1798.3,958.2,1858.4",
+    "nearby_text": "300# 300# S1 S2 T2 A T1 201"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0004",
+    "type": "Heat Exchanger",
+    "group": "Heat Exchanger",
+    "tag": "PSV 1203",
+    "mounting": "Unknown",
+    "location_xy": "723.3,1123.9",
+    "bounding_box": "540.0,1051.6,906.5,1196.2",
+    "nearby_text": "12 T 900# 3/4\" 2\"x1-1/2\" PSV 1203 + 3/4\" 2\"-SV-101-1 36.7 1.5E2 +"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0005",
+    "type": "Temperature Primary Element",
+    "group": "Temperature",
+    "tag": "TE 1202",
+    "mounting": "Field-Mounted",
+    "location_xy": "682.6,1707.2",
+    "bounding_box": "658.8,1689.2,706.5,1725.2",
+    "nearby_text": "1202 TE 1202 2\"-SV-101-1202-B1A-IT LO 3/4\" 12\"-P-"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0006",
+    "type": "Flow Transmitter",
+    "group": "Flow",
+    "tag": "FT 1202",
+    "mounting": "Field-Mounted",
+    "location_xy": "675.4,1437.2",
+    "bounding_box": "651.6,1419.2,699.2,1455.1",
+    "nearby_text": "1202 FT 1202 B FI FACING -4 3\" FL 1 FF FF 202 2\"-WP-101"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0007",
+    "type": "Temperature Well/Thermowell",
+    "group": "Temperature",
+    "tag": "TW 1212",
+    "mounting": "Field-Mounted",
+    "location_xy": "311.8,1145.6",
+    "bounding_box": "288.1,1127.6,335.6,1163.5",
+    "nearby_text": "1212 TW 1205 PI KE CONNECTION MID POINT OF ,5"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0008",
+    "type": "Temperature Primary Element",
+    "group": "Temperature",
+    "tag": "TE 1203",
+    "mounting": "Field-Mounted",
+    "location_xy": "682.6,1062.8",
+    "bounding_box": "658.9,1044.8,706.4,1080.7",
+    "nearby_text": "1203 TE 1203 LO 12\"-P- 3/4\" 2\"-SV-101-1203-B1A-IT"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0009",
+    "type": "Temperature Indicator",
+    "group": "Temperature",
+    "tag": "TI 1206",
+    "mounting": "Field-Mounted",
+    "location_xy": "1050.2,2128.4",
+    "bounding_box": "1026.8,2110.4,1073.7,2146.4",
+    "nearby_text": "1206 TI 120 P 120 1206 NOTE 14 -P-101-12"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0010",
+    "type": "Temperature Indicator",
+    "group": "Temperature",
+    "tag": "PI 1209",
+    "mounting": "Field-Mounted",
+    "location_xy": "1049.8,2070.8",
+    "bounding_box": "1026.0,2052.8,1073.7,2088.8",
+    "nearby_text": "206 TI 1209 PI 1206 206 MIN. NOTE-8 (TYP.) 2\""
+  },
+  {
+    "symbol_id": "01.Marked_p1_0011",
+    "type": "Heat Exchanger",
+    "group": "Heat Exchanger",
+    "tag": "PSV 1201",
+    "mounting": "Unknown",
+    "location_xy": "723.3,1930.8",
+    "bounding_box": "540.1,1859.3,906.5,2002.4",
+    "nearby_text": "12 T 900# 2\"-SV-101-12 3/4\" PSV 1201 + 36.7 1.5E2 + 3/4\" 2\"x1-1/2\""
+  },
+  {
+    "symbol_id": "01.Marked_p1_0012",
+    "type": "Temperature Transmitter",
+    "group": "Temperature",
+    "tag": "TT 1223",
+    "mounting": "Field-Mounted",
+    "location_xy": "311.8,987.2",
+    "bounding_box": "288.1,969.2,335.6,1005.1",
+    "nearby_text": "1223 TT 223 TE 122 TI NO POC FF"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0013",
+    "type": "Temperature Indicator",
+    "group": "Temperature",
+    "tag": "TE 1206",
+    "mounting": "Field-Mounted",
+    "location_xy": "992.2,2070.8",
+    "bounding_box": "968.4,2052.8,1016.1,2088.8",
+    "nearby_text": "TI PI 1206 TE 206 TT MIN."
+  },
+  {
+    "symbol_id": "01.Marked_p1_0014",
+    "type": "Temperature Indicator",
+    "group": "Temperature",
+    "tag": "TI 1205",
+    "mounting": "Field-Mounted",
+    "location_xy": "377.0,634.3",
+    "bounding_box": "353.6,616.3,400.5,652.3",
+    "nearby_text": "1205 TI TT 48\"-P-101-2701-A19A-IH"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0015",
+    "type": "Temperature Well/Thermowell",
+    "group": "Temperature",
+    "tag": "TW 1210",
+    "mounting": "Field-Mounted",
+    "location_xy": "491.8,821.6",
+    "bounding_box": "468.1,803.6,515.6,839.5",
+    "nearby_text": "1210 TW"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0016",
+    "type": "Temperature Indicator",
+    "group": "Temperature",
+    "tag": "TI 1209",
+    "mounting": "Field-Mounted",
+    "location_xy": "992.6,623.5",
+    "bounding_box": "969.2,605.5,1016.1,641.5",
+    "nearby_text": "1209 TI 209 TT"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0017",
+    "type": "Flow Indicator",
+    "group": "Flow",
+    "tag": "FI 1204 B",
+    "mounting": "Field-Mounted",
+    "location_xy": "641.0,594.7",
+    "bounding_box": "615.7,576.7,666.4,612.7",
+    "nearby_text": "1204 B FI 1204 A FI 1204 FT FF 3\"-FL-101-1204- FF"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0018",
+    "type": "Temperature Transmitter",
+    "group": "Temperature",
+    "tag": "TT 1208",
+    "mounting": "Field-Mounted",
+    "location_xy": "992.2,1293.2",
+    "bounding_box": "968.4,1275.2,1016.0,1311.1",
+    "nearby_text": "1208 TT 120 TE 121 P 208 TI /D /C"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0019",
+    "type": "Temperature Indicator",
+    "group": "Temperature",
+    "tag": "TI 1201",
+    "mounting": "Field-Mounted",
+    "location_xy": "567.8,1869.2",
+    "bounding_box": "544.4,1851.2,591.3,1887.2",
+    "nearby_text": "1201 TI TT 20\"x24\" P-101-1205-B1A-IT T"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0020",
+    "type": "Temperature Transmitter",
+    "group": "Temperature",
+    "tag": "TE 1223",
+    "mounting": "Field-Mounted",
+    "location_xy": "311.8,1044.8",
+    "bounding_box": "288.1,1026.8,335.6,1062.7",
+    "nearby_text": "122 TT 1223 TE 1205 PI"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0021",
+    "type": "Temperature Transmitter",
+    "group": "Temperature",
+    "tag": "TE 1208",
+    "mounting": "Field-Mounted",
+    "location_xy": "992.2,1235.6",
+    "bounding_box": "968.4,1217.6,1016.0,1253.5",
+    "nearby_text": "208 TT 1208 TE 1212 PI MIN."
+  },
+  {
+    "symbol_id": "01.Marked_p1_0022",
+    "type": "Temperature Primary Element",
+    "group": "Temperature",
+    "tag": "TT 1203",
+    "mounting": "Field-Mounted",
+    "location_xy": "625.0,1062.8",
+    "bounding_box": "601.3,1044.8,648.8,1080.7",
+    "nearby_text": "TE 1203 TT 1203 12\"-P-101-1207-B1A-I V-101-1203-B1A-IT"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0023",
+    "type": "Pressure Indicator",
+    "group": "Pressure",
+    "tag": "PI 1215",
+    "mounting": "Field-Mounted",
+    "location_xy": "1035.4,738.8",
+    "bounding_box": "1011.6,720.8,1059.2,756.7",
+    "nearby_text": "1215 PI 1209 TE 120 TT CC SP 018 2\""
+  },
+  {
+    "symbol_id": "01.Marked_p1_0024",
+    "type": "Pressure Indicator",
+    "group": "Pressure",
+    "tag": "TE 1209",
+    "mounting": "Field-Mounted",
+    "location_xy": "992.2,738.8",
+    "bounding_box": "968.4,720.8,1016.0,756.7",
+    "nearby_text": "1215 PI 1209 TE 120 TT SP"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0025",
+    "type": "Temperature Indicator",
+    "group": "Temperature",
+    "tag": "TI 1202",
+    "mounting": "Field-Mounted",
+    "location_xy": "567.8,1707.2",
+    "bounding_box": "544.4,1689.2,591.3,1725.2",
+    "nearby_text": "1202 TI TT T P-101-1206-B1A-IT"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0026",
+    "type": "Drum",
+    "group": "Vessel",
+    "tag": "FT 1203",
+    "mounting": "Field-Mounted",
+    "location_xy": "690.6,1249.8",
+    "bounding_box": "539.9,1195.7,841.3,1304.0",
+    "nearby_text": "1203 FT 1203 B FI SLOPE 1:500 FACING FF 3 26\"-P 9A-IH"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0027",
+    "type": "Temperature Indicator",
+    "group": "Temperature",
+    "tag": "TT 1206",
+    "mounting": "Field-Mounted",
+    "location_xy": "992.2,2128.4",
+    "bounding_box": "968.4,2110.4,1016.1,2146.4",
+    "nearby_text": "TI P 120 TE 1206 TT 14 -P-101-1209-B1A-IT"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0028",
+    "type": "Flow Transmitter",
+    "group": "Flow",
+    "tag": "FI 1202 B",
+    "mounting": "Field-Mounted",
+    "location_xy": "641.0,1401.2",
+    "bounding_box": "615.7,1383.2,666.4,1419.1",
+    "nearby_text": "1202 FT 1202 B FI 1202 A FI 3\"-FL-101-1203- 3\"-FL-101-1202- FF FF"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0029",
+    "type": "Flow Indicator",
+    "group": "Flow",
+    "tag": "FI 1201 B",
+    "mounting": "Field-Mounted",
+    "location_xy": "641.0,2034.8",
+    "bounding_box": "615.6,2016.8,666.4,2052.8",
+    "nearby_text": "1201 B FI 1201 A FI 1201 FT LOPE 1:500 FF FF 26\"-P-101-1212-A19"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0030",
+    "type": "Temperature Primary Element",
+    "group": "Temperature",
+    "tag": "TE 1207",
+    "mounting": "Field-Mounted",
+    "location_xy": "992.2,1545.2",
+    "bounding_box": "968.4,1527.2,1016.1,1563.2",
+    "nearby_text": "1207 TE 120 TT 1206 PI SP"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0031",
+    "type": "Temperature Primary Element",
+    "group": "Temperature",
+    "tag": "TE 1201",
+    "mounting": "Field-Mounted",
+    "location_xy": "682.6,1869.2",
+    "bounding_box": "658.8,1851.2,706.4,1887.2",
+    "nearby_text": "1201 TE 1201 LO 12\"-P- 2\"-SV-101-1201-B1A-IT 3/4\""
+  },
+  {
+    "symbol_id": "01.Marked_p1_0032",
+    "type": "Temperature Indicator",
+    "group": "Temperature",
+    "tag": "TI 1204",
+    "mounting": "Field-Mounted",
+    "location_xy": "567.8,897.2",
+    "bounding_box": "544.4,879.2,591.3,915.2",
+    "nearby_text": "1204 TI TT IT P-101-1208-B1A-IT"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0033",
+    "type": "Temperature Transmitter",
+    "group": "Temperature",
+    "tag": "PI 1212",
+    "mounting": "Field-Mounted",
+    "location_xy": "1042.6,1235.6",
+    "bounding_box": "1018.8,1217.6,1066.4,1253.5",
+    "nearby_text": "208 TT 1208 TE 1212 PI MIN. 2\""
+  },
+  {
+    "symbol_id": "01.Marked_p1_0034",
+    "type": "Flow Indicator",
+    "group": "Flow",
+    "tag": "FI 1203 A",
+    "mounting": "Field-Mounted",
+    "location_xy": "600.2,1264.4",
+    "bounding_box": "576.7,1246.4,623.7,1282.4",
+    "nearby_text": "1203 A FI 1203 B FI FF FF 26\" P 101 1214 A19A IH"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0035",
+    "type": "Flow Indicator",
+    "group": "Flow",
+    "tag": "FI 1201 A",
+    "mounting": "Field-Mounted",
+    "location_xy": "600.2,2070.8",
+    "bounding_box": "576.8,2052.8,623.7,2088.8",
+    "nearby_text": "1201 B FI 1201 A FI FF FF 26\" P 101 1212 A19A IH"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0036",
+    "type": "Temperature Well/Thermowell",
+    "group": "Temperature",
+    "tag": "PI 1205",
+    "mounting": "Field-Mounted",
+    "location_xy": "311.8,1095.2",
+    "bounding_box": "288.1,1077.2,335.6,1113.1",
+    "nearby_text": "1212 TW 1223 TE 1205 PI ON F"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0037",
+    "type": "Flow Indicator",
+    "group": "Flow",
+    "tag": "FI 1202 A",
+    "mounting": "Field-Mounted",
+    "location_xy": "600.2,1437.2",
+    "bounding_box": "576.8,1419.2,623.7,1455.2",
+    "nearby_text": "1202 B FI 1202 A FI 3\" FL 101 1202 A11A FF FF 2\"-WP-101-1202-B19A-IH"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0038",
+    "type": "Temperature Transmitter",
+    "group": "Temperature",
+    "tag": "TI 1223",
+    "mounting": "Field-Mounted",
+    "location_xy": "312.2,929.6",
+    "bounding_box": "288.8,911.6,335.7,947.6",
+    "nearby_text": "223 TT 1223 TI NO POCKETS FF"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0039",
+    "type": "Temperature Transmitter",
+    "group": "Temperature",
+    "tag": "TI 1203",
+    "mounting": "Field-Mounted",
+    "location_xy": "567.8,1062.8",
+    "bounding_box": "544.3,1044.8,591.3,1080.8",
+    "nearby_text": "TT 1203 TI P-101-1207-B1A-IT IT"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0040",
+    "type": "Temperature Primary Element",
+    "group": "Temperature",
+    "tag": "TT 1207",
+    "mounting": "Field-Mounted",
+    "location_xy": "992.2,1487.6",
+    "bounding_box": "968.4,1469.6,1016.0,1505.5",
+    "nearby_text": "207 TE 1207 TT 120 TI 206 PI SP 10"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0041",
+    "type": "Temperature Primary Element",
+    "group": "Temperature",
+    "tag": "TE 1204",
+    "mounting": "Field-Mounted",
+    "location_xy": "682.6,897.2",
+    "bounding_box": "658.9,879.2,706.4,915.1",
+    "nearby_text": "1204 TE 1204 2\"-SV-101-1204-B1A-IT LO 3/4\" 12\"-P-"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0042",
+    "type": "Temperature Transmitter",
+    "group": "Temperature",
+    "tag": "TI 1207",
+    "mounting": "Field-Mounted",
+    "location_xy": "992.6,1430.0",
+    "bounding_box": "969.2,1412.0,1016.1,1448.0",
+    "nearby_text": "207 TT 1207 TI 101-E-102A"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0043",
+    "type": "Temperature Indicator",
+    "group": "Temperature",
+    "tag": "TT 1209",
+    "mounting": "Field-Mounted",
+    "location_xy": "992.2,681.1",
+    "bounding_box": "968.4,663.1,1016.0,699.1",
+    "nearby_text": "120 TI 215 PI 209 TE 1209 TT SP"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0044",
+    "type": "Temperature Primary Element",
+    "group": "Temperature",
+    "tag": "TT 1204",
+    "mounting": "Field-Mounted",
+    "location_xy": "625.0,897.2",
+    "bounding_box": "601.3,879.2,648.8,915.1",
+    "nearby_text": "1204 TE 1204 TT V-101-1204-B1A-IT 12\"-P-101-1208-B1A-I"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0045",
+    "type": "Temperature Primary Element",
+    "group": "Temperature",
+    "tag": "TE 1205",
+    "mounting": "Field-Mounted",
+    "location_xy": "491.8,634.3",
+    "bounding_box": "468.0,616.3,515.6,652.3",
+    "nearby_text": "1205 TE 1 1205"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0046",
+    "type": "Temperature Primary Element",
+    "group": "Temperature",
+    "tag": "PI 1206",
+    "mounting": "Field-Mounted",
+    "location_xy": "1035.4,1545.2",
+    "bounding_box": "1011.6,1527.2,1059.3,1563.2",
+    "nearby_text": "1207 TE 120 TT 1206 PI CC SP 012 2\""
+  },
+  {
+    "symbol_id": "01.Marked_p1_0047",
+    "type": "Flow Indicator",
+    "group": "Flow",
+    "tag": "FI 1204 A",
+    "mounting": "Field-Mounted",
+    "location_xy": "600.2,630.7",
+    "bounding_box": "576.8,612.7,623.7,648.7",
+    "nearby_text": "1204 B FI 1204 A FI 2\"-WP-101-1204-B19A-IH FF 3\" FL 101 1204 A11A FF"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0048",
+    "type": "Compressor",
+    "group": "Compressor",
+    "tag": "PSV 1202",
+    "mounting": "Unknown",
+    "location_xy": "723.5,1649.1",
+    "bounding_box": "540.3,1584.7,906.8,1713.5",
+    "nearby_text": "202 TE 900# MIN. 2\"-SV-101-1 PSV 1202 + O 36.7 1.5E2 + 3/4\" 2\"x1-1/2\" 3/4\" B"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0049",
+    "type": "Filter",
+    "group": "Filter",
+    "tag": "FT 1201",
+    "mounting": "Field-Mounted",
+    "location_xy": "687.0,2062.7",
+    "bounding_box": "531.8,1943.0,842.1,2182.4",
+    "nearby_text": "1201 B FI 1201 FT FACING 201 A-IH FF 26\"-P-"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0050",
+    "type": "Heat Exchanger",
+    "group": "Heat Exchanger",
+    "tag": "PSV 1204",
+    "mounting": "Unknown",
+    "location_xy": "723.6,843.0",
+    "bounding_box": "540.6,778.2,906.5,907.7",
+    "nearby_text": "204 TE MIN. 900# LO 2\"-SV-101-1 B PSV 1204 + 3/4\" 36.7 + O 3/4\" 2\"x1-1/2\""
+  },
+  {
+    "symbol_id": "01.Marked_p1_0051",
+    "type": "Pressure Indicator",
+    "group": "Pressure",
+    "tag": "PI 1201",
+    "mounting": "Field-Mounted",
+    "location_xy": "470.2,699.1",
+    "bounding_box": "446.5,681.1,494.0,717.1",
+    "nearby_text": "1 T 1201 PI 1 OP"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0052",
+    "type": "Flow Indicator",
+    "group": "Flow",
+    "tag": "FT 1204",
+    "mounting": "Field-Mounted",
+    "location_xy": "675.4,630.7",
+    "bounding_box": "651.6,612.7,699.2,648.7",
+    "nearby_text": "1204 B FI 1204 FT FACING 2\"-WP-101 FF 204 3\" FL 1 FF"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0053",
+    "type": "Temperature Primary Element",
+    "group": "Temperature",
+    "tag": "TT 1202",
+    "mounting": "Field-Mounted",
+    "location_xy": "625.0,1707.2",
+    "bounding_box": "601.2,1689.2,648.9,1725.2",
+    "nearby_text": "TE 1202 1202 TT -101-1202-B1A-IT 12\"-P-101-1206-B1A-I"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0054",
+    "type": "Temperature Transmitter",
+    "group": "Temperature",
+    "tag": "TI 1208",
+    "mounting": "Field-Mounted",
+    "location_xy": "992.6,1350.8",
+    "bounding_box": "969.2,1332.8,1016.1,1368.8",
+    "nearby_text": "120 TT 1208 TI /D /C /B E-102A"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0055",
+    "type": "Temperature Primary Element",
+    "group": "Temperature",
+    "tag": "TT 1201",
+    "mounting": "Field-Mounted",
+    "location_xy": "625.0,1869.2",
+    "bounding_box": "601.2,1851.2,648.8,1887.2",
+    "nearby_text": "1201 TE 1201 TT 12\"-P-101-1205-B1A-I -101-1201-B1A-IT"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0056",
+    "type": "Temperature Primary Element",
+    "group": "Temperature",
+    "tag": "TT 1205",
+    "mounting": "Field-Mounted",
+    "location_xy": "434.2,634.3",
+    "bounding_box": "410.4,616.3,458.0,652.3",
+    "nearby_text": "1205 TE 1 1205 TT"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0057",
+    "type": "Flow Transmitter",
+    "group": "Flow",
+    "tag": "FI 1203 B",
+    "mounting": "Field-Mounted",
+    "location_xy": "641.0,1228.4",
+    "bounding_box": "615.7,1210.4,666.4,1246.3",
+    "nearby_text": "1203 FT 1203 A FI 1203 B FI LOPE 1:500 FF FF 26\"-P-101-1214-A19"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0058",
+    "type": "Compressor",
+    "group": "Compressor",
+    "tag": "FE-1203",
+    "mounting": "Field-Mounted",
+    "location_xy": "712.7,1303.0",
+    "bounding_box": "698.3,1287.4,727.1,1318.7",
+    "nearby_text": "1203 FT FF FE-1203 03-B19A-IH"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0059",
+    "type": "Unknown",
+    "group": "Unknown",
+    "tag": "MIN.",
+    "mounting": "Unknown",
+    "location_xy": "863.0,2013.4",
+    "bounding_box": "841.4,2002.4,884.6,2024.5",
+    "nearby_text": "MIN. NOTE-4 A19A 036 3/4\" B19A \" F"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0060",
+    "type": "Heat Exchanger",
+    "group": "Heat Exchanger",
+    "tag": "A19A",
+    "mounting": "Unknown",
+    "location_xy": "874.2,1312.1",
+    "bounding_box": "858.3,1298.6,890.0,1325.6",
+    "nearby_text": "NOTE IH A11A 3/4\" 3/4\" A19A 2\"-W B19A 111207"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0061",
+    "type": "Compressor",
+    "group": "Compressor",
+    "tag": "TE 1208",
+    "mounting": "Field-Mounted",
+    "location_xy": "965.4,1198.4",
+    "bounding_box": "951.0,1182.8,979.8,1214.0",
+    "nearby_text": "1208 TE MIN."
+  },
+  {
+    "symbol_id": "01.Marked_p1_0062",
+    "type": "Compressor",
+    "group": "Compressor",
+    "tag": "2\"-P-101-1221-B1A-IT",
+    "mounting": "Field-Mounted",
+    "location_xy": "819.4,1742.1",
+    "bounding_box": "805.0,1726.5,833.8,1757.7",
+    "nearby_text": "S2 2\"-P-101-1221- FOD1"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0063",
+    "type": "Pump / Compressor",
+    "group": "Pump",
+    "tag": "A19A",
+    "mounting": "Unknown",
+    "location_xy": "874.2,2125.7",
+    "bounding_box": "858.3,2105.0,890.0,2146.4",
+    "nearby_text": "NOT 2\"-W A19A 3/4\" IH A11A B1 3/4\""
+  },
+  {
+    "symbol_id": "01.Marked_p1_0064",
+    "type": "Compressor",
+    "group": "Compressor",
+    "tag": "FE-1201",
+    "mounting": "Field-Mounted",
+    "location_xy": "711.7,2111.7",
+    "bounding_box": "697.3,2095.7,726.1,2127.7",
+    "nearby_text": "1201 FT FE-1201 01-B19A-IH FF"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0065",
+    "type": "Instrument",
+    "group": "Instrument",
+    "tag": "B19A",
+    "mounting": "Field-Mounted",
+    "location_xy": "840.5,2063.7",
+    "bounding_box": "827.8,2049.4,853.2,2077.9",
+    "nearby_text": "NOTE-4 2\"-WP-101-1 A19A A19A 3/4\" SP 036 3/4\" B19A 3/4\""
+  },
+  {
+    "symbol_id": "01.Marked_p1_0066",
+    "type": "Flow Transmitter",
+    "group": "Flow",
+    "tag": "FE-1204",
+    "mounting": "Field-Mounted",
+    "location_xy": "710.0,668.6",
+    "bounding_box": "695.6,653.0,724.4,684.2",
+    "nearby_text": "1204 FT NOTE-4 2 A19A FF FE-1204 B19A"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0067",
+    "type": "Pump / Compressor",
+    "group": "Pump",
+    "tag": "B19A",
+    "mounting": "Unknown",
+    "location_xy": "743.0,694.1",
+    "bounding_box": "722.6,668.1,763.3,720.2",
+    "nearby_text": "12 CP 1212 NOTE-4 P 112 A19A B19A SP FO"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0068",
+    "type": "Heat Exchanger",
+    "group": "Heat Exchanger",
+    "tag": "A19A",
+    "mounting": "Unknown",
+    "location_xy": "867.0,608.2",
+    "bounding_box": "851.2,594.7,882.8,621.7",
+    "nearby_text": "3/4\" A19A 4\" IH A11A"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0069",
+    "type": "Heat Exchanger",
+    "group": "Heat Exchanger",
+    "tag": "A19A",
+    "mounting": "Unknown",
+    "location_xy": "867.0,1414.7",
+    "bounding_box": "851.1,1401.2,882.8,1428.2",
+    "nearby_text": "3/4\" 3/4\" A19A IH A11A FOD101111"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0070",
+    "type": "Compressor",
+    "group": "Compressor",
+    "tag": "2\"-P-101-1220-B1A-IT",
+    "mounting": "Field-Mounted",
+    "location_xy": "819.3,1827.4",
+    "bounding_box": "804.9,1811.8,833.7,1843.0",
+    "nearby_text": "S2 1-1220-B1A-IT 01"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0071",
+    "type": "Instrument",
+    "group": "Instrument",
+    "tag": "B19A",
+    "mounting": "Field-Mounted",
+    "location_xy": "839.0,1256.5",
+    "bounding_box": "823.3,1236.3,854.7,1276.8",
+    "nearby_text": "NOTE-4 3/4\" A19A SP 111 3/4\" 3/4\" A19A 2\"-WP-101-12 B19A"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0072",
+    "type": "Pump / Compressor",
+    "group": "Pump",
+    "tag": "B19A",
+    "mounting": "Unknown",
+    "location_xy": "740.7,1497.9",
+    "bounding_box": "722.6,1474.5,758.8,1521.3",
+    "nearby_text": "12 CP 1210 NOTE-4 SP P 10 B19A A19A FOD"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0073",
+    "type": "Compressor",
+    "group": "Compressor",
+    "tag": "2\"-P-101-1223-B1A-IT",
+    "mounting": "Field-Mounted",
+    "location_xy": "818.9,934.5",
+    "bounding_box": "804.5,918.9,833.3,950.1",
+    "nearby_text": "2\"-P-101-1223- FOD1"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0074",
+    "type": "Compressor",
+    "group": "Compressor",
+    "tag": "MIN.",
+    "mounting": "Field-Mounted",
+    "location_xy": "964.2,2030.6",
+    "bounding_box": "949.8,2015.0,978.6,2046.2",
+    "nearby_text": "1206 TE MIN. 3/4"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0075",
+    "type": "Compressor",
+    "group": "Compressor",
+    "tag": "TE 1209",
+    "mounting": "Field-Mounted",
+    "location_xy": "964.5,779.7",
+    "bounding_box": "950.1,764.1,978.9,795.3",
+    "nearby_text": "1209 TE MIN."
+  },
+  {
+    "symbol_id": "01.Marked_p1_0076",
+    "type": "Compressor",
+    "group": "Compressor",
+    "tag": "TE 1207",
+    "mounting": "Field-Mounted",
+    "location_xy": "963.4,1586.3",
+    "bounding_box": "949.0,1570.7,977.8,1601.9",
+    "nearby_text": "1207 TE MIN. 0"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0077",
+    "type": "Analyzer Transmitter",
+    "group": "Instrument",
+    "tag": "AT MID POINT OF",
+    "mounting": "Unknown",
+    "location_xy": "393.7,1243.0",
+    "bounding_box": "372.5,1230.2,414.8,1255.8",
+    "nearby_text": "MAKE CON AT MID PO HEADER F NOTE-3,5 N 36\"x40\" 48\"x40\" 48\"x40\" 40\"x36\""
+  },
+  {
+    "symbol_id": "01.Marked_p1_0078",
+    "type": "Compressor",
+    "group": "Compressor",
+    "tag": "FE-1202",
+    "mounting": "Field-Mounted",
+    "location_xy": "712.6,1476.8",
+    "bounding_box": "698.2,1461.2,727.0,1492.4",
+    "nearby_text": "1202 FT NOTE-4 FF B19A FE-1202 2 A19A FOD101"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0079",
+    "type": "Compressor",
+    "group": "Compressor",
+    "tag": "2\"-P-101-1222-B1A-IT",
+    "mounting": "Field-Mounted",
+    "location_xy": "819.5,1023.8",
+    "bounding_box": "805.1,1008.2,833.9,1039.4",
+    "nearby_text": "01-1222-B1A-IT 203"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0080",
+    "type": "Vessel",
+    "group": "Vessel",
+    "tag": "101-1177",
+    "mounting": "Unknown",
+    "location_xy": "229.4,2311.9",
+    "bounding_box": "215.0,2302.9,243.8,2320.9",
+    "nearby_text": "FLAR 101-1 K"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0081",
+    "type": "Vessel",
+    "group": "Vessel",
+    "tag": "101-1127",
+    "mounting": "Unknown",
+    "location_xy": "351.8,519.1",
+    "bounding_box": "337.4,510.1,366.2,528.1",
+    "nearby_text": "CR COL OV FROM 101-1 101-1 IH"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0082",
+    "type": "Valve (generic)",
+    "group": "Valve",
+    "tag": "CR COL OVHD",
+    "mounting": "Unknown",
+    "location_xy": "1302.2,427.4",
+    "bounding_box": "1287.8,418.4,1316.6,436.4",
+    "nearby_text": "OL OVHD 101 B -1128 -1128 OL OVHD 101 A No. 1 0 14.12 15.11"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0083",
+    "type": "Valve (generic)",
+    "group": "Valve",
+    "tag": "CR COL OVHD",
+    "mounting": "Unknown",
+    "location_xy": "1244.6,427.4",
+    "bounding_box": "1230.2,418.4,1259.0,436.4",
+    "nearby_text": "OL OVHD 101 B OL OVHD 101 C -1128 -1128 ISSUE 3 ISSUE 2 ISSUE 1 0 ISSUE No."
+  },
+  {
+    "symbol_id": "01.Marked_p1_0084",
+    "type": "Vessel",
+    "group": "Vessel",
+    "tag": "CRUDE",
+    "mounting": "Unknown",
+    "location_xy": "531.8,427.3",
+    "bounding_box": "517.4,418.3,546.2,436.3",
+    "nearby_text": "RUDE 103A/B & -1113 5. MAXIM CIRCU 0.1 KG 6. CRUD 209-B1A-IT"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0085",
+    "type": "Density Alarm",
+    "group": "Instrument",
+    "tag": "CR COL OVHD",
+    "mounting": "Unknown",
+    "location_xy": "1359.8,427.4",
+    "bounding_box": "1345.4,418.4,1374.2,436.4",
+    "nearby_text": "-1128 OL OVHD 101 A -1128 No. DA 1 0 14.12 15.11"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0086",
+    "type": "Valve (generic)",
+    "group": "Valve",
+    "tag": "CR COL OVHD",
+    "mounting": "Unknown",
+    "location_xy": "1187.0,427.4",
+    "bounding_box": "1172.6,418.4,1201.4,436.4",
+    "nearby_text": "OL OVHD 101 C OL OVHD 101 D -1128 ISSUE 4 ISSUE 3 ISSUE 2 ISSUE 1 0 ISSUE No"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0087",
+    "type": "Cooler",
+    "group": "Heat Exchanger",
+    "tag": "CRUDE",
+    "mounting": "Unknown",
+    "location_xy": "1187.0,2220.3",
+    "bounding_box": "1172.6,2211.3,1201.4,2229.3",
+    "nearby_text": "RUDE -E-101A/B -1111"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0088",
+    "type": "Vessel",
+    "group": "Vessel",
+    "tag": "101-1148",
+    "mounting": "Unknown",
+    "location_xy": "287.0,519.1",
+    "bounding_box": "272.6,510.1,301.4,528.1",
+    "nearby_text": "CR COL OV FROM WASH W FROM 101 101-1 IH IH"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0089",
+    "type": "Vessel",
+    "group": "Vessel",
+    "tag": "MIN.",
+    "mounting": "Unknown",
+    "location_xy": "891.8,1614.5",
+    "bounding_box": "877.4,1584.8,906.2,1644.2",
+    "nearby_text": "MIN. 2\" 1A-IT 26\"x24\" 0111202"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0090",
+    "type": "Vessel",
+    "group": "Vessel",
+    "tag": "MIN.",
+    "mounting": "Unknown",
+    "location_xy": "891.8,809.0",
+    "bounding_box": "877.4,778.4,906.2,839.6",
+    "nearby_text": "MIN. 2\" 1A-IT 26\"x24\" 01111204"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0091",
+    "type": "Heat Exchanger",
+    "group": "Heat Exchanger",
+    "tag": "",
+    "mounting": "Unknown",
+    "location_xy": "1220.1,862.1",
+    "bounding_box": "1195.5,528.0,1244.8,1196.1",
+    "nearby_text": "TWO P N"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0092",
+    "type": "Vessel",
+    "group": "Vessel",
+    "tag": "FE-1201",
+    "mounting": "Unknown",
+    "location_xy": "712.7,2137.2",
+    "bounding_box": "540.7,2128.0,884.6,2146.4",
+    "nearby_text": "1 FE-1201 01-B19A-IH FF 9"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0093",
+    "type": "Drum",
+    "group": "Vessel",
+    "tag": "",
+    "mounting": "Unknown",
+    "location_xy": "1277.9,1279.7",
+    "bounding_box": "1195.9,528.1,1359.9,2031.3",
+    "nearby_text": ""
+  },
+  {
+    "symbol_id": "01.Marked_p1_0094",
+    "type": "Drum",
+    "group": "Vessel",
+    "tag": "",
+    "mounting": "Unknown",
+    "location_xy": "1249.0,1056.4",
+    "bounding_box": "1195.4,528.0,1302.5,1584.8",
+    "nearby_text": "24"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0095",
+    "type": "Drum",
+    "group": "Vessel",
+    "tag": "SP 036",
+    "mounting": "Unknown",
+    "location_xy": "798.2,2033.4",
+    "bounding_box": "751.0,2002.4,845.4,2064.3",
+    "nearby_text": "NOTE-4 A19A 4 SP 036 B19A"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0096",
+    "type": "Density Transmitter",
+    "group": "Instrument",
+    "tag": "",
+    "mounting": "Unknown",
+    "location_xy": "115.8,1340.7",
+    "bounding_box": "104.7,1305.0,126.9,1376.5",
+    "nearby_text": "OLUMN OVERH (TYPE-C, NOTE-1) S/S DT - 175\u00b0 C DP - 36.7 kg/cm\u00b2g T/S DT - 161.5\u00b0 C DP - 28.2 kg/cm\u00b2g N DUTY - 26.74 MMkcal/hr 4"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0097",
+    "type": "Heat Exchanger",
+    "group": "Heat Exchanger",
+    "tag": "SP 010",
+    "mounting": "Unknown",
+    "location_xy": "812.2,1497.5",
+    "bounding_box": "794.6,1475.0,829.8,1520.0",
+    "nearby_text": "CP 1210 CC 3/4\" SP 010 3/4\" B19A A19A FOD"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0098",
+    "type": "Speed/Safety Valve",
+    "group": "Speed/Safety",
+    "tag": "PSV 1202",
+    "mounting": "Field-Mounted",
+    "location_xy": "706.0,1624.4",
+    "bounding_box": "682.2,1606.4,729.9,1642.4",
+    "nearby_text": "900# . 2\"-SV-101-1202-B PSV 1202 + 36.7 1.5E2 + 3/4\" S x1-1/2\" 2"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0099",
+    "type": "Flow Primary Element",
+    "group": "Instrument",
+    "tag": "SP 112",
+    "mounting": "Unknown",
+    "location_xy": "707.8,743.3",
+    "bounding_box": "690.2,720.8,725.4,765.8",
+    "nearby_text": "NOTE-4 . 2 SP 112 A19A FE-120 B19A"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0100",
+    "type": "Pressure Indicator",
+    "group": "Instrument",
+    "tag": "SP 018",
+    "mounting": "Unknown",
+    "location_xy": "1064.2,691.0",
+    "bounding_box": "1046.6,668.5,1081.8,713.5",
+    "nearby_text": "1215 PI CC CP SP 018"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0101",
+    "type": "Pressure Valve",
+    "group": "Pressure",
+    "tag": "PSV 1203",
+    "mounting": "Field-Mounted",
+    "location_xy": "711.4,1145.6",
+    "bounding_box": "687.7,1127.6,735.2,1163.5",
+    "nearby_text": "SLOPE 1:500 900# 3/4\" 2\"x1-1/2\" PSV 1203 + 3/4\" 2\"-SV-101-1203 36.7 1.5E2 +"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0102",
+    "type": "Speed/Safety Valve",
+    "group": "Speed/Safety",
+    "tag": "1.5E2",
+    "mounting": "Field-Mounted",
+    "location_xy": "670.0,1622.6",
+    "bounding_box": "646.2,1604.6,693.9,1640.6",
+    "nearby_text": "SLOPE 1: 900# 2\"-SV-101-1202-B1A-IT PSV 1202 + 36.7 1.5E2 + S 26\"-P-101-1"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0103",
+    "type": "Vessel",
+    "group": "Vessel",
+    "tag": "SP 110",
+    "mounting": "Unknown",
+    "location_xy": "700.6,1547.9",
+    "bounding_box": "683.0,1525.4,718.2,1570.4",
+    "nearby_text": "S NOTE-4 SP 110 B19A FE-120 26\" A19A"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0104",
+    "type": "Pressure Valve",
+    "group": "Instrument",
+    "tag": "SP 110",
+    "mounting": "Unknown",
+    "location_xy": "734.5,1577.6",
+    "bounding_box": "719.0,1570.4,750.1,1584.8",
+    "nearby_text": "CP 900# N MIN. PSV 1202 + 36.7 3/4\" SP 110 2\" A19A LO"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0105",
+    "type": "Heat Exchanger",
+    "group": "Heat Exchanger",
+    "tag": "SP 111",
+    "mounting": "Unknown",
+    "location_xy": "801.4,1238.3",
+    "bounding_box": "783.8,1215.8,819.0,1260.8",
+    "nearby_text": "NOTE-4 4\" A19A SP 111 4\" B19A"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0106",
+    "type": "Vessel",
+    "group": "Vessel",
+    "tag": "SP 008",
+    "mounting": "Unknown",
+    "location_xy": "1058.3,1945.4",
+    "bounding_box": "934.9,1859.5,1181.7,2031.3",
+    "nearby_text": "CC SP 008 FOD10111120"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0107",
+    "type": "Speed/Safety Valve",
+    "group": "Speed/Safety",
+    "tag": "PSV 1204",
+    "mounting": "Field-Mounted",
+    "location_xy": "700.6,819.8",
+    "bounding_box": "676.9,801.8,724.4,837.7",
+    "nearby_text": "900# S 26 S 2\"-SV-101-1204-B PSV 1204 + 3/4\" 36.7 1.5E2 + -1/2\""
+  },
+  {
+    "symbol_id": "01.Marked_p1_0108",
+    "type": "Speed/Safety Valve",
+    "group": "Speed/Safety",
+    "tag": "PSV 1201",
+    "mounting": "Field-Mounted",
+    "location_xy": "711.4,1952.0",
+    "bounding_box": "687.6,1934.0,735.2,1970.0",
+    "nearby_text": "900# SLOPE 1:500 2\"-SV-101-1201 3/4\" PSV 1201 + 36.7 1.5E2 + 3/4\" 2\"x1-1/2\""
+  },
+  {
+    "symbol_id": "01.Marked_p1_0109",
+    "type": "Vessel",
+    "group": "Vessel",
+    "tag": "SP 014",
+    "mounting": "Unknown",
+    "location_xy": "1058.4,1124.9",
+    "bounding_box": "934.5,1053.8,1182.4,1196.0",
+    "nearby_text": "CC MIN. SP 014 2\" FOD101111"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0110",
+    "type": "Speed/Safety Valve",
+    "group": "Speed/Safety",
+    "tag": "1.5E2",
+    "mounting": "Field-Mounted",
+    "location_xy": "675.4,1953.8",
+    "bounding_box": "651.6,1935.8,699.2,1971.8",
+    "nearby_text": "900# G SLOPE 1:500 2\"-SV-101-1201-B1A-IT PSV 1201 + 36.7 1.5E2 + 26\"-P-101"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0111",
+    "type": "Speed/Safety Valve",
+    "group": "Speed/Safety",
+    "tag": "1.5E2",
+    "mounting": "Field-Mounted",
+    "location_xy": "664.6,819.8",
+    "bounding_box": "640.9,801.8,688.4,837.7",
+    "nearby_text": "SLOPE 1:50 26\"-P-101-12 S 2\"-SV-101-1204-B1A-IT PSV 1204 + 36.7 1.5E2 +"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0112",
+    "type": "Pressure Valve",
+    "group": "Pressure",
+    "tag": "1.5E2",
+    "mounting": "Field-Mounted",
+    "location_xy": "675.4,1145.6",
+    "bounding_box": "651.7,1127.6,699.2,1163.5",
+    "nearby_text": "SLOPE 1:500 900# PSV 1203 + 2\"-SV-101-1203-B1A-IT 36.7 1.5E2 + 26\"-P-101"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0113",
+    "type": "Control Controller",
+    "group": "Instrument",
+    "tag": "SP 016",
+    "mounting": "Unknown",
+    "location_xy": "812.2,691.0",
+    "bounding_box": "794.6,668.5,829.8,713.5",
+    "nearby_text": "CP 1212 CC 3/4\" A19A B19A SP 016 3/4\" FO"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0114",
+    "type": "Heat Exchanger",
+    "group": "Heat Exchanger",
+    "tag": "SP 012",
+    "mounting": "Unknown",
+    "location_xy": "1064.2,1497.5",
+    "bounding_box": "1046.6,1475.0,1081.8,1520.0",
+    "nearby_text": "1206 PI CP CC SP 012"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0115",
+    "type": "Heat Exchanger",
+    "group": "Heat Exchanger",
+    "tag": "",
+    "mounting": "Unknown",
+    "location_xy": "1264.8,378.2",
+    "bounding_box": "1256.8,354.1,1272.9,402.3",
+    "nearby_text": "ISSUED FOR ENGIN 1 0 ISSUED FOR REVIE No."
+  },
+  {
+    "symbol_id": "01.Marked_p1_0116",
+    "type": "Analyzer Switch",
+    "group": "Instrument",
+    "tag": "",
+    "mounting": "Unknown",
+    "location_xy": "1298.3,324.0",
+    "bounding_box": "1282.8,307.3,1313.8,340.8",
+    "nearby_text": "REVISIONS 14.12.18 15.11.18 REVISED AS MARKED ISSUED FOR PACKAGE"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0117",
+    "type": "Pressure Valve",
+    "group": "Instrument",
+    "tag": "",
+    "mounting": "Unknown",
+    "location_xy": "1234.1,28.9",
+    "bounding_box": "1228.1,20.1,1240.1,37.6",
+    "nearby_text": "MW MW KG KG KG PV VD C PV VD C SG RS B SG RS SG RS CKD APPD ATIONAL BHD"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0118",
+    "type": "Compressor",
+    "group": "Compressor",
+    "tag": "",
+    "mounting": "Field-Mounted",
+    "location_xy": "1405.3,212.6",
+    "bounding_box": "1375.4,190.0,1435.2,235.3",
+    "nearby_text": "SIONS DRN (A Gov EN IND RAJASTHAN RE S.K.L"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0119",
+    "type": "Complex Equipment",
+    "group": "Unknown",
+    "tag": "",
+    "mounting": "Unknown",
+    "location_xy": "1415.5,291.9",
+    "bounding_box": "1381.2,260.4,1449.8,323.4",
+    "nearby_text": "REVISIONS HPCL RAJAS"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0120",
+    "type": "Complex Equipment",
+    "group": "Unknown",
+    "tag": "",
+    "mounting": "Unknown",
+    "location_xy": "1414.9,345.9",
+    "bounding_box": "1401.7,329.4,1428.1,362.4",
+    "nearby_text": "RE No. DATE HPCL"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0121",
+    "type": "Temperature Recorder",
+    "group": "Instrument",
+    "tag": "PIPING AND INSTRUMENTATION DIAGRAM",
+    "mounting": "Unknown",
+    "location_xy": "1515.3,222.8",
+    "bounding_box": "1506.4,202.2,1524.2,243.4",
+    "nearby_text": "RUDE PREHEAT TR E/VACUUM DISTILLA NSTRUMENTATI RAJASTHAN R STHAN REFINE"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0122",
+    "type": "Density Indicator",
+    "group": "Instrument",
+    "tag": "RAJASTHAN REFINERY PROJECT",
+    "mounting": "Unknown",
+    "location_xy": "1513.3,181.6",
+    "bounding_box": "1506.4,173.4,1520.3,189.9",
+    "nearby_text": "PREHEAT TRAIN 1B UUM DISTILLATION UMENTATION DI ASTHAN REFIN AN REFINERY P"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0123",
+    "type": "Control Recorder",
+    "group": "Instrument",
+    "tag": "",
+    "mounting": "Unknown",
+    "location_xy": "1514.3,337.2",
+    "bounding_box": "1506.4,317.6,1522.3,356.7",
+    "nearby_text": "CR CRUDE PIPING AND IN HPCL R RAJAS"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0124",
+    "type": "Complex Equipment",
+    "group": "Unknown",
+    "tag": "INDIA LIMITED",
+    "mounting": "Unknown",
+    "location_xy": "1442.4,69.9",
+    "bounding_box": "1435.0,48.3,1449.8,91.5",
+    "nearby_text": "dia Undertaking) NEERS A LIMITED NERY LTD PROJECT"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0125",
+    "type": "Valve (generic)",
+    "group": "Valve",
+    "tag": "(A Govt. of India Undertaking)",
+    "mounting": "Unknown",
+    "location_xy": "1443.4,144.0",
+    "bounding_box": "1435.0,127.0,1451.9,160.9",
+    "nearby_text": "(A Govt. of India Undertaking) ENGINEER INDIA LIMIT HAN REFINERY EFINERY PROJ"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0126",
+    "type": "Instrument",
+    "group": "Instrument",
+    "tag": "",
+    "mounting": "Field-Mounted",
+    "location_xy": "431.0,231.1",
+    "bounding_box": "416.6,216.7,445.4,245.5",
+    "nearby_text": "26\" CRUDE OVHD VAP. WATER INJECTION ELBOW"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0127",
+    "type": "Unknown",
+    "group": "Unknown",
+    "tag": "",
+    "mounting": "Unknown",
+    "location_xy": "438.2,267.1",
+    "bounding_box": "431.0,259.9,445.4,274.3",
+    "nearby_text": "CRUDE OVHD WATER INJECTIO"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0128",
+    "type": "Temperature Primary Element",
+    "group": "Instrument",
+    "tag": "",
+    "mounting": "Unknown",
+    "location_xy": "456.2,303.1",
+    "bounding_box": "438.2,294.1,474.2,312.2",
+    "nearby_text": "CRU WATER THE INJECTION NOZZLE"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0129",
+    "type": "Unknown",
+    "group": "Unknown",
+    "tag": "",
+    "mounting": "Unknown",
+    "location_xy": "420.2,144.7",
+    "bounding_box": "402.2,135.7,438.2,153.8",
+    "nearby_text": "26\" VAP."
+  },
+  {
+    "symbol_id": "01.Marked_p1_0130",
+    "type": "Instrument",
+    "group": "Instrument",
+    "tag": "S2",
+    "mounting": "Field-Mounted",
+    "location_xy": "853.9,1727.4",
+    "bounding_box": "837.6,1713.1,870.2,1741.8",
+    "nearby_text": "300# S2 A 2\"-P-101-1221-B1A T1 FOD101"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0131",
+    "type": "Valve (generic)",
+    "group": "Valve",
+    "tag": "2\"-P-101-1220-B1A-IT",
+    "mounting": "Unknown",
+    "location_xy": "852.8,1852.8",
+    "bounding_box": "832.0,1836.6,873.7,1868.9",
+    "nearby_text": "300# LO S2 FB \"x24\" 2\"-P-101-1220-B1A-IT T1 111201"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0132",
+    "type": "Valve (generic)",
+    "group": "Valve",
+    "tag": "S2",
+    "mounting": "Unknown",
+    "location_xy": "853.1,920.3",
+    "bounding_box": "833.3,906.9,872.9,933.7",
+    "nearby_text": "300# 2\"-P-101-1223-B1A S2 T1 FOD101"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0133",
+    "type": "Valve (generic)",
+    "group": "Valve",
+    "tag": "2\"-P-101-1222-B1A-IT",
+    "mounting": "Unknown",
+    "location_xy": "852.2,1045.8",
+    "bounding_box": "830.6,1029.9,873.8,1061.8",
+    "nearby_text": "300# T1 FB S2 2\"-P-101-1222-B1A-IT LO 24\" 111203"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0134",
+    "type": "Instrument",
+    "group": "Instrument",
+    "tag": "FOD101111206",
+    "mounting": "Field-Mounted",
+    "location_xy": "734.2,1439.6",
+    "bounding_box": "714.6,1419.8,753.9,1459.4",
+    "nearby_text": "1202 FACING E-4 9A 1202 FOD101111206"
+  },
+  {
+    "symbol_id": "01.Marked_p1_0135",
+    "type": "Instrument",
+    "group": "Instrument",
+    "tag": "MIN.",
+    "mounting": "Field-Mounted",
+    "location_xy": "995.1,1619.6",
+    "bounding_box": "974.5,1600.3,1015.7,1638.9",
+    "nearby_text": "MIN. 111210"
+  }
+]

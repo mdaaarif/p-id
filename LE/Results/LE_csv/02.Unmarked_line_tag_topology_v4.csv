@@ -1,0 +1,801 @@
+Line_ID,Line_Type,Line_Style,Num_Segments,line_tag,x_start,y_start,x_end,y_end,tag_start,tag_end,Confidence_Score,type_start,type_end
+1,Elbow,Solid,4,,332.0,897.0,339.0,1018.0,OPEN,OPEN,0.092,,
+2,Elbow,Solid,4,"12""-P-101-1201-B1A-IT",334.0,957.0,7542.0,3657.0,OPEN,S2,0.877,,Equipment
+3,Horizontal,,1,,7802.0,1137.0,8183.0,1137.0,OPEN,OPEN,0.0,,
+4,Horizontal,,1,,7805.0,1257.0,8183.0,1257.0,OPEN,OPEN,0.0,,
+5,Horizontal,,1,,7802.0,1407.0,8183.0,1407.0,OPEN,OPEN,0.0,,
+6,Horizontal,,1,,7805.0,1527.0,8183.0,1527.0,OPEN,OPEN,0.0,,
+7,Vertical,,1,,7807.0,1134.0,7807.0,1258.0,OPEN,OPEN,0.0,,
+8,Vertical,,1,,7809.0,1409.0,7809.0,1528.0,OPEN,OPEN,0.0,,
+9,Vertical,,1,,7807.0,1134.0,7807.0,1254.0,OPEN,OPEN,0.0,,
+10,Horizontal,Solid,1,"24""-P-101-1216-A19A-IS",946.0,1197.0,8183.0,1197.0,OPEN,OPEN,0.632,,
+11,Horizontal,Solid,1,,5661.0,1452.0,5874.0,1452.0,OPEN,OPEN,0.0,,
+12,Elbow,Solid,2,,4713.0,1708.0,8183.0,1467.0,OPEN,OPEN,0.0,,
+13,Horizontal,Solid,1,"24""-P-101-1217-A19A-IS",2728.0,1692.0,2941.0,1692.0,OPEN,OPEN,0.349,,
+14,Horizontal,Solid,1,"24""-P-101-1217-A19A-IS",1446.0,1707.0,6832.0,1707.0,OPEN,OPEN,0.828,,
+15,Elbow,Solid,4,"12""-P-101-1202-B1A-IT",6868.0,2167.0,6972.0,2097.0,OPEN,OPEN,0.242,,
+16,Elbow,Solid,6,,833.0,2232.0,7734.0,2232.0,OPEN,OPEN,0.835,,
+17,Elbow,Solid,2,,838.0,4950.0,8118.0,2218.0,OPEN,CP 1205,0.807,,Corrosion Monitoring System
+18,Horizontal,Solid,1,,1860.0,2254.0,1929.0,2254.0,OPEN,OPEN,0.0,,
+19,Horizontal,Solid,1,,6119.0,2291.0,6253.0,2289.0,CP 1206,CP 1206,0.635,Corrosion Monitoring System,Corrosion Monitoring System
+20,Straight,Solid,2,"12""-P-101-1203-B1A-IT",4185.0,2368.0,4335.0,2367.0,OPEN,SP 014,0.87,,Special Piping Item
+21,Horizontal,Solid,1,,6138.0,2439.0,6215.0,2441.0,SP 012,SP 012,0.694,Special Piping Item,Special Piping Item
+22,Elbow,Solid,4,"24""-P-101-1219-A19A-IS",2120.0,2439.0,2218.0,2289.0,OPEN,OPEN,0.451,,
+23,Elbow,Solid,4,,2313.0,2397.0,2313.0,2827.0,OPEN,TI 1209,0.42,,Instrument
+24,Straight,Solid,2,"12""-P-101-1203-B1A-IT",4185.0,2561.0,4335.0,2561.0,OPEN,SP 014,0.739,,Special Piping Item
+25,Straight,Solid,2,"12""-P-101-1204-B1A-IT",3942.0,2576.0,3961.0,2573.0,OPEN,OPEN,0.711,,
+26,Elbow,Solid,2,,4646.0,2576.0,4738.0,2427.0,SP 014,CC,0.989,Special Piping Item,Corrosion Monitoring System
+27,Elbow,Solid,4,,1228.0,2574.0,1575.0,2577.0,OPEN,OPEN,0.0,,
+28,Horizontal,,1,,2625.0,2578.0,2665.0,2578.0,SP 018,SP 018,0.498,Special Piping Item,Special Piping Item
+29,Vertical,,1,,2672.0,2245.0,2672.0,2457.0,OPEN,SP 018,0.453,,Special Piping Item
+30,Vertical,,1,,2672.0,2946.0,2672.0,3088.0,TI 1209,TI 1209,0.803,Instrument,Instrument
+31,Vertical,,1,,2673.0,2478.0,2673.0,2584.0,SP 018,SP 018,0.514,Special Piping Item,Special Piping Item
+32,Vertical,,1,,2673.0,2638.0,2673.0,2694.0,SP 018,TI 1209,0.596,Special Piping Item,Instrument
+33,Vertical,,1,,2673.0,2721.0,2673.0,2777.0,TI 1209,TI 1209,0.743,Instrument,Instrument
+34,Vertical,,1,,2673.0,2836.0,2673.0,2888.0,TI 1209,TI 1209,0.85,Instrument,Instrument
+35,Vertical,,1,,2673.0,3110.0,2673.0,3166.0,A19A,A19A,0.618,Equipment,Equipment
+36,Vertical,,1,,2673.0,3334.0,2673.0,3374.0,A19A,A19A,0.721,Equipment,Equipment
+37,Horizontal,Solid,1,,3389.0,2846.0,3509.0,2844.0,TE 1209,T2,0.374,Sensor,Equipment
+38,Horizontal,Solid,1,,6068.0,2844.0,6122.0,2846.0,TI 1207,TT 1207,0.832,Instrument,Instrument
+39,Straight,Solid,2,,7128.0,2961.0,7128.0,2965.0,S1,S1,0.887,Equipment,Equipment
+40,Straight,Solid,2,,1129.0,2966.0,1194.0,2966.0,OPEN,OPEN,0.0,,
+41,Horizontal,,1,,3768.0,2967.0,3834.0,2967.0,S1,S1,0.892,Equipment,Equipment
+42,Horizontal,,1,,3332.0,3115.0,3608.0,3115.0,TE 1209,T2,0.68,Sensor,Equipment
+43,Horizontal,,1,,3702.0,3116.0,3783.0,3116.0,T2,T2,0.908,Equipment,Equipment
+44,Vertical,,1,,3776.0,1199.0,3776.0,3118.0,OPEN,T2,0.971,,Equipment
+45,Horizontal,,1,,3770.0,2964.0,3834.0,2964.0,S1,S1,0.886,Equipment,Equipment
+46,Vertical,,1,,3768.0,2961.0,3773.0,3117.0,S1,T2,0.98,Equipment,Equipment
+47,Horizontal,,1,,3336.0,3114.0,3617.0,3114.0,TE 1209,T2,0.697,Sensor,Equipment
+48,Straight,Solid,2,,5413.0,3023.0,5674.0,3024.0,TT 1208,TI 1208,0.712,Instrument,Instrument
+49,Straight,Solid,2,,1962.0,3026.0,2314.0,3028.0,OPEN,A11A,0.416,,Equipment
+50,Straight,Solid,3,,2800.0,3026.0,3061.0,3027.0,TT 1209,TE 1209,0.717,Instrument,Sensor
+51,Elbow,Solid,2,,1964.0,2984.0,2142.0,3041.0,OPEN,A11A,0.242,,Equipment
+52,Elbow,Solid,3,,6693.0,3117.0,7142.0,1199.0,TE 1207,OPEN,0.961,Sensor,
+53,Horizontal,Solid,1,,5257.0,3140.0,5318.0,3140.0,A19A,A19A,0.61,Equipment,Equipment
+54,Straight,Solid,2,,5452.0,3175.0,5454.0,3176.0,A19A,A19A,0.809,Equipment,Equipment
+55,Straight,Solid,2,,6959.0,3312.0,7149.0,3311.0,T1,T1,0.965,Equipment,Equipment
+56,Horizontal,Solid,1,"2""-P-101-1223-B1A-IT",3333.0,3327.0,3425.0,3327.0,CC,T1,0.356,Corrosion Monitoring System,Equipment
+57,Elbow,Solid,2,,816.0,3335.0,878.0,3261.0,OPEN,OPEN,0.0,,
+58,Elbow,Solid,2,,6396.0,3342.0,6458.0,3261.0,CC,CC,0.616,Corrosion Monitoring System,Corrosion Monitoring System
+59,Elbow,Solid,3,,3037.0,3372.0,3106.0,3359.0,CC,CC,0.675,Corrosion Monitoring System,Corrosion Monitoring System
+60,Horizontal,,1,,1896.0,3372.0,1957.0,3372.0,OPEN,OPEN,0.068,,
+61,Vertical,,1,,1958.0,3291.0,1958.0,3372.0,OPEN,OPEN,0.081,,
+62,Horizontal,,1,,2005.0,3177.0,2094.0,3177.0,OPEN,A11A,0.307,,Equipment
+63,Horizontal,,1,,1965.0,3354.0,2012.0,3354.0,OPEN,OPEN,0.182,,
+64,Vertical,,1,,1967.0,3289.0,1969.0,3350.0,OPEN,OPEN,0.1,,
+65,Vertical,,1,,2000.0,3237.0,2005.0,3176.0,OPEN,OPEN,0.155,,
+66,Vertical,,1,,2003.0,3354.0,2005.0,3291.0,OPEN,OPEN,0.175,,
+67,Elbow,Solid,3,,5646.0,3462.0,5708.0,3381.0,A11A,A11A,0.778,Equipment,Equipment
+68,Horizontal,Solid,1,,6006.0,3462.0,6068.0,3462.0,A19A,A19A,0.603,Equipment,Equipment
+69,Straight,Solid,2,"2""-P-101-1221-B1A-IT",6996.0,3505.0,7285.0,3505.0,T1,S2,0.935,Equipment,Equipment
+70,Straight,Solid,4,"2""-P-101-1222-B1A-IT",4496.0,3500.0,4952.0,3507.0,T1,A19A,0.901,Equipment,Equipment
+71,Horizontal,Solid,1,,3333.0,3507.0,3425.0,3506.0,CC,CC,0.488,Corrosion Monitoring System,Corrosion Monitoring System
+72,Horizontal,Solid,1,,6692.0,3506.0,6785.0,3506.0,CC,CC,0.49,Corrosion Monitoring System,Corrosion Monitoring System
+73,Straight,Solid,3,,1136.0,3505.0,1470.0,3506.0,OPEN,OPEN,0.0,,
+74,Straight,Solid,2,"2""-P-101-1221-B1A-IT",6996.0,3520.0,7270.0,3522.0,T1,S2,0.909,Equipment,Equipment
+75,Straight,Solid,3,,2696.0,3567.0,3062.0,3562.0,SP 016,CC,0.935,Special Piping Item,Corrosion Monitoring System
+76,Elbow,Solid,3,,5281.0,2935.0,5674.0,3567.0,TT 1208,A11A,0.928,Instrument,Equipment
+77,Elbow,Solid,4,,1921.0,2935.0,2229.0,3567.0,OPEN,A11A,0.348,,Equipment
+78,Horizontal,Solid,1,,4881.0,3566.0,4951.0,3567.0,A19A,A19A,0.564,Equipment,Equipment
+79,Horizontal,Solid,1,,6035.0,3568.0,6433.0,3568.0,SP 010,CC,0.931,Special Piping Item,Corrosion Monitoring System
+80,Horizontal,Solid,1,,5313.0,3581.0,5403.0,3581.0,B19A,B19A,0.732,Equipment,Equipment
+81,Straight,Solid,2,"2""-P-101-1221-B1A-IT",6693.0,3656.0,7068.0,3657.0,CP 1210,S2,0.648,Corrosion Monitoring System,Equipment
+82,Elbow,Solid,2,"12""-P-101-1203-B1A-IT",3327.0,3657.0,4231.0,1044.0,CP 1212,OPEN,0.875,Corrosion Monitoring System,
+83,Horizontal,Solid,1,"2""-WP-101-1203-B19A-IH",5646.0,3670.0,5708.0,3670.0,A11A,A11A,0.587,Equipment,Equipment
+84,Elbow,Solid,4,,6006.0,3670.0,6068.0,4002.0,SP 010,FT 1202,0.625,Special Piping Item,Instrument
+85,Horizontal,Solid,1,,2286.0,3672.0,2348.0,3672.0,A11A,A11A,0.245,Equipment,Equipment
+86,Horizontal,Solid,1,,1500.0,3687.0,1592.0,3684.0,OPEN,OPEN,0.0,,
+87,Straight,Solid,2,"2""-WP-101-1203-B19A-IH",5625.0,3696.0,5650.0,3687.0,OPEN,OPEN,0.648,,
+88,Straight,Solid,2,,2262.0,3686.0,2348.0,3688.0,OPEN,A11A,0.217,,Equipment
+89,Elbow,Solid,2,,4351.0,1044.0,4952.0,3687.0,OPEN,SP 111,0.942,,Special Piping Item
+90,Horizontal,,1,,6149.0,3711.0,6188.0,3711.0,SP 010,SP 010,0.762,Special Piping Item,Special Piping Item
+91,Horizontal,,1,,5994.0,3716.0,6059.0,3716.0,SP 010,SP 010,0.534,Special Piping Item,Special Piping Item
+92,Horizontal,,1,,5993.0,3719.0,6067.0,3719.0,SP 010,SP 010,0.547,Special Piping Item,Special Piping Item
+93,Horizontal,,1,,6160.0,3961.0,6194.0,3960.0,B19A,B19A,0.756,Equipment,Equipment
+94,Vertical,,1,,6154.0,3713.0,6154.0,3960.0,SP 010,B19A,0.793,Special Piping Item,Equipment
+95,Vertical,,1,,6180.0,3957.0,6181.0,3884.0,B19A,B19A,0.837,Equipment,Equipment
+96,Vertical,,1,,6175.0,3766.0,6188.0,3715.0,B19A,SP 010,0.757,Equipment,Special Piping Item
+97,Vertical,,1,,6183.0,3579.0,6184.0,3521.0,SP 010,SP 010,0.787,Special Piping Item,Special Piping Item
+98,Straight,Solid,2,"2""-WP-101-1203-B19A-IH",5638.0,3716.0,5703.0,3716.0,OPEN,OPEN,0.645,,
+99,Straight,Solid,2,,2634.0,3717.0,2707.0,3717.0,SP 016,SP 016,0.549,Special Piping Item,Special Piping Item
+100,Straight,Solid,3,,2154.0,3720.0,2185.0,3720.0,OPEN,OPEN,0.154,,
+101,Horizontal,,1,,6551.0,3775.0,6692.0,3775.0,CP 1210,CP 1210,0.729,Corrosion Monitoring System,Corrosion Monitoring System
+102,Horizontal,,1,,6325.0,3773.0,6392.0,3776.0,A19A,A19A,0.838,Equipment,Equipment
+103,Horizontal,,1,,6098.0,3776.0,6234.0,3776.0,B19A,B19A,0.833,Equipment,Equipment
+104,Horizontal,,1,,5949.0,3893.0,6692.0,3893.0,B19A,PSV 1202,0.926,Equipment,Pressure Safety Valve
+105,Horizontal,,1,"2""-WP-101-1203-B19A-IH",5653.0,3895.0,5778.0,3895.0,FE-1203,FT 1202,0.542,Sensor,Instrument
+106,Horizontal,,1,"2""-WP-101-1203-B19A-IH",5429.0,3895.0,5571.0,3895.0,SP 111,FE-1203,0.743,Special Piping Item,Sensor
+107,Horizontal,,1,"2""-WP-101-1203-B19A-IH",5327.0,3897.0,5383.0,3897.0,SP 111,SP 111,0.693,Special Piping Item,Special Piping Item
+108,Vertical,,1,,6691.0,1709.0,6691.0,3778.0,OPEN,CP 1210,0.502,,Corrosion Monitoring System
+109,Vertical,,1,,6690.0,3973.0,6692.0,3894.0,PSV 1202,PSV 1202,0.745,Pressure Safety Valve,Pressure Safety Valve
+110,Horizontal,,1,,5085.0,3775.0,5170.0,3775.0,SP 111,SP 111,0.796,Special Piping Item,Special Piping Item
+111,Horizontal,,1,,4971.0,3777.0,5013.0,3777.0,SP 111,SP 111,0.582,Special Piping Item,Special Piping Item
+112,Horizontal,,1,"2""-WP-101-1203-B19A-IH",5437.0,3776.0,5612.0,3776.0,SP 111,OPEN,0.981,Special Piping Item,
+113,Horizontal,,1,"2""-WP-101-1203-B19A-IH",5676.0,3777.0,5775.0,3776.0,OPEN,OPEN,0.575,,
+114,Horizontal,,1,"3""-FL-101-1203-A11A",5626.0,4437.0,5673.0,4437.0,FF,FF,0.84,Piping Component,Piping Component
+115,Horizontal,,1,"3""-FL-101-1203-A11A",5626.0,4697.0,5673.0,4697.0,FF,FF,0.638,Piping Component,Piping Component
+116,Vertical,,1,,5671.0,3959.0,5673.0,4094.0,FE-1203,FE-1203,0.551,Sensor,Sensor
+117,Vertical,,1,,5673.0,2221.0,5673.0,3777.0,OPEN,OPEN,0.91,,
+118,Vertical,,1,,5673.0,4271.0,5673.0,4327.0,FE-1203,FF,0.672,Sensor,Piping Component
+119,Vertical,,1,"3""-FL-101-1203-A11A",5673.0,4378.0,5673.0,4433.0,FF,FF,0.795,Piping Component,Piping Component
+120,Vertical,,1,"3""-FL-101-1203-A11A",5673.0,4455.0,5673.0,4511.0,FF,FF,0.881,Piping Component,Piping Component
+121,Vertical,,1,"3""-FL-101-1203-A11A",5673.0,4532.0,5673.0,4588.0,FF,FF,0.877,Piping Component,Piping Component
+122,Vertical,,1,"3""-FL-101-1203-A11A",5673.0,4694.0,5673.0,4750.0,FF,FF,0.625,Piping Component,Piping Component
+123,Horizontal,,1,,4947.0,3893.0,5049.0,3893.0,PSV 1203,SP 111,0.529,Pressure Safety Valve,Special Piping Item
+124,Horizontal,,1,"36""-P-101-1210-A19A-IH",4947.0,5187.0,8117.0,5187.0,OPEN,OPEN,0.692,,
+125,Vertical,,1,,4951.0,1709.0,4951.0,3772.0,OPEN,SP 111,0.736,,Special Piping Item
+126,Vertical,,1,,4951.0,3893.0,4951.0,5188.0,PSV 1203,OPEN,0.997,Pressure Safety Valve,
+127,Horizontal,,1,,4618.0,4136.0,4712.0,4136.0,PSV 1203,PSV 1203,0.792,Pressure Safety Valve,Pressure Safety Valve
+128,Horizontal,,1,"2""-WP-101-1203-B19A-IH",5191.0,3778.0,5391.0,3778.0,SP 111,SP 111,0.853,Special Piping Item,Special Piping Item
+129,Horizontal,,1,,6315.0,3779.0,6601.0,3779.0,A19A,CP 1210,0.846,Equipment,Corrosion Monitoring System
+130,Horizontal,,1,"2""-WP-101-1203-B19A-IH",5423.0,3774.0,5631.0,3774.0,SP 111,OPEN,0.985,Special Piping Item,
+131,Horizontal,,1,"2""-WP-101-1203-B19A-IH",5737.0,3772.0,5776.0,3773.0,OPEN,OPEN,0.453,,
+132,Horizontal,,1,,5924.0,3776.0,6291.0,3776.0,B19A,B19A,0.84,Equipment,Equipment
+133,Horizontal,,1,,4948.0,3776.0,5078.0,3776.0,SP 111,SP 111,0.691,Special Piping Item,Special Piping Item
+134,Horizontal,,1,,6622.0,3777.0,6692.0,3778.0,CP 1210,CP 1210,0.604,Corrosion Monitoring System,Corrosion Monitoring System
+135,Horizontal,,1,,4947.0,3899.0,5099.0,3899.0,PSV 1203,SP 111,0.537,Pressure Safety Valve,Special Piping Item
+136,Horizontal,,1,,4858.0,4134.0,4952.0,4134.0,SLOPE 1:500,SLOPE 1:500,0.949,Sensor,Sensor
+137,Horizontal,,1,,4618.0,4137.0,4712.0,4134.0,PSV 1203,PSV 1203,0.795,Pressure Safety Valve,Pressure Safety Valve
+138,Horizontal,,1,,4411.0,4136.0,4472.0,4136.0,TE 1203,TE 1203,0.929,Sensor,Sensor
+139,Vertical,,1,,4947.0,3893.0,4947.0,4134.0,PSV 1203,SLOPE 1:500,0.947,Pressure Safety Valve,Sensor
+140,Horizontal,,1,"2""-WP-101-1203-B19A-IH",5481.0,3898.0,5652.0,3898.0,FE-1203,FE-1203,0.735,Sensor,Sensor
+141,Vertical,,1,"2""-WP-101-1203-B19A-IH",5480.0,3794.0,5480.0,3897.0,SP 111,FE-1203,0.936,Special Piping Item,Sensor
+142,Horizontal,,1,,6596.0,3908.0,6691.0,3900.0,SP 110,PSV 1202,0.619,Special Piping Item,Pressure Safety Valve
+143,Vertical,,1,"2""-WP-101-1203-B19A-IH",5671.0,3661.0,5671.0,3777.0,A11A,OPEN,0.585,Equipment,
+144,Vertical,,1,,6691.0,4098.0,6695.0,3968.0,PSV 1202,PSV 1202,0.847,Pressure Safety Valve,Pressure Safety Valve
+145,Straight,Solid,4,,1640.0,3776.0,2366.0,3777.0,OPEN,OPEN,0.042,,
+146,Horizontal,,1,,2590.0,3777.0,3332.0,3777.0,B19A,CP 1212,0.841,Equipment,Corrosion Monitoring System
+147,Horizontal,,1,,1480.0,3894.0,1712.0,3894.0,OPEN,OPEN,0.0,,
+148,Horizontal,,1,,2563.0,3895.0,2736.0,3895.0,FT 1204,B19A,0.653,Instrument,Equipment
+149,Horizontal,,1,,3240.0,3897.0,3332.0,3897.0,SP 112,PSV 1204,0.6,Special Piping Item,Pressure Safety Valve
+150,Horizontal,,1,,1851.0,3895.0,2055.0,3895.0,OPEN,OPEN,0.0,,
+151,Horizontal,,1,,2109.0,3896.0,2252.0,3896.0,OPEN,OPEN,0.031,,
+152,Horizontal,,1,,2910.0,3895.0,3201.0,3895.0,B19A,SP 112,0.923,Equipment,Special Piping Item
+153,Horizontal,,1,,2352.0,3896.0,2418.0,3896.0,OPEN,FT 1204,0.259,,Instrument
+154,Horizontal,,1,,1761.0,3897.0,1817.0,3897.0,OPEN,OPEN,0.0,,
+155,Horizontal,,1,,2816.0,3897.0,2871.0,3897.0,B19A,B19A,0.894,Equipment,Equipment
+156,Horizontal,,1,,1467.0,5667.0,8117.0,5667.0,OPEN,OPEN,0.901,,
+157,Vertical,,1,,1471.0,3893.0,1471.0,5668.0,OPEN,OPEN,0.0,,
+158,Vertical,,1,"26""-P-101-1215-A19A-IH",3330.0,4397.0,3330.0,4513.0,SLOPE 1:500,SLOPE 1:500,0.887,Sensor,Sensor
+159,Vertical,,1,,3331.0,1709.0,3331.0,3778.0,OPEN,CP 1212,0.495,,Corrosion Monitoring System
+160,Vertical,,1,,3330.0,3973.0,3332.0,3894.0,PSV 1204,PSV 1204,0.699,Pressure Safety Valve,Pressure Safety Valve
+161,Vertical,,1,,3331.0,4148.0,3331.0,4264.0,PSV 1204,PSV 1204,0.801,Pressure Safety Valve,Pressure Safety Valve
+162,Horizontal,,1,"26""-P-101-1215-A19A-IH",3327.0,4708.0,3425.0,4706.0,TW 1210,TW 1210,0.573,Thermowell,Thermowell
+163,Horizontal,,1,,2729.0,3778.0,2820.0,3779.0,B19A,B19A,0.77,Equipment,Equipment
+164,Vertical,,1,,2723.0,3778.0,2729.0,3893.0,B19A,B19A,0.645,Equipment,Equipment
+165,Horizontal,,1,,1998.0,3895.0,2418.0,3895.0,OPEN,FT 1204,0.257,,Instrument
+166,Horizontal,,1,,3145.0,3896.0,3331.0,3896.0,A19A,PSV 1204,0.715,Equipment,Pressure Safety Valve
+167,Horizontal,,1,,1468.0,3900.0,1635.0,3900.0,OPEN,OPEN,0.0,,
+168,Vertical,,1,"26""-P-101-1215-A19A-IH",3331.0,4396.0,3332.0,4317.0,SLOPE 1:500,SLOPE 1:500,0.76,Sensor,Sensor
+169,Vertical,,1,"26""-P-101-1215-A19A-IH",3332.0,4578.0,3332.0,4708.0,SLOPE 1:500,TW 1210,0.807,Sensor,Thermowell
+170,Vertical,,1,,3331.0,4147.0,3334.0,3968.0,PSV 1204,PSV 1204,0.832,Pressure Safety Valve,Pressure Safety Valve
+171,Straight,Solid,2,,2273.0,3952.0,2347.0,3955.0,OPEN,FT 1204,0.253,,Instrument
+172,Horizontal,Solid,1,,2269.0,3986.0,2348.0,3986.0,OPEN,FT 1204,0.293,,Instrument
+173,Horizontal,Solid,1,,3932.0,3989.0,4415.0,3989.0,TE 1204,TE 1203,0.634,Sensor,Sensor
+174,Straight,Solid,2,,5624.0,3993.0,5708.0,3993.0,FE-1203,FE-1203,0.447,Sensor,Sensor
+175,Horizontal,,1,,1446.0,4061.0,1495.0,4061.0,OPEN,OPEN,0.0,,
+176,Horizontal,,1,,1291.0,4062.0,1321.0,4062.0,OPEN,OPEN,0.0,,
+177,Horizontal,,1,,1501.0,4208.0,1531.0,4207.0,OPEN,OPEN,0.0,,
+178,Horizontal,,1,,1290.0,4209.0,1321.0,4209.0,OPEN,OPEN,0.0,,
+179,Horizontal,,1,,1290.0,4060.0,1321.0,4060.0,OPEN,OPEN,0.0,,
+180,Horizontal,,1,,1290.0,4211.0,1321.0,4211.0,OPEN,OPEN,0.0,,
+181,Horizontal,,1,,1290.0,4300.0,1321.0,4300.0,OPEN,OPEN,0.0,,
+182,Horizontal,,1,,991.0,4449.0,1141.0,4449.0,OPEN,OPEN,0.0,,
+183,Horizontal,,1,,1290.0,4451.0,1320.0,4451.0,OPEN,OPEN,0.0,,
+184,Vertical,,1,,1138.0,4299.0,1138.0,4452.0,OPEN,OPEN,0.0,,
+185,Vertical,,1,,1140.0,4121.0,1140.0,4151.0,OPEN,OPEN,0.0,,
+186,Vertical,,1,,1292.0,4524.0,1293.0,4449.0,OPEN,OPEN,0.0,,
+187,Vertical,,1,,1295.0,4300.0,1295.0,4359.0,OPEN,OPEN,0.0,,
+188,Vertical,,1,,1295.0,4062.0,1296.0,4118.0,OPEN,OPEN,0.0,,
+189,Vertical,,1,,1315.0,4300.0,1315.0,4524.0,OPEN,OPEN,0.0,,
+190,Vertical,,1,,1314.0,4059.0,1314.0,4211.0,OPEN,OPEN,0.0,,
+191,Horizontal,,1,,4012.0,4059.0,4051.0,4061.0,TE 1204,TE 1204,0.408,Sensor,Sensor
+192,Horizontal,,1,,4229.0,4060.0,4381.0,4060.0,TE 1203,TE 1203,0.758,Sensor,Sensor
+193,Horizontal,,1,,4306.0,4209.0,4381.0,4212.0,TE 1203,TE 1203,0.876,Sensor,Sensor
+194,Horizontal,,1,,3970.0,4061.0,4051.0,4061.0,TE 1204,TE 1204,0.486,Sensor,Sensor
+195,Horizontal,,1,,3716.0,4208.0,3755.0,4208.0,TE 1204,TE 1204,0.927,Sensor,Sensor
+196,Horizontal,,1,,3901.0,4209.0,4051.0,4209.0,TE 1204,TE 1204,0.665,Sensor,Sensor
+197,Vertical,,1,,4048.0,4059.0,4048.0,4212.0,TE 1204,TE 1204,0.38,Sensor,Sensor
+198,Vertical,,1,,4378.0,4059.0,4378.0,4212.0,TE 1203,TE 1203,0.9,Sensor,Sensor
+199,Horizontal,Solid,1,,6928.0,4136.0,7011.0,4135.0,PSV 1202,TE 1202,0.783,Pressure Safety Valve,Sensor
+200,Straight,Solid,2,,1138.0,4133.0,1150.0,4136.0,OPEN,OPEN,0.0,,
+201,Straight,Solid,3,,3332.0,4135.0,3421.0,4135.0,PSV 1204,PSV 1204,0.923,Pressure Safety Valve,Pressure Safety Valve
+202,Elbow,Solid,4,,2348.0,4101.0,2348.0,4182.0,FI 1204 B,FI 1204 B,0.573,Instrument,Instrument
+203,Elbow,Solid,2,,5646.0,4181.0,5708.0,4101.0,FE-1203,FE-1203,0.695,Sensor,Sensor
+204,Straight,Solid,2,,2708.0,4177.0,2708.0,4182.0,FT 1204,FT 1204,0.947,Instrument,Instrument
+205,Elbow,Solid,3,,6066.0,4182.0,6068.0,4101.0,FT 1202,FT 1202,0.941,Instrument,Instrument
+206,Horizontal,,1,,6702.0,4314.0,6782.0,4316.0,SLOPE 1:500,PSV 1202,0.619,Sensor,Pressure Safety Valve
+207,Horizontal,,1,"26""-P-101-1213-A19A-IH",6687.0,4526.0,6766.0,4527.0,SLOPE 1:500,SLOPE 1:500,0.877,Sensor,Sensor
+208,Vertical,,1,"26""-P-101-1213-A19A-IH",6690.0,4524.0,6690.0,4793.0,SLOPE 1:500,SLOPE 1:500,0.873,Sensor,Sensor
+209,Vertical,,1,,6691.0,4223.0,6691.0,4333.0,PSV 1202,SLOPE 1:500,0.664,Pressure Safety Valve,Sensor
+210,Vertical,,1,"26""-P-101-1213-A19A-IH",6693.0,4906.0,6694.0,4938.0,OPEN,OPEN,0.167,,
+211,Horizontal,,1,"26""-P-101-1213-A19A-IH",6687.0,4706.0,6785.0,4706.0,SLOPE 1:500,TI 1202,0.563,Sensor,Instrument
+212,Horizontal,,1,,6687.0,4947.0,8117.0,4947.0,OPEN,OPEN,0.409,,
+213,Vertical,,1,"26""-P-101-1213-A19A-IH",6689.0,4703.0,6689.0,4948.0,SLOPE 1:500,OPEN,0.568,Sensor,
+214,Vertical,,1,"26""-P-101-1213-A19A-IH",6692.0,4314.0,6692.0,4528.0,SLOPE 1:500,SLOPE 1:500,0.885,Sensor,Sensor
+215,Horizontal,Solid,1,,3728.0,4359.0,3789.0,4361.0,TT 1204,TT 1204,0.896,Instrument,Instrument
+216,Elbow,Solid,2,,7083.0,4359.0,7146.0,4466.0,TT 1202,TT 1202,0.933,Instrument,Instrument
+217,Horizontal,,1,,5986.0,4437.0,6033.0,4436.0,FI 1202 A,FI 1202 A,0.841,Instrument,Instrument
+218,Vertical,,1,,6031.0,4183.0,6031.0,4287.0,FT 1202,FF,0.94,Instrument,Piping Component
+219,Vertical,,1,,6031.0,3959.0,6031.0,4012.0,FT 1202,FT 1202,0.611,Instrument,Instrument
+220,Vertical,,1,,6033.0,2221.0,6033.0,3777.0,OPEN,B19A,0.85,,Equipment
+221,Vertical,,1,,6033.0,4320.0,6033.0,4435.0,FF,FI 1202 A,0.908,Piping Component,Instrument
+222,Vertical,,1,,6033.0,4479.0,6033.0,4535.0,FI 1202 A,FI 1202 A,0.91,Instrument,Instrument
+223,Vertical,,1,,6033.0,4561.0,6033.0,4617.0,FI 1202 A,FI 1202 A,0.873,Instrument,Instrument
+224,Vertical,,1,,6033.0,4673.0,6033.0,4790.0,FI 1202 A,FI 1202 A,0.674,Instrument,Instrument
+225,Vertical,,1,,6033.0,4901.0,6033.0,4948.0,FI 1202 A,OPEN,0.226,Instrument,
+226,Horizontal,,1,,265.0,4946.0,429.0,4946.0,OPEN,OPEN,0.0,,
+227,Horizontal,,1,,493.0,4946.0,6043.0,4946.0,OPEN,OPEN,0.959,,
+228,Horizontal,,1,,641.0,4949.0,6039.0,4949.0,OPEN,OPEN,0.965,,
+229,Vertical,,1,,6029.0,3957.0,6029.0,4223.0,FT 1202,FT 1202,0.918,Instrument,Instrument
+230,Vertical,,1,,6025.0,4861.0,6026.0,4950.0,FI 1202 A,OPEN,0.307,Instrument,
+231,Straight,Solid,2,"26""-P-101-1214-A19A-IH",4947.0,4522.0,4947.0,4527.0,FF,FF,0.941,Piping Component,Piping Component
+232,Horizontal,Solid,1,,1452.0,4527.0,1565.0,4527.0,OPEN,OPEN,0.0,,
+233,Horizontal,Solid,1,"26""-P-101-1215-A19A-IH",3327.0,4527.0,3425.0,4527.0,SLOPE 1:500,SLOPE 1:500,0.881,Sensor,Sensor
+234,Horizontal,Solid,1,,1473.0,4707.0,1565.0,4707.0,OPEN,OPEN,0.0,,
+235,Horizontal,Solid,1,"26""-P-101-1214-A19A-IH",4947.0,4708.0,5045.0,4706.0,FF,FF,0.574,Piping Component,Piping Component
+236,Horizontal,,1,,7934.0,4883.0,7968.0,4887.0,TI 1201,TI 1201,0.452,Instrument,Instrument
+237,Horizontal,,1,,7730.0,4886.0,7867.0,4886.0,TI 1201,TI 1201,0.531,Instrument,Instrument
+238,Horizontal,,1,"36""-P-101-1210-A19A-IH",8047.0,5007.0,8119.0,5006.0,OPEN,OPEN,0.32,,
+239,Horizontal,,1,"36""-P-101-1210-A19A-IH",7882.0,5007.0,7938.0,5007.0,TI 1201,TI 1201,0.326,Instrument,Instrument
+240,Horizontal,,1,"36""-P-101-1210-A19A-IH",7975.0,5007.0,8031.0,5007.0,OPEN,OPEN,0.332,,
+241,Horizontal,,1,"36""-P-101-1210-A19A-IH",7736.0,5127.0,8118.0,5127.0,OPEN,OPEN,0.572,,
+242,Horizontal,,1,"36""-P-101-1210-A19A-IH",7730.0,5247.0,8118.0,5247.0,OPEN,OPEN,0.812,,
+243,Horizontal,,1,"36""-P-101-1210-A19A-IH",7729.0,5367.0,8118.0,5367.0,OPEN,OPEN,0.948,,
+244,Horizontal,,1,"36""-P-101-1210-A19A-IH",7730.0,5487.0,8118.0,5487.0,OPEN,OPEN,0.708,,
+245,Horizontal,,1,"36""-P-101-1210-A19A-IH",7729.0,5607.0,8118.0,5607.0,OPEN,OPEN,0.468,,
+246,Horizontal,,1,"36""-P-101-1210-A19A-IH",7730.0,5727.0,8118.0,5727.0,OPEN,OPEN,0.228,,
+247,Vertical,,1,"36""-P-101-1210-A19A-IH",7731.0,5373.0,7731.0,5488.0,OPEN,OPEN,0.492,,
+248,Vertical,,1,"36""-P-101-1210-A19A-IH",7732.0,5728.0,7734.0,5690.0,OPEN,OPEN,0.143,,
+249,Vertical,,1,,7734.0,4883.0,7734.0,5008.0,TI 1201,TI 1201,0.524,Instrument,Instrument
+250,Vertical,,1,"36""-P-101-1210-A19A-IH",7734.0,5123.0,7734.0,5248.0,OPEN,OPEN,0.469,,
+251,Vertical,,1,"36""-P-101-1210-A19A-IH",7947.0,4961.0,7947.0,5007.0,TI 1201,TI 1201,0.328,Instrument,Instrument
+252,Vertical,,1,"36""-P-101-1210-A19A-IH",8114.0,5368.0,8114.0,5488.0,OPEN,OPEN,0.732,,
+253,Vertical,,1,"36""-P-101-1210-A19A-IH",8114.0,5008.0,8117.0,4884.0,OPEN,OPEN,0.284,,
+254,Vertical,,1,"36""-P-101-1210-A19A-IH",8116.0,5123.0,8116.0,5248.0,OPEN,OPEN,0.675,,
+255,Vertical,,1,"36""-P-101-1210-A19A-IH",8115.0,5728.0,8117.0,5604.0,OPEN,OPEN,0.409,,
+256,Horizontal,,1,,8022.0,4887.0,8117.0,4888.0,TI 1201,OPEN,0.336,Instrument,
+257,Vertical,,1,"36""-P-101-1210-A19A-IH",8116.0,5008.0,8118.0,4884.0,OPEN,OPEN,0.283,,
+258,Vertical,,1,"36""-P-101-1210-A19A-IH",7729.0,5430.0,7730.0,5488.0,OPEN,OPEN,0.462,,
+259,Vertical,,1,"36""-P-101-1210-A19A-IH",7729.0,5714.0,7730.0,5605.0,OPEN,OPEN,0.269,,
+260,Vertical,,1,,7869.0,4887.0,7869.0,5007.0,TI 1201,TI 1201,0.502,Instrument,Instrument
+261,Vertical,,1,"36""-P-101-1210-A19A-IH",7872.0,5229.0,7873.0,5148.0,OPEN,OPEN,0.685,,
+262,Vertical,,1,,7982.0,4883.0,7982.0,5007.0,TI 1201,OPEN,0.396,Instrument,
+263,Vertical,,1,"36""-P-101-1210-A19A-IH",8116.0,5728.0,8118.0,5604.0,OPEN,OPEN,0.408,,
+264,Elbow,Solid,4,,259.0,4887.0,264.0,5008.0,OPEN,OPEN,0.0,,
+265,Horizontal,Solid,1,,7102.0,4932.0,7315.0,4932.0,TI 1202,TI 1202,0.439,Instrument,Instrument
+266,Horizontal,Solid,1,"3""-FL-101-1202-A11A",5820.0,4983.0,5889.0,4983.0,OPEN,OPEN,0.051,,
+267,Horizontal,Solid,1,,6809.0,5172.0,7022.0,5172.0,OPEN,OPEN,0.0,,
+268,Horizontal,Solid,1,,6809.0,5412.0,7022.0,5412.0,OPEN,OPEN,0.0,,
+269,Elbow,Solid,6,"36""-P-101-1211-A19A-IH",3330.0,4755.0,8117.0,5427.0,TW 1210,OPEN,0.828,Thermowell,
+270,Horizontal,Solid,1,,6809.0,5652.0,7022.0,5652.0,OPEN,OPEN,0.0,,
+271,Vertical,Solid,1,,990.0,1044.0,990.0,3760.0,OPEN,OPEN,0.0,,
+272,Vertical,Solid,1,,1141.0,1200.0,1141.0,3711.0,OPEN,OPEN,0.0,,
+273,Elbow,Solid,5,,1144.0,3654.0,1287.0,3776.0,OPEN,OPEN,0.0,,
+274,Elbow,Solid,4,,1427.0,2965.0,1572.0,2339.0,OPEN,OPEN,0.0,,
+275,Elbow,Solid,3,,1591.0,1709.0,2332.0,3778.0,OPEN,OPEN,0.031,,
+276,Elbow,Solid,5,"3""-FL-101-1204-A11A",1232.0,4512.0,1928.0,4360.0,OPEN,OPEN,0.111,,
+277,Vertical,Solid,1,,2146.0,3009.0,2146.0,3064.0,A11A,A11A,0.279,Equipment,Equipment
+278,Straight,Solid,2,,2172.0,3134.0,2176.0,2862.0,A11A,OPEN,0.406,Equipment,
+279,Straight,Solid,3,,2313.0,3049.0,2313.0,3374.0,A11A,A11A,0.779,Equipment,Equipment
+280,Straight,Solid,3,"3""-FL-101-1204-A11A",2313.0,4950.0,2316.0,2223.0,TE 1205,OPEN,0.879,Sensor,
+281,Straight,Solid,2,,2671.0,3661.0,2673.0,4950.0,SP 016,TE 1205,0.932,Special Piping Item,Sensor
+282,Elbow,Solid,2,,2648.0,3458.0,2708.0,3381.0,A19A,A19A,0.623,Equipment,Equipment
+283,Vertical,Solid,1,,3061.0,2935.0,3061.0,3579.0,TE 1209,CC,0.965,Sensor,Corrosion Monitoring System
+284,Vertical,Solid,1,,3346.0,2486.0,3346.0,2699.0,CC,PI 1215,0.465,Corrosion Monitoring System,Instrument
+285,Vertical,Solid,1,,3475.0,4674.0,3476.0,4738.0,TI 1204,TW 1210,0.531,Instrument,Thermowell
+286,Vertical,Solid,1,,3501.0,4667.0,3503.0,4736.0,TI 1204,TW 1210,0.525,Instrument,Thermowell
+287,Vertical,Solid,1,,3578.0,2845.0,3578.0,2997.0,T2,T2,0.605,Equipment,Equipment
+288,Vertical,Solid,1,,3787.0,3310.0,3787.0,3462.0,T1,S2,0.939,Equipment,Equipment
+289,Vertical,Solid,1,,3788.0,4380.0,3788.0,4512.0,TT 1204,TT 1204,0.9,Instrument,Instrument
+290,Vertical,Solid,1,"2""-P-101-1222-B1A-IT",4501.0,1199.0,4501.0,3711.0,OPEN,OPEN,0.899,,
+291,Elbow,Solid,3,"2""-P-101-1222-B1A-IT",4646.0,3566.0,4747.0,3281.0,T1,T1,0.612,Equipment,Equipment
+292,Straight,Solid,2,,4834.0,1648.0,4840.0,1687.0,OPEN,OPEN,0.0,,
+293,Vertical,Solid,1,,4868.0,3265.0,4868.0,3419.0,A19A,A19A,0.441,Equipment,Equipment
+294,Vertical,Solid,1,,4937.0,2757.0,4937.0,2968.0,PI 1212,TE 1208,0.578,Instrument,Sensor
+295,Straight,Solid,2,,5017.0,1687.0,5026.0,1494.0,OPEN,OPEN,0.0,,
+296,Straight,Solid,2,"26""-P-101-1214-A19A-IH",5120.0,4733.0,5123.0,4736.0,FI 1203 A,FI 1203 A,0.592,Instrument,Instrument
+297,Elbow,Solid,5,,4951.0,2768.0,5133.0,3011.0,PI 1212,TE 1208,0.915,Instrument,Sensor
+298,Straight,Solid,2,,5294.0,3180.0,5295.0,3068.0,A19A,TT 1208,0.663,Equipment,Instrument
+299,Elbow,Solid,2,,5265.0,3372.0,5324.0,3287.0,B19A,A19A,0.808,Equipment,Equipment
+300,Straight,Solid,2,,5325.0,2984.0,5326.0,3044.0,TT 1208,TT 1208,0.759,Instrument,Instrument
+301,Elbow,Solid,2,,5351.0,4359.0,5408.0,4512.0,FF,FI 1203 A,0.849,Piping Component,Instrument
+302,Vertical,Solid,1,"2""-WP-101-1203-B19A-IH",5520.0,3887.0,5520.0,3961.0,FE-1203,FE-1203,0.734,Sensor,Sensor
+303,Vertical,Solid,1,,5529.0,3074.0,5532.0,3130.0,A11A,A11A,0.701,Equipment,Equipment
+304,Elbow,Solid,3,,5866.0,4971.0,5931.0,4887.0,OPEN,FI 1202 A,0.25,,Instrument
+305,Elbow,Solid,2,,6115.0,3064.0,6196.0,3002.0,TT 1207,TT 1207,0.759,Instrument,Instrument
+306,Vertical,Solid,1,,6421.0,2935.0,6421.0,3579.0,TE 1207,CC,0.964,Sensor,Corrosion Monitoring System
+307,Vertical,Solid,1,,6707.0,2487.0,6707.0,2698.0,CC,PI 1206,0.464,Corrosion Monitoring System,Instrument
+308,Vertical,Solid,1,,6743.0,2875.0,6743.0,3032.0,TE 1207,TE 1207,0.39,Sensor,Sensor
+309,Vertical,Solid,1,"2""-P-101-1221-B1A-IT",6835.0,3294.0,6836.0,3358.0,T1,T1,0.475,Equipment,Equipment
+310,Vertical,Solid,1,"26""-P-101-1213-A19A-IH",6835.0,4674.0,6836.0,4738.0,TI 1202,TI 1202,0.461,Instrument,Instrument
+311,Elbow,Solid,3,,6958.0,4380.0,7030.0,4497.0,TT 1202,TT 1202,0.834,Instrument,Instrument
+312,Vertical,Solid,1,"12""-P-101-1202-B1A-IT",7021.0,1984.0,7021.0,2220.0,OPEN,OPEN,0.311,,
+313,Straight,Solid,2,,7067.0,3080.0,7067.0,3139.0,T2,T2,0.886,Equipment,Equipment
+314,Straight,Solid,2,,7156.0,897.0,7156.0,912.0,OPEN,OPEN,0.0,,
+315,Elbow,Solid,3,,7216.0,1494.0,7366.0,1495.0,OPEN,OPEN,0.0,,
+316,Vertical,Solid,1,"12""-P-101-1202-B1A-IT",7231.0,2424.0,7231.0,2577.0,OPEN,OPEN,0.875,,
+317,Elbow,Solid,4,,7080.0,4211.0,7411.0,4060.0,TE 1202,TE 1202,0.921,Sensor,Sensor
+318,Straight,Solid,2,,7362.0,3681.0,7369.0,3606.0,S2,S2,0.454,Equipment,Equipment
+319,Vertical,Solid,1,"12""-P-101-1202-B1A-IT",7381.0,2425.0,7381.0,2685.0,OPEN,S1,0.825,,Equipment
+320,Elbow,Solid,3,"12""-P-101-1201-B1A-IT",7651.0,2220.0,8049.0,2029.0,OPEN,CP 1205,0.578,,Corrosion Monitoring System
+321,Straight,Solid,2,"12""-P-101-1201-B1A-IT",7746.0,2053.0,7752.0,2053.0,OPEN,OPEN,0.37,,
+322,Vertical,Solid,1,"12""-P-101-1201-B1A-IT",7845.0,2054.0,7845.0,2122.0,OPEN,OPEN,0.273,,
+323,Vertical,Solid,1,,7988.0,2006.0,7988.0,2084.0,OPEN,CP 1205,0.234,,Corrosion Monitoring System
+324,Horizontal,Dashed,1,,7868.0,1100.0,8166.0,1105.0,OPEN,OPEN,0.0,,
+325,Horizontal,Dashed,1,,7240.0,1169.0,7591.0,1169.0,OPEN,OPEN,0.0,,
+326,Horizontal,Dashed,1,,945.0,1177.0,1070.0,1177.0,OPEN,OPEN,0.0,,
+327,Horizontal,Dashed,1,,7941.0,1219.0,8050.0,1217.0,OPEN,OPEN,0.0,,
+328,Elbow,Dashed,3,,5145.0,1225.0,5381.0,1375.0,OPEN,OPEN,0.0,,
+329,Horizontal,Dashed,1,,5805.0,1227.0,5986.0,1227.0,OPEN,OPEN,0.0,,
+330,Elbow,Dashed,3,,8043.0,1443.0,8051.0,1153.0,OPEN,OPEN,0.0,,
+331,Straight,Dashed,2,,5801.0,1373.0,6136.0,1374.0,OPEN,OPEN,0.0,,
+332,Horizontal,Dashed,1,,7919.0,1376.0,8176.0,1376.0,OPEN,OPEN,0.0,,
+333,Horizontal,Dashed,1,,5956.0,1433.0,6150.0,1433.0,OPEN,OPEN,0.0,,
+334,Horizontal,Dashed,1,,7189.0,1436.0,7549.0,1436.0,OPEN,OPEN,0.0,,
+335,Horizontal,Dashed,1,,7875.0,1438.0,8119.0,1438.0,OPEN,OPEN,0.0,,
+336,Horizontal,Dashed,1,,4786.0,1440.0,4860.0,1440.0,OPEN,OPEN,0.0,,
+337,Elbow,Dashed,2,,5108.0,1618.0,5164.0,1495.0,OPEN,OPEN,0.0,,
+338,Horizontal,Dashed,1,,4788.0,1552.0,5109.0,1552.0,OPEN,OPEN,0.0,,
+339,Horizontal,Dashed,1,,1502.0,1571.0,1558.0,1571.0,OPEN,OPEN,0.0,,
+340,Elbow,Dashed,2,,1470.0,1731.0,1592.0,1615.0,OPEN,OPEN,0.0,,
+341,Elbow,Dashed,3,,4848.0,1419.0,5151.0,1494.0,OPEN,OPEN,0.0,,
+342,Horizontal,Dashed,1,"24""-P-101-1217-A19A-IS",1784.0,1676.0,2134.0,1676.0,OPEN,OPEN,0.437,,
+343,Horizontal,Dashed,1,,6164.0,1674.0,6514.0,1674.0,OPEN,OPEN,0.0,,
+344,Horizontal,Dashed,1,,4530.0,1663.0,4596.0,1663.0,OPEN,OPEN,0.0,,
+345,Horizontal,Dashed,1,"24""-P-101-1217-A19A-IS",2476.0,1677.0,2550.0,1677.0,OPEN,OPEN,0.827,,
+346,Horizontal,Dashed,1,,4996.0,1665.0,5057.0,1665.0,OPEN,OPEN,0.0,,
+347,Straight,Dashed,2,,4498.0,1680.0,5070.0,1681.0,OPEN,OPEN,0.0,,
+348,Horizontal,Dashed,1,,4759.0,1724.0,4859.0,1724.0,OPEN,OPEN,0.0,,
+349,Horizontal,Dashed,1,,6991.0,1993.0,7047.0,1995.0,OPEN,OPEN,0.0,,
+350,Horizontal,Dashed,1,"12""-P-101-1202-B1A-IT",6896.0,2112.0,7068.0,2112.0,OPEN,OPEN,0.219,,
+351,Horizontal,Dashed,1,"12""-P-101-1202-B1A-IT",6868.0,2154.0,7022.0,2154.0,OPEN,OPEN,0.225,,
+352,Horizontal,Dashed,1,,5806.0,2196.0,5910.0,2196.0,OPEN,OPEN,0.0,,
+353,Elbow,Dashed,2,"24""-P-101-1219-A19A-IS",1879.0,2201.0,1930.0,2237.0,OPEN,OPEN,0.005,,
+354,Horizontal,Dashed,1,"12""-P-101-1201-B1A-IT",7858.0,2250.0,7965.0,2250.0,OPEN,CP 1205,0.454,,Corrosion Monitoring System
+355,Elbow,Dashed,4,,5429.0,2290.0,5514.0,2680.0,OPEN,TI 1208,0.537,,Instrument
+356,Horizontal,Dashed,1,"24""-P-101-1219-A19A-IS",2624.0,2341.0,2683.0,2341.0,SP 018,SP 018,0.367,Special Piping Item,Special Piping Item
+357,Horizontal,Dashed,1,,5624.0,2339.0,5683.0,2339.0,OPEN,OPEN,0.0,,
+358,Horizontal,Dashed,1,,5984.0,2343.0,6043.0,2343.0,SP 012,SP 012,0.334,Special Piping Item,Special Piping Item
+359,Horizontal,Dashed,1,"24""-P-101-1219-A19A-IS",2266.0,2359.0,2324.0,2359.0,OPEN,OPEN,0.451,,
+360,Horizontal,Dashed,1,,2626.0,2359.0,2685.0,2359.0,SP 018,SP 018,0.359,Special Piping Item,Special Piping Item
+361,Horizontal,Dashed,1,,5626.0,2359.0,5685.0,2359.0,OPEN,OPEN,0.0,,
+362,Horizontal,Dashed,1,,5986.0,2359.0,6118.0,2359.0,SP 012,SP 012,0.455,Special Piping Item,Special Piping Item
+363,Horizontal,Dashed,1,"24""-P-101-1219-A19A-IS",2127.0,2364.0,2221.0,2365.0,OPEN,OPEN,0.341,,
+364,Horizontal,Dashed,1,,6158.0,2364.0,6271.0,2365.0,SP 012,CP 1206,0.659,Special Piping Item,Corrosion Monitoring System
+365,Horizontal,Dashed,1,,6168.0,2383.0,6225.0,2383.0,SP 012,SP 012,0.591,Special Piping Item,Special Piping Item
+366,Horizontal,Dashed,1,,6166.0,2401.0,6227.0,2401.0,SP 012,SP 012,0.627,Special Piping Item,Special Piping Item
+367,Horizontal,Dashed,1,,2626.0,2432.0,2685.0,2432.0,SP 018,SP 018,0.45,Special Piping Item,Special Piping Item
+368,Horizontal,Dashed,1,,5987.0,2430.0,6043.0,2430.0,SP 012,SP 012,0.445,Special Piping Item,Special Piping Item
+369,Elbow,Dashed,2,,2746.0,2440.0,2893.0,2292.0,SP 018,CP 1208,0.718,Special Piping Item,Corrosion Monitoring System
+370,Elbow,Dashed,2,,5428.0,2439.0,5578.0,2289.0,PI 1212,OPEN,0.272,Instrument,
+371,Elbow,Dashed,2,,6177.0,2438.0,6268.0,2289.0,SP 012,CP 1206,0.721,Special Piping Item,Corrosion Monitoring System
+372,Horizontal,Dashed,1,,2630.0,2465.0,2683.0,2465.0,SP 018,SP 018,0.479,Special Piping Item,Special Piping Item
+373,Horizontal,Dashed,1,,6651.0,2490.0,6756.0,2490.0,CC,CC,0.573,Corrosion Monitoring System,Corrosion Monitoring System
+374,Horizontal,Dashed,1,,3285.0,2500.0,3396.0,2500.0,CC,CC,0.586,Corrosion Monitoring System,Corrosion Monitoring System
+375,Horizontal,Dashed,1,"12""-P-101-1204-B1A-IT",3868.0,2500.0,3969.0,2499.0,OPEN,OPEN,0.863,,
+376,Elbow,Dashed,3,,4623.0,2547.0,4741.0,2500.0,SP 014,CC,0.914,Special Piping Item,Corrosion Monitoring System
+377,Elbow,Dashed,2,"12""-P-101-1202-B1A-IT",7264.0,2574.0,7321.0,2520.0,OPEN,OPEN,0.822,,
+378,Horizontal,Dashed,1,,1261.0,2530.0,1320.0,2530.0,OPEN,OPEN,0.0,,
+379,Horizontal,Dashed,1,"12""-P-101-1204-B1A-IT",3868.0,2520.0,3944.0,2520.0,OPEN,OPEN,0.822,,
+380,Horizontal,Dashed,1,"12""-P-101-1202-B1A-IT",7261.0,2535.0,7321.0,2535.0,OPEN,OPEN,0.792,,
+381,Horizontal,Dashed,1,"12""-P-101-1204-B1A-IT",3868.0,2537.0,3945.0,2537.0,OPEN,OPEN,0.788,,
+382,Horizontal,Dashed,1,,5626.0,2542.0,5683.0,2539.0,TI 1208,TI 1208,0.321,Instrument,Instrument
+383,Horizontal,Dashed,1,,5986.0,2542.0,6043.0,2542.0,SP 012,SP 012,0.527,Special Piping Item,Special Piping Item
+384,Horizontal,Dashed,1,"12""-P-101-1201-B1A-IT",7487.0,2560.0,7575.0,2560.0,OPEN,OPEN,0.698,,
+385,Horizontal,Dashed,1,,5626.0,2566.0,5683.0,2566.0,TI 1208,TI 1208,0.369,Instrument,Instrument
+386,Straight,Dashed,2,,2132.0,2563.0,2313.0,2560.0,OPEN,OPEN,0.141,,
+387,Horizontal,Dashed,1,,4847.0,2555.0,4951.0,2555.0,CC,CC,0.9,Corrosion Monitoring System,Corrosion Monitoring System
+388,Horizontal,Dashed,1,,2625.0,2567.0,2683.0,2567.0,SP 018,SP 018,0.533,Special Piping Item,Special Piping Item
+389,Horizontal,Dashed,1,,3284.0,2565.0,3398.0,2557.0,CC,CC,0.576,Corrosion Monitoring System,Corrosion Monitoring System
+390,Horizontal,Dashed,1,,5988.0,2565.0,6043.0,2564.0,SP 012,SP 012,0.533,Special Piping Item,Special Piping Item
+391,Horizontal,Dashed,1,,4847.0,2568.0,4951.0,2568.0,CC,CC,0.878,Corrosion Monitoring System,Corrosion Monitoring System
+392,Elbow,Dashed,5,,4676.0,2890.0,4677.0,2455.0,SP 014,SP 014,0.984,Special Piping Item,Special Piping Item
+393,Horizontal,Dashed,1,"12""-P-101-1202-B1A-IT",7302.0,2576.0,7378.0,2571.0,OPEN,OPEN,0.709,,
+394,Horizontal,Dashed,1,,5986.0,2579.0,6043.0,2579.0,SP 012,SP 012,0.534,Special Piping Item,Special Piping Item
+395,Horizontal,Dashed,1,,4799.0,2586.0,4951.0,2586.0,CC,CC,0.856,Corrosion Monitoring System,Corrosion Monitoring System
+396,Horizontal,Dashed,1,,3287.0,2593.0,3397.0,2593.0,CC,CC,0.554,Corrosion Monitoring System,Corrosion Monitoring System
+397,Horizontal,Dashed,1,,6646.0,2596.0,6758.0,2596.0,CC,CC,0.554,Corrosion Monitoring System,Corrosion Monitoring System
+398,Horizontal,Dashed,1,,5368.0,2596.0,5429.0,2596.0,PI 1212,TT 1208,0.535,Instrument,Instrument
+399,Elbow,Dashed,3,,2012.0,2600.0,2069.0,2836.0,OPEN,OPEN,0.0,,
+400,Horizontal,Dashed,1,,2893.0,2605.0,2955.0,2605.0,SP 018,SP 018,0.952,Special Piping Item,Special Piping Item
+401,Horizontal,Dashed,1,,6120.0,2625.0,6315.0,2625.0,SP 012,SP 012,0.912,Special Piping Item,Special Piping Item
+402,Elbow,Dashed,3,,2625.0,2616.0,2955.0,2619.0,TI 1209,SP 018,0.924,Instrument,Special Piping Item
+403,Horizontal,Dashed,1,,5578.0,2618.0,5683.0,2618.0,TI 1208,TI 1208,0.473,Instrument,Instrument
+404,Straight,Dashed,2,,2010.0,2618.0,2313.0,2619.0,OPEN,TI 1209,0.225,,Instrument
+405,Horizontal,Dashed,1,"12""-P-101-1201-B1A-IT",7442.0,2622.0,7574.0,2615.0,OPEN,OPEN,0.599,,
+406,Horizontal,Dashed,1,,3285.0,2643.0,3394.0,2643.0,PI 1215,PI 1215,0.57,Instrument,Instrument
+407,Horizontal,Dashed,1,,4740.0,2648.0,4951.0,2644.0,SP 014,CC,0.785,Special Piping Item,Corrosion Monitoring System
+408,Horizontal,Dashed,1,,5369.0,2656.0,5520.0,2650.0,PI 1212,TI 1208,0.557,Instrument,Instrument
+409,Horizontal,Dashed,1,"12""-P-101-1204-B1A-IT",3946.0,2664.0,4019.0,2667.0,S1,OPEN,0.533,Equipment,
+410,Horizontal,Dashed,1,,6176.0,2680.0,6315.0,2680.0,SP 012,SP 012,0.802,Special Piping Item,Special Piping Item
+411,Elbow,Dashed,3,,1313.0,2664.0,1565.0,2685.0,OPEN,OPEN,0.0,,
+412,Elbow,Dashed,2,"12""-P-101-1201-B1A-IT",7306.0,2690.0,7528.0,2651.0,S1,S1,0.493,Equipment,Equipment
+413,Horizontal,Dashed,1,,4775.0,2691.0,4933.0,2691.0,SP 014,CC,0.676,Special Piping Item,Corrosion Monitoring System
+414,Horizontal,Dashed,1,"12""-P-101-1204-B1A-IT",4051.0,2698.0,4131.0,2698.0,S1,S1,0.416,Equipment,Equipment
+415,Horizontal,Dashed,1,,4775.0,2707.0,4847.0,2711.0,SP 014,CC,0.654,Special Piping Item,Corrosion Monitoring System
+416,Elbow,Dashed,2,,4562.0,2720.0,4589.0,2830.0,SP 014,SP 014,0.695,Special Piping Item,Special Piping Item
+417,Horizontal,Dashed,1,"12""-P-101-1202-B1A-IT",7202.0,2726.0,7306.0,2726.0,S1,S1,0.41,Equipment,Equipment
+418,Straight,Dashed,2,,3850.0,2740.0,4115.0,2738.0,S1,S1,0.437,Equipment,Equipment
+419,Elbow,Dashed,2,,1440.0,2741.0,1467.0,2589.0,OPEN,OPEN,0.0,,
+420,Horizontal,Dashed,1,,7202.0,2746.0,7322.0,2746.0,S1,S1,0.449,Equipment,Equipment
+421,Horizontal,Dashed,1,,1003.0,2772.0,1123.0,2772.0,OPEN,OPEN,0.0,,
+422,Straight,Dashed,2,,4363.0,2773.0,4686.0,2773.0,S1,SP 014,0.616,Equipment,Special Piping Item
+423,Horizontal,Dashed,1,,6180.0,2768.0,6301.0,2768.0,TT 1207,PI 1206,0.773,Instrument,Instrument
+424,Horizontal,Dashed,1,,3628.0,2811.0,3961.0,2811.0,T2,S1,0.58,Equipment,Equipment
+425,Elbow,Dashed,2,,1758.0,2793.0,1865.0,2833.0,OPEN,OPEN,0.0,,
+426,Horizontal,Dashed,1,,1116.0,2800.0,1231.0,2800.0,OPEN,OPEN,0.0,,
+427,Horizontal,Dashed,1,,6980.0,2817.0,7379.0,2817.0,T2,S1,0.591,Equipment,Equipment
+428,Horizontal,Dashed,1,,4476.0,2802.0,4590.0,2802.0,S1,SP 014,0.539,Equipment,Special Piping Item
+429,Elbow,Dashed,2,,1146.0,2814.0,1240.0,2710.0,OPEN,OPEN,0.0,,
+430,Elbow,Dashed,2,,1121.0,2756.0,1231.0,2830.0,OPEN,OPEN,0.0,,
+431,Horizontal,Dashed,1,,5369.0,2832.0,5430.0,2832.0,TT 1208,TT 1208,0.901,Instrument,Instrument
+432,Horizontal,Dashed,1,,5578.0,2844.0,5685.0,2844.0,TI 1208,TI 1208,0.925,Instrument,Instrument
+433,Elbow,Dashed,2,,3920.0,2862.0,3928.0,2769.0,S1,S1,0.637,Equipment,Equipment
+434,Horizontal,Dashed,1,,7276.0,2850.0,7337.0,2848.0,S1,S1,0.615,Equipment,Equipment
+435,Horizontal,Dashed,1,,1276.0,2855.0,1336.0,2855.0,OPEN,OPEN,0.0,,
+436,Horizontal,Dashed,1,,2673.0,2864.0,2895.0,2864.0,TI 1209,TT 1209,0.965,Instrument,Instrument
+437,Horizontal,Dashed,1,,6166.0,2879.0,6270.0,2879.0,TT 1207,TT 1207,0.995,Instrument,Instrument
+438,Elbow,Dashed,3,,5486.0,2918.0,5521.0,2867.0,TT 1208,TI 1208,0.824,Instrument,Instrument
+439,Elbow,Dashed,2,,6666.0,2892.0,6810.0,3011.0,TE 1207,T2,0.543,Sensor,Equipment
+440,Horizontal,Dashed,1,,3306.0,2893.0,3442.0,2893.0,TE 1209,TE 1209,0.543,Sensor,Sensor
+441,Horizontal,Dashed,1,,3435.0,2952.0,3486.0,2952.0,T2,T2,0.4,Equipment,Equipment
+442,Horizontal,Dashed,1,,7427.0,2965.0,7528.0,2965.0,S1,S1,0.682,Equipment,Equipment
+443,Horizontal,Dashed,1,,4787.0,2961.0,4951.0,2961.0,TE 1208,TE 1208,0.575,Sensor,Sensor
+444,Horizontal,Dashed,1,,4067.0,2966.0,4169.0,2966.0,S1,S1,0.675,Equipment,Equipment
+445,Horizontal,Dashed,1,,6488.0,2957.0,6549.0,2956.0,TE 1207,TE 1207,0.819,Sensor,Sensor
+446,Horizontal,Dashed,1,,4488.0,2963.0,4553.0,2963.0,T2,T2,0.73,Equipment,Equipment
+447,Straight,Dashed,2,,2937.0,2954.0,3178.0,2966.0,TT 1209,TE 1209,0.79,Instrument,Sensor
+448,Horizontal,Dashed,1,,3306.0,2975.0,3486.0,2975.0,TE 1209,T2,0.507,Sensor,Equipment
+449,Horizontal,Dashed,1,,1873.0,2980.0,1983.0,2980.0,OPEN,OPEN,0.0,,
+450,Horizontal,Dashed,1,,5132.0,2984.0,5339.0,2977.0,TE 1208,TT 1208,0.796,Sensor,Instrument
+451,Horizontal,Dashed,1,,6694.0,2982.0,6792.0,2979.0,TE 1207,T2,0.45,Sensor,Equipment
+452,Horizontal,Dashed,1,,1724.0,2996.0,1831.0,2996.0,OPEN,OPEN,0.0,,
+453,Horizontal,Dashed,1,,5322.0,3027.0,5685.0,3027.0,TT 1208,TI 1208,0.709,Instrument,Instrument
+454,Horizontal,Dashed,1,,6025.0,3031.0,6421.0,3031.0,TI 1207,TE 1207,0.701,Instrument,Sensor
+455,Horizontal,Dashed,1,,1908.0,3031.0,2324.0,3031.0,OPEN,A11A,0.429,,Equipment
+456,Straight,Dashed,2,,2779.0,3048.0,3166.0,3045.0,TT 1209,TE 1209,0.667,Instrument,Sensor
+457,Horizontal,Dashed,1,,3601.0,3051.0,3717.0,3051.0,T2,T2,0.903,Equipment,Equipment
+458,Horizontal,Dashed,1,,6400.0,3051.0,6533.0,3051.0,TE 1207,TE 1207,0.661,Sensor,Sensor
+459,Elbow,Dashed,2,,6938.0,3172.0,7049.0,3047.0,T2,T2,0.847,Equipment,Equipment
+460,Horizontal,Dashed,1,,5406.0,3058.0,5665.0,3058.0,TT 1208,TI 1208,0.647,Instrument,Instrument
+461,Horizontal,Dashed,1,,1963.0,3060.0,2313.0,3060.0,OPEN,A11A,0.475,,Equipment
+462,Horizontal,Dashed,1,,6934.0,3091.0,7148.0,3091.0,T2,T2,0.954,Equipment,Equipment
+463,Horizontal,Dashed,1,,5181.0,3074.0,5304.0,3074.0,TE 1208,TT 1208,0.609,Sensor,Instrument
+464,Horizontal,Dashed,1,,1814.0,3076.0,1945.0,3076.0,OPEN,OPEN,0.0,,
+465,Horizontal,Dashed,1,,2765.0,3095.0,2913.0,3095.0,TT 1209,TT 1209,0.573,Instrument,Instrument
+466,Horizontal,Dashed,1,,6125.0,3100.0,6273.0,3100.0,TT 1207,TT 1207,0.563,Instrument,Instrument
+467,Horizontal,Dashed,1,,3612.0,3097.0,3787.0,3097.0,T2,T2,0.946,Equipment,Equipment
+468,Horizontal,Dashed,1,,5173.0,3127.0,5318.0,3127.0,TE 1208,A19A,0.592,Sensor,Equipment
+469,Horizontal,Dashed,1,,3038.0,3123.0,3098.0,3121.0,TE 1209,TE 1209,0.52,Sensor,Sensor
+470,Elbow,Dashed,3,,1815.0,2986.0,2022.0,2948.0,OPEN,OPEN,0.144,,
+471,Elbow,Dashed,3,,6132.0,3064.0,6508.0,3138.0,TT 1207,TE 1207,0.612,Instrument,Sensor
+472,Elbow,Dashed,3,,2886.0,3142.0,3148.0,3172.0,TT 1209,TE 1209,0.479,Instrument,Sensor
+473,Horizontal,Dashed,1,,3553.0,3160.0,3689.0,3160.0,T2,T2,0.768,Equipment,Equipment
+474,Horizontal,Dashed,1,,6915.0,3158.0,7044.0,3158.0,T2,T2,0.761,Equipment,Equipment
+475,Horizontal,Dashed,1,,6247.0,3174.0,6388.0,3176.0,TT 1207,TE 1207,0.406,Instrument,Sensor
+476,Horizontal,Dashed,1,,3062.0,3214.0,3285.0,3214.0,CC,CC,0.36,Corrosion Monitoring System,Corrosion Monitoring System
+477,Horizontal,Dashed,1,,6433.0,3202.0,6645.0,3202.0,TE 1207,TE 1207,0.359,Sensor,Sensor
+478,Horizontal,Dashed,1,,1351.0,3203.0,1426.0,3202.0,OPEN,OPEN,0.0,,
+479,Horizontal,Dashed,1,,5282.0,3241.0,5432.0,3241.0,A19A,A19A,0.914,Equipment,Equipment
+480,Horizontal,Dashed,1,,6537.0,3223.0,6644.0,3227.0,CC,CC,0.348,Corrosion Monitoring System,Corrosion Monitoring System
+481,Horizontal,Dashed,1,,1933.0,3232.0,2072.0,3232.0,OPEN,A11A,0.295,,Equipment
+482,Horizontal,Dashed,1,,1897.0,3279.0,1987.0,3295.0,OPEN,OPEN,0.139,,
+483,Horizontal,Dashed,1,,827.0,3302.0,912.0,3302.0,OPEN,OPEN,0.0,,
+484,Horizontal,Dashed,1,,5315.0,3302.0,5365.0,3302.0,A19A,A19A,0.795,Equipment,Equipment
+485,Elbow,Dashed,2,,6396.0,3320.0,6518.0,2939.0,CC,TE 1207,0.803,Corrosion Monitoring System,Sensor
+486,Horizontal,Dashed,1,,1916.0,3333.0,2011.0,3333.0,OPEN,OPEN,0.184,,
+487,Elbow,Dashed,2,"2""-P-101-1223-B1A-IT",3464.0,3334.0,3670.0,3440.0,T1,T1,0.888,Equipment,Equipment
+488,Horizontal,Dashed,1,,5276.0,3334.0,5366.0,3334.0,B19A,A19A,0.769,Equipment,Equipment
+489,Horizontal,Dashed,1,,3056.0,3334.0,3148.0,3334.0,CC,CC,0.6,Corrosion Monitoring System,Corrosion Monitoring System
+490,Horizontal,Dashed,1,"2""-P-101-1223-B1A-IT",3598.0,3426.0,3696.0,3426.0,T1,T1,0.888,Equipment,Equipment
+491,Horizontal,Dashed,1,,1277.0,3432.0,1392.0,3436.0,OPEN,OPEN,0.0,,
+492,Elbow,Dashed,2,"2""-P-101-1221-B1A-IT",6999.0,3415.0,7055.0,3427.0,T1,T1,0.949,Equipment,Equipment
+493,Horizontal,Dashed,1,"2""-P-101-1222-B1A-IT",4637.0,3455.0,4710.0,3455.0,T1,T1,0.623,Equipment,Equipment
+494,Elbow,Dashed,2,,2288.0,3458.0,2348.0,3381.0,A11A,A11A,0.788,Equipment,Equipment
+495,Straight,Dashed,2,"2""-P-101-1221-B1A-IT",6961.0,3462.0,7149.0,3460.0,T1,S2,0.917,Equipment,Equipment
+496,Elbow,Dashed,3,,1277.0,3479.0,1402.0,3579.0,OPEN,OPEN,0.0,,
+497,Straight,Dashed,2,"2""-P-101-1223-B1A-IT",3647.0,3502.0,3922.0,3502.0,T1,S2,0.935,Equipment,Equipment
+498,Horizontal,Dashed,1,,2665.0,3548.0,3075.0,3548.0,SP 016,CC,0.971,Special Piping Item,Corrosion Monitoring System
+499,Horizontal,Dashed,1,,6043.0,3545.0,6435.0,3545.0,SP 010,CC,0.976,Special Piping Item,Corrosion Monitoring System
+500,Horizontal,Dashed,1,,1930.0,3537.0,2325.0,3537.0,OPEN,A11A,0.493,,Equipment
+501,Horizontal,Dashed,1,,5286.0,3550.0,5685.0,3550.0,B19A,A11A,0.813,Equipment,Equipment
+502,Horizontal,Dashed,1,,1426.0,3538.0,1554.0,3538.0,OPEN,OPEN,0.0,,
+503,Horizontal,Dashed,1,"2""-P-101-1222-B1A-IT",4581.0,3549.0,4951.0,3549.0,T1,A19A,0.705,Equipment,Equipment
+504,Horizontal,Dashed,1,,1221.0,3560.0,1341.0,3560.0,OPEN,OPEN,0.0,,
+505,Horizontal,Dashed,1,,1426.0,3565.0,1555.0,3567.0,OPEN,OPEN,0.0,,
+506,Horizontal,Dashed,1,"2""-WP-101-1203-B19A-IH",5610.0,3579.0,5683.0,3580.0,A11A,A11A,0.524,Equipment,Equipment
+507,Horizontal,Dashed,1,,1943.0,3581.0,2323.0,3581.0,OPEN,A11A,0.409,,Equipment
+508,Horizontal,Dashed,1,"2""-P-101-1223-B1A-IT",3857.0,3587.0,4009.0,3587.0,S2,S2,0.634,Equipment,Equipment
+509,Horizontal,Dashed,1,"2""-P-101-1222-B1A-IT",4492.0,3591.0,4583.0,3591.0,S2,T1,0.765,Equipment,Equipment
+510,Horizontal,Dashed,1,,1159.0,3589.0,1215.0,3592.0,OPEN,OPEN,0.0,,
+511,Elbow,Dashed,2,,4852.0,3482.0,4951.0,3594.0,A19A,A19A,0.537,Equipment,Equipment
+512,Horizontal,Dashed,1,,1133.0,3612.0,1248.0,3612.0,OPEN,OPEN,0.0,,
+513,Horizontal,Dashed,1,,1470.0,3613.0,1533.0,3613.0,OPEN,OPEN,0.0,,
+514,Horizontal,Dashed,1,,4951.0,3622.0,5025.0,3622.0,A19A,SP 111,0.641,Equipment,Special Piping Item
+515,Horizontal,Dashed,1,"2""-P-101-1223-B1A-IT",3876.0,3638.0,4097.0,3638.0,S2,S2,0.54,Equipment,Equipment
+516,Horizontal,Dashed,1,"2""-P-101-1221-B1A-IT",7237.0,3627.0,7359.0,3625.0,S2,S2,0.553,Equipment,Equipment
+517,Horizontal,Dashed,1,,4881.0,3646.0,5025.0,3646.0,SP 111,SP 111,0.653,Special Piping Item,Special Piping Item
+518,Straight,Dashed,2,,4382.0,3677.0,5025.0,3675.0,S2,SP 111,0.658,Equipment,Special Piping Item
+519,Horizontal,Dashed,1,,1506.0,3655.0,1665.0,3655.0,OPEN,OPEN,0.0,,
+520,Horizontal,Dashed,1,"2""-P-101-1223-B1A-IT",3979.0,3666.0,4096.0,3666.0,S2,OPEN,0.343,Equipment,
+521,Horizontal,Dashed,1,,2646.0,3671.0,2708.0,3671.0,SP 016,SP 016,0.576,Special Piping Item,Special Piping Item
+522,Elbow,Dashed,3,,988.0,3683.0,1533.0,3532.0,OPEN,OPEN,0.0,,
+523,Horizontal,Dashed,1,,6006.0,3688.0,6123.0,3688.0,SP 010,SP 010,0.674,Special Piping Item,Special Piping Item
+524,Horizontal,Dashed,1,,2646.0,3689.0,2764.0,3689.0,SP 016,SP 016,0.675,Special Piping Item,Special Piping Item
+525,Horizontal,Dashed,1,"2""-P-101-1220-B1A-IT",7386.0,3711.0,7528.0,3711.0,OPEN,S2,0.26,,Equipment
+526,Elbow,Dashed,3,"2""-WP-101-1203-B19A-IH",5450.0,3867.0,5505.0,3711.0,SP 111,SP 111,0.862,Special Piping Item,Special Piping Item
+527,Elbow,Dashed,2,,5265.0,3720.0,5342.0,3773.0,SP 111,SP 111,0.836,Special Piping Item,Special Piping Item
+528,Horizontal,Dashed,1,,1942.0,3735.0,2020.0,3735.0,OPEN,OPEN,0.0,,
+529,Horizontal,Dashed,1,"2""-P-101-1221-B1A-IT",7147.0,3721.0,7203.0,3723.0,S2,S2,0.494,Equipment,Equipment
+530,Straight,Dashed,2,"2""-P-101-1223-B1A-IT",3825.0,3727.0,4160.0,3718.0,S2,OPEN,0.455,Equipment,
+531,Horizontal,Dashed,1,,3022.0,3734.0,3100.0,3734.0,CP 1212,CP 1212,0.921,Corrosion Monitoring System,Corrosion Monitoring System
+532,Straight,Dashed,2,,6157.0,3736.0,6453.0,3735.0,B19A,CP 1210,0.919,Equipment,Corrosion Monitoring System
+533,Horizontal,Dashed,1,,1211.0,3760.0,1288.0,3760.0,OPEN,OPEN,0.0,,
+534,Horizontal,Dashed,1,"2""-P-101-1222-B1A-IT",4571.0,3762.0,4648.0,3762.0,PSV 1203,PSV 1203,0.388,Pressure Safety Valve,Pressure Safety Valve
+535,Straight,Dashed,2,"2""-P-101-1223-B1A-IT",3852.0,3773.0,4050.0,3772.0,OPEN,OPEN,0.349,,
+536,Horizontal,Dashed,1,,2800.0,3804.0,2926.0,3804.0,B19A,B19A,0.895,Equipment,Equipment
+537,Elbow,Dashed,2,,2090.0,3804.0,2192.0,3897.0,OPEN,OPEN,0.0,,
+538,Horizontal,Dashed,1,"2""-WP-101-1203-B19A-IH",5450.0,3805.0,5554.0,3805.0,SP 111,SP 111,0.923,Special Piping Item,Special Piping Item
+539,Horizontal,Dashed,1,,6145.0,3805.0,6286.0,3805.0,B19A,B19A,0.898,Equipment,Equipment
+540,Horizontal,Dashed,1,,1088.0,3809.0,1240.0,3809.0,OPEN,OPEN,0.0,,
+541,Horizontal,Dashed,1,,4456.0,3806.0,4600.0,3806.0,TE 1203,PSV 1203,0.4,Sensor,Pressure Safety Valve
+542,Elbow,Dashed,2,,2708.0,4002.0,2790.0,3817.0,FT 1204,B19A,0.757,Instrument,Equipment
+543,Straight,Dashed,2,,5786.0,3824.0,6151.0,3824.0,OPEN,B19A,0.778,,Equipment
+544,Elbow,Dashed,2,"2""-P-101-1222-B1A-IT",4464.0,3685.0,4599.0,3822.0,S2,PSV 1203,0.591,Equipment,Pressure Safety Valve
+545,Horizontal,Dashed,1,,2426.0,3830.0,2551.0,3830.0,OPEN,B19A,0.29,,Equipment
+546,Horizontal,Dashed,1,,2701.0,3836.0,2791.0,3836.0,B19A,B19A,0.768,Equipment,Equipment
+547,Elbow,Dashed,2,"2""-WP-101-1203-B19A-IH",5785.0,3800.0,5914.0,3860.0,OPEN,B19A,0.354,,Equipment
+548,Straight,Dashed,2,,2426.0,3853.0,2791.0,3851.0,OPEN,B19A,0.772,,Equipment
+549,Horizontal,Dashed,1,,6067.0,3854.0,6151.0,3854.0,B19A,B19A,0.787,Equipment,Equipment
+550,Horizontal,Dashed,1,,2090.0,3864.0,2194.0,3864.0,OPEN,OPEN,0.0,,
+551,Elbow,Dashed,2,,6163.0,3864.0,6285.0,3792.0,B19A,B19A,0.984,Equipment,Equipment
+552,Horizontal,Dashed,1,,2667.0,3873.0,2960.0,3873.0,B19A,A19A,0.967,Equipment,Equipment
+553,Horizontal,Dashed,1,,2699.0,3866.0,2788.0,3865.0,B19A,B19A,0.765,Equipment,Equipment
+554,Horizontal,Dashed,1,,6081.0,3898.0,6176.0,3899.0,B19A,B19A,0.816,Equipment,Equipment
+555,Horizontal,Dashed,1,,3946.0,3958.0,4409.0,3958.0,TE 1204,TE 1203,0.571,Sensor,Sensor
+556,Horizontal,Dashed,1,,2634.0,3951.0,2707.0,3951.0,FT 1204,B19A,0.561,Instrument,Equipment
+557,Horizontal,Dashed,1,"2""-WP-101-1203-B19A-IH",5634.0,3952.0,5707.0,3952.0,FE-1203,FE-1203,0.496,Sensor,Sensor
+558,Elbow,Dashed,3,,2162.0,3524.0,2190.0,3959.0,A11A,OPEN,0.322,Equipment,
+559,Horizontal,Dashed,1,,2646.0,3993.0,2762.0,3993.0,FT 1204,B19A,0.604,Instrument,Equipment
+560,Horizontal,Dashed,1,,6006.0,3986.0,6118.0,3986.0,FT 1202,B19A,0.618,Instrument,Equipment
+561,Horizontal,Dashed,1,,2269.0,4000.0,2348.0,4000.0,OPEN,FT 1204,0.31,,Instrument
+562,Horizontal,Dashed,1,,6006.0,4003.0,6118.0,4003.0,FT 1202,B19A,0.602,Instrument,Equipment
+563,Straight,Dashed,2,,4770.0,4060.0,4970.0,4058.0,PSV 1203,SLOPE 1:500,0.983,Pressure Safety Valve,Sensor
+564,Horizontal,Dashed,1,,6842.0,4116.0,6930.0,4122.0,PSV 1202,PSV 1202,0.83,Pressure Safety Valve,Pressure Safety Valve
+565,Straight,Dashed,2,,7168.0,4136.0,7412.0,4135.0,TE 1202,TE 1202,0.869,Sensor,Sensor
+566,Horizontal,Dashed,1,,6687.0,4136.0,6779.0,4136.0,PSV 1202,PSV 1202,0.876,Pressure Safety Valve,Pressure Safety Valve
+567,Elbow,Dashed,5,,3418.0,4167.0,3991.0,4167.0,PSV 1204,TE 1204,0.995,Pressure Safety Valve,Sensor
+568,Horizontal,Dashed,1,,7019.0,4163.0,7129.0,4163.0,TE 1202,TE 1202,0.983,Sensor,Sensor
+569,Straight,Dashed,2,,989.0,4156.0,1325.0,4158.0,OPEN,OPEN,0.0,,
+570,Horizontal,Dashed,1,,6780.0,4170.0,6889.0,4170.0,PSV 1202,PSV 1202,0.806,Pressure Safety Valve,Pressure Safety Valve
+571,Straight,Dashed,2,,4276.0,4168.0,4619.0,4170.0,TE 1203,TE 1203,0.9,Sensor,Sensor
+572,Horizontal,Dashed,1,,7258.0,4171.0,7411.0,4171.0,TE 1202,TE 1202,0.71,Sensor,Sensor
+573,Elbow,Dashed,3,,1078.0,4420.0,1081.0,4060.0,OPEN,OPEN,0.0,,
+574,Horizontal,Dashed,1,,4947.0,4189.0,5006.0,4189.0,SLOPE 1:500,SLOPE 1:500,0.941,Sensor,Sensor
+575,Straight,Dashed,2,,4766.0,4208.0,5010.0,4213.0,PSV 1203,SLOPE 1:500,0.893,Pressure Safety Valve,Sensor
+576,Horizontal,Dashed,1,,4947.0,4243.0,4999.0,4245.0,SLOPE 1:500,SLOPE 1:500,0.833,Sensor,Sensor
+577,Elbow,Dashed,2,"2""-SV-101-1202-B1A-IT",6780.0,4334.0,6928.0,4301.0,SLOPE 1:500,TT 1202,0.829,Sensor,Instrument
+578,Elbow,Dashed,3,,6861.0,4059.0,7063.0,4359.0,PSV 1202,TT 1202,0.855,Pressure Safety Valve,Instrument
+579,Elbow,Dashed,2,,1040.0,4422.0,1141.0,4375.0,OPEN,OPEN,0.0,,
+580,Elbow,Dashed,2,"2""-SV-101-1202-B1A-IT",6827.0,4334.0,6875.0,4389.0,PSV 1202,TT 1202,0.628,Pressure Safety Valve,Instrument
+581,Elbow,Dashed,2,,4756.0,4391.0,4796.0,4270.0,SLOPE 1:500,SLOPE 1:500,0.617,Sensor,Sensor
+582,Horizontal,Dashed,1,,1276.0,4397.0,1339.0,4397.0,OPEN,OPEN,0.0,,
+583,Horizontal,Dashed,1,,6958.0,4412.0,7012.0,4412.0,TT 1202,TT 1202,0.798,Instrument,Instrument
+584,Elbow,Dashed,3,,2323.0,4748.0,2325.0,4420.0,FF,FF,0.796,Piping Component,Piping Component
+585,Horizontal,Dashed,1,,5256.0,4474.0,5313.0,4474.0,FI 1203 A,FI 1203 A,0.915,Instrument,Instrument
+586,Horizontal,Dashed,1,,6958.0,4478.0,7045.0,4478.0,TT 1202,TT 1202,0.81,Instrument,Instrument
+587,Horizontal,Dashed,1,"3""-FL-101-1204-A11A",2265.0,4482.0,2323.0,4482.0,FF,FF,0.878,Piping Component,Piping Component
+588,Horizontal,Dashed,1,"3""-FL-101-1204-A11A",2266.0,4506.0,2325.0,4506.0,FF,FF,0.901,Piping Component,Piping Component
+589,Horizontal,Dashed,1,,5986.0,4512.0,6045.0,4512.0,FI 1202 A,FI 1202 A,0.991,Instrument,Instrument
+590,Horizontal,Dashed,1,"3""-FL-101-1204-A11A",2265.0,4533.0,2323.0,4518.0,FF,FF,0.899,Piping Component,Piping Component
+591,Horizontal,Dashed,1,"3""-FL-101-1204-A11A",2268.0,4552.0,2323.0,4552.0,FF,FF,0.876,Piping Component,Piping Component
+592,Horizontal,Dashed,1,"3""-FL-101-1204-A11A",2266.0,4590.0,2323.0,4590.0,FF,FF,0.821,Piping Component,Piping Component
+593,Horizontal,Dashed,1,"3""-FL-101-1204-A11A",2266.0,4628.0,2323.0,4628.0,FF,FF,0.755,Piping Component,Piping Component
+594,Horizontal,Dashed,1,"3""-FL-101-1204-A11A",2267.0,4693.0,2323.0,4693.0,FF,FF,0.632,Piping Component,Piping Component
+595,Horizontal,Dashed,1,,271.0,4844.0,582.0,4844.0,OPEN,OPEN,0.0,,
+596,Horizontal,Dashed,1,,7747.0,4846.0,7944.0,4846.0,TI 1201,TI 1201,0.611,Instrument,Instrument
+597,Straight,Dashed,3,,6679.0,4915.0,8016.0,4913.0,OPEN,TI 1201,0.475,,Instrument
+598,Horizontal,Dashed,1,,1016.0,4915.0,1337.0,4915.0,OPEN,OPEN,0.0,,
+599,Horizontal,Dashed,1,,402.0,4913.0,486.0,4913.0,OPEN,OPEN,0.0,,
+600,Horizontal,Dashed,1,,5861.0,4905.0,5931.0,4905.0,OPEN,FI 1202 A,0.215,,Instrument
+601,Straight,Dashed,2,,6841.0,4974.0,7306.0,4976.0,OPEN,TI 1202,0.351,,Instrument
+602,Horizontal,Dashed,1,,323.0,4976.0,609.0,4976.0,OPEN,OPEN,0.0,,
+603,Horizontal,Dashed,1,,7858.0,4978.0,7947.0,4978.0,TI 1201,TI 1201,0.332,Instrument,Instrument
+604,Horizontal,Dashed,1,,1100.0,4989.0,1200.0,4994.0,OPEN,OPEN,0.0,,
+605,Straight,Dashed,3,"36""-P-101-1210-A19A-IH",6811.0,5157.0,8016.0,5155.0,OPEN,OPEN,0.628,,
+606,Horizontal,Dashed,1,,6503.0,5151.0,6764.0,5151.0,OPEN,OPEN,0.0,,
+607,Straight,Dashed,4,"36""-P-101-1210-A19A-IH",6497.0,5394.0,8016.0,5397.0,OPEN,OPEN,0.888,,
+608,Straight,Dashed,4,"36""-P-101-1210-A19A-IH",6503.0,5636.0,8016.0,5635.0,OPEN,OPEN,0.412,,
+609,Vertical,Dashed,1,,390.0,4947.0,390.0,5003.0,OPEN,OPEN,0.0,,
+610,Vertical,Dashed,1,,426.0,4832.0,426.0,5003.0,OPEN,OPEN,0.0,,
+611,Vertical,Dashed,1,,484.0,1000.0,489.0,913.0,OPEN,OPEN,0.0,,
+612,Vertical,Dashed,1,,508.0,1000.0,509.0,913.0,OPEN,OPEN,0.0,,
+613,Vertical,Dashed,1,,540.0,913.0,540.0,1001.0,OPEN,OPEN,0.0,,
+614,Vertical,Dashed,1,,560.0,1001.0,561.0,914.0,OPEN,OPEN,0.0,,
+615,Vertical,Dashed,1,,806.0,3962.0,806.0,4300.0,OPEN,OPEN,0.0,,
+616,Vertical,Dashed,1,,854.0,2238.0,854.0,4950.0,OPEN,OPEN,0.0,,
+617,Vertical,Dashed,1,,932.0,914.0,933.0,978.0,OPEN,OPEN,0.085,,
+618,Vertical,Dashed,1,,1006.0,3759.0,1007.0,3679.0,OPEN,OPEN,0.0,,
+619,Vertical,Dashed,1,,1108.0,3008.0,1108.0,3366.0,OPEN,OPEN,0.0,,
+620,Vertical,Dashed,1,,1100.0,3674.0,1100.0,3820.0,OPEN,OPEN,0.0,,
+621,Vertical,Dashed,1,,1114.0,4904.0,1114.0,5005.0,OPEN,OPEN,0.0,,
+622,Vertical,Dashed,1,,1151.0,3466.0,1151.0,3708.0,OPEN,OPEN,0.0,,
+623,Vertical,Dashed,1,,1173.0,4906.0,1173.0,5005.0,OPEN,OPEN,0.0,,
+624,Vertical,Dashed,1,,1314.0,2424.0,1314.0,2573.0,OPEN,OPEN,0.0,,
+625,Vertical,Dashed,1,,1308.0,2768.0,1309.0,2857.0,OPEN,OPEN,0.0,,
+626,Vertical,Dashed,1,,1407.0,3202.0,1407.0,3461.0,OPEN,OPEN,0.0,,
+627,Vertical,Dashed,1,,1445.0,2590.0,1445.0,2776.0,OPEN,OPEN,0.0,,
+628,Vertical,Dashed,1,,1614.0,2757.0,1614.0,2912.0,OPEN,OPEN,0.0,,
+629,Vertical,Dashed,1,"24""-P-101-1209-B1A-IT",1640.0,4725.0,1642.0,4669.0,OPEN,OPEN,0.016,,
+630,Vertical,Dashed,1,,1773.0,2921.0,1775.0,3011.0,OPEN,OPEN,0.0,,
+631,Vertical,Dashed,1,,1793.0,4376.0,1793.0,4493.0,OPEN,OPEN,0.0,,
+632,Vertical,Dashed,1,,1801.0,2988.0,1801.0,3039.0,OPEN,OPEN,0.0,,
+633,Vertical,Dashed,1,,1809.0,4377.0,1811.0,4509.0,OPEN,OPEN,0.0,,
+634,Vertical,Dashed,1,,1862.0,2236.0,1863.0,2158.0,OPEN,OPEN,0.0,,
+635,Vertical,Dashed,1,,1916.0,2194.0,1917.0,2288.0,OPEN,OPEN,0.0,,
+636,Vertical,Dashed,1,,1932.0,3140.0,1935.0,3283.0,OPEN,OPEN,0.034,,
+637,Vertical,Dashed,1,,1984.0,3333.0,1995.0,3232.0,OPEN,OPEN,0.145,,
+638,Vertical,Dashed,1,"24""-P-101-1219-A19A-IS",2148.0,2289.0,2148.0,2918.0,OPEN,OPEN,0.342,,
+639,Vertical,Dashed,1,"24""-P-101-1219-A19A-IS",2175.0,2439.0,2176.0,2364.0,OPEN,OPEN,0.286,,
+640,Vertical,Dashed,1,,2177.0,3712.0,2177.0,3962.0,OPEN,OPEN,0.047,,
+641,Vertical,Dashed,1,,2194.0,3027.0,2197.0,3133.0,A11A,A11A,0.446,Equipment,Equipment
+642,Vertical,Dashed,1,,2209.0,3129.0,2210.0,3061.0,A11A,A11A,0.459,Equipment,Equipment
+643,Vertical,Dashed,1,"24""-P-101-1219-A19A-IS",2273.0,2340.0,2273.0,2669.0,OPEN,TI 1209,0.441,,Instrument
+644,Vertical,Dashed,1,"24""-P-101-1219-A19A-IS",2285.0,2340.0,2291.0,2669.0,OPEN,TI 1209,0.453,,Instrument
+645,Vertical,Dashed,1,"3""-FL-101-1204-A11A",2283.0,4418.0,2295.0,4749.0,FF,FF,0.827,Piping Component,Piping Component
+646,Vertical,Dashed,1,"3""-FL-101-1204-A11A",2324.0,4178.0,2324.0,4950.0,FI 1204 B,TE 1205,0.901,Instrument,Sensor
+647,Vertical,Dashed,1,,2638.0,4412.0,2638.0,4750.0,FI 1204 A,TE 1205,0.979,Instrument,Sensor
+648,Vertical,Dashed,1,,2635.0,2341.0,2635.0,2672.0,SP 018,TI 1209,0.575,Special Piping Item,Instrument
+649,Straight,Dashed,2,,2679.0,2223.0,2682.0,3719.0,OPEN,SP 016,0.838,,Special Piping Item
+650,Vertical,Dashed,1,,2685.0,4178.0,2685.0,4950.0,FT 1204,TE 1205,0.954,Instrument,Sensor
+651,Vertical,Dashed,1,,2792.0,3521.0,2792.0,3579.0,SP 016,SP 016,0.731,Special Piping Item,Special Piping Item
+652,Vertical,Dashed,1,,2808.0,3707.0,2808.0,3963.0,SP 016,B19A,0.806,Special Piping Item,Equipment
+653,Straight,Dashed,2,,2827.0,2318.0,2831.0,2920.0,CP 1208,TT 1209,0.986,Corrosion Monitoring System,Instrument
+654,Vertical,Dashed,1,,2823.0,3521.0,2823.0,3579.0,SP 016,SP 016,0.787,Special Piping Item,Special Piping Item
+655,Vertical,Dashed,1,,3072.0,3135.0,3074.0,3283.0,TE 1209,CC,0.498,Sensor,Corrosion Monitoring System
+656,Vertical,Dashed,1,,3127.0,3294.0,3127.0,3358.0,CC,CC,0.635,Corrosion Monitoring System,Corrosion Monitoring System
+657,Vertical,Dashed,1,,3138.0,2898.0,3138.0,3055.0,TE 1209,TE 1209,0.875,Sensor,Sensor
+658,Straight,Dashed,2,,3144.0,3354.0,3148.0,3146.0,CC,TE 1209,0.617,Corrosion Monitoring System,Sensor
+659,Vertical,Dashed,1,"26""-P-101-1215-A19A-IH",3239.0,4445.0,3239.0,4525.0,SLOPE 1:500,SLOPE 1:500,0.931,Sensor,Sensor
+660,Vertical,Dashed,1,,3267.0,3198.0,3267.0,3255.0,TE 1209,CC,0.327,Sensor,Corrosion Monitoring System
+661,Vertical,Dashed,1,,3292.0,2339.0,3292.0,2685.0,CP 1208,PI 1215,0.573,Corrosion Monitoring System,Instrument
+662,Vertical,Dashed,1,,3329.0,4926.0,3329.0,5046.0,TW 1210,TW 1210,0.812,Thermowell,Thermowell
+663,Vertical,Dashed,1,,3328.0,2893.0,3328.0,2946.0,TE 1209,TE 1209,0.499,Sensor,Sensor
+664,Vertical,Dashed,1,,3368.0,2596.0,3370.0,2489.0,CC,CC,0.418,Corrosion Monitoring System,Corrosion Monitoring System
+665,Vertical,Dashed,1,,3388.0,2487.0,3388.0,2664.0,CC,PI 1215,0.381,Corrosion Monitoring System,Instrument
+666,Vertical,Dashed,1,,3457.0,2866.0,3460.0,2977.0,T2,T2,0.369,Equipment,Equipment
+667,Vertical,Dashed,1,,3485.0,4299.0,3486.0,4211.0,PSV 1204,PSV 1204,0.731,Pressure Safety Valve,Pressure Safety Valve
+668,Vertical,Dashed,1,"2""-P-101-1223-B1A-IT",3499.0,3357.0,3500.0,3288.0,T1,T1,0.514,Equipment,Equipment
+669,Vertical,Dashed,1,"2""-P-101-1223-B1A-IT",3598.0,3387.0,3599.0,3310.0,T1,T1,0.711,Equipment,Equipment
+670,Vertical,Dashed,1,,3610.0,3041.0,3610.0,3141.0,T2,T2,0.697,Equipment,Equipment
+671,Vertical,Dashed,1,,3652.0,4376.0,3652.0,4495.0,TT 1204,TT 1204,0.828,Instrument,Instrument
+672,Vertical,Dashed,1,"2""-P-101-1223-B1A-IT",3642.0,3533.0,3664.0,3326.0,T1,T1,0.88,Equipment,Equipment
+673,Vertical,Dashed,1,,3668.0,4377.0,3668.0,4497.0,TT 1204,TT 1204,0.86,Instrument,Instrument
+674,Vertical,Dashed,1,"12""-P-101-1204-B1A-IT",3752.0,2340.0,3752.0,2646.0,OPEN,S1,0.637,,Equipment
+675,Vertical,Dashed,1,"2""-P-101-1223-B1A-IT",3868.0,3658.0,3868.0,3807.0,S2,TE 1204,0.523,Equipment,Sensor
+676,Vertical,Dashed,1,"12""-P-101-1204-B1A-IT",3931.0,2576.0,3937.0,2424.0,OPEN,OPEN,0.994,,
+677,Vertical,Dashed,1,,3996.0,3551.0,3996.0,3681.0,S2,S2,0.457,Equipment,Equipment
+678,Vertical,Dashed,1,,3986.0,4059.0,3988.0,4180.0,TE 1204,TE 1204,0.5,Sensor,Sensor
+679,Vertical,Dashed,1,"12""-P-101-1204-B1A-IT",4019.0,2424.0,4019.0,2680.0,OPEN,S1,0.829,,Equipment
+680,Vertical,Dashed,1,"12""-P-101-1204-B1A-IT",4092.0,2685.0,4092.0,2776.0,OPEN,S1,0.401,,Equipment
+681,Vertical,Dashed,1,"2""-P-101-1222-B1A-IT",4363.0,3683.0,4363.0,3760.0,S2,OPEN,0.56,Equipment,
+682,Vertical,Dashed,1,,4469.0,3009.0,4469.0,3366.0,T2,T1,0.873,Equipment,Equipment
+683,Vertical,Dashed,1,"2""-P-101-1222-B1A-IT",4484.0,3734.0,4484.0,3819.0,OPEN,TE 1203,0.489,,Sensor
+684,Vertical,Dashed,1,"2""-P-101-1222-B1A-IT",4511.0,3466.0,4511.0,3708.0,T1,OPEN,0.879,Equipment,
+685,Vertical,Dashed,1,,4582.0,1647.0,4582.0,1731.0,OPEN,OPEN,0.0,,
+686,Vertical,Dashed,1,,4603.0,1648.0,4603.0,1773.0,OPEN,OPEN,0.0,,
+687,Vertical,Dashed,1,"2""-P-101-1222-B1A-IT",4601.0,3602.0,4604.0,3688.0,T1,OPEN,0.614,Equipment,
+688,Vertical,Dashed,1,"2""-P-101-1222-B1A-IT",4658.0,3434.0,4658.0,3566.0,T1,T1,0.585,Equipment,Equipment
+689,Vertical,Dashed,1,,4657.0,2455.0,4657.0,2742.0,SP 014,SP 014,0.998,Special Piping Item,Special Piping Item
+690,Vertical,Dashed,1,,4658.0,1683.0,4658.0,1773.0,OPEN,OPEN,0.0,,
+691,Straight,Dashed,2,"2""-P-101-1222-B1A-IT",4678.0,3711.0,4681.0,3417.0,PSV 1203,T1,0.539,Pressure Safety Valve,Equipment
+692,Vertical,Dashed,1,"2""-P-101-1222-B1A-IT",4729.0,3402.0,4731.0,3281.0,T1,T1,0.421,Equipment,Equipment
+693,Vertical,Dashed,1,"2""-P-101-1222-B1A-IT",4739.0,3482.0,4739.0,3579.0,T1,OPEN,0.423,Equipment,
+694,Vertical,Dashed,1,,4785.0,4059.0,4785.0,4181.0,PSV 1203,PSV 1203,0.971,Pressure Safety Valve,Pressure Safety Valve
+695,Vertical,Dashed,1,,4774.0,4329.0,4777.0,4269.0,SLOPE 1:500,SLOPE 1:500,0.586,Sensor,Sensor
+696,Vertical,Dashed,1,,4811.0,2590.0,4811.0,2754.0,CC,SP 014,0.847,Corrosion Monitoring System,Special Piping Item
+697,Vertical,Dashed,1,,4858.0,1687.0,4858.0,1769.0,OPEN,OPEN,0.0,,
+698,Vertical,Dashed,1,,4869.0,1494.0,4869.0,1618.0,OPEN,OPEN,0.0,,
+699,Vertical,Dashed,1,,4884.0,1719.0,4889.0,1650.0,OPEN,OPEN,0.0,,
+700,Vertical,Dashed,1,,4902.0,3683.0,4905.0,3503.0,SP 111,A19A,0.517,Special Piping Item,Equipment
+701,Vertical,Dashed,1,,4923.0,2339.0,4923.0,2967.0,CP 1207,TE 1208,0.792,Corrosion Monitoring System,Sensor
+702,Vertical,Dashed,1,,4918.0,1495.0,4918.0,1618.0,OPEN,OPEN,0.0,,
+703,Vertical,Dashed,1,,4938.0,1598.0,4939.0,1542.0,OPEN,OPEN,0.0,,
+704,Vertical,Dashed,1,,4953.0,3248.0,4953.0,3342.0,A19A,A19A,0.545,Equipment,Equipment
+705,Vertical,Dashed,1,,4994.0,1497.0,4994.0,1616.0,OPEN,OPEN,0.0,,
+706,Vertical,Dashed,1,,5039.0,1495.0,5042.0,1687.0,OPEN,OPEN,0.0,,
+707,Vertical,Dashed,1,,5062.0,1500.0,5062.0,1691.0,OPEN,OPEN,0.0,,
+708,Vertical,Dashed,1,,5168.0,2740.0,5169.0,2794.0,PI 1212,TE 1208,0.857,Instrument,Sensor
+709,Vertical,Dashed,1,,5269.0,4509.0,5272.0,4376.0,FI 1203 A,FF,0.985,Instrument,Piping Component
+710,Vertical,Dashed,1,,5288.0,4377.0,5288.0,4509.0,FF,FI 1203 A,0.956,Piping Component,Instrument
+711,Vertical,Dashed,1,,5377.0,2588.0,5377.0,2821.0,PI 1212,TT 1208,0.877,Instrument,Instrument
+712,Vertical,Dashed,1,,5415.0,3147.0,5416.0,3254.0,A19A,A19A,0.901,Equipment,Equipment
+713,Vertical,Dashed,1,,5491.0,2530.0,5496.0,2587.0,TT 1208,TT 1208,0.373,Instrument,Instrument
+714,Vertical,Dashed,1,"2""-WP-101-1203-B19A-IH",5516.0,3773.0,5517.0,3713.0,SP 111,SP 111,0.895,Special Piping Item,Special Piping Item
+715,Vertical,Dashed,1,,5553.0,1347.0,5560.0,1255.0,OPEN,OPEN,0.0,,
+716,Vertical,Dashed,1,,5578.0,1453.0,5579.0,1373.0,OPEN,OPEN,0.0,,
+717,Vertical,Dashed,1,"3""-FL-101-1203-A11A",5637.0,4418.0,5642.0,4750.0,FF,FF,0.95,Piping Component,Piping Component
+718,Vertical,Dashed,1,,5647.0,2341.0,5647.0,2672.0,OPEN,TI 1208,0.58,,Instrument
+719,Vertical,Dashed,1,,5665.0,3241.0,5668.0,3426.0,A11A,A11A,0.834,Equipment,Equipment
+720,Vertical,Dashed,1,,5671.0,4127.0,5673.0,4202.0,FE-1203,FE-1203,0.658,Sensor,Sensor
+721,Vertical,Dashed,1,,5684.0,2223.0,5684.0,3373.0,OPEN,A11A,0.888,,Equipment
+722,Straight,Dashed,2,"3""-FL-101-1202-A11A",5685.0,4950.0,5686.0,3893.0,OPEN,FE-1203,0.903,,Sensor
+723,Vertical,Dashed,1,,5893.0,1309.0,5896.0,1220.0,OPEN,OPEN,0.0,,
+724,Vertical,Dashed,1,,5989.0,2334.0,5989.0,2672.0,SP 012,TI 1207,0.577,Special Piping Item,Instrument
+725,Vertical,Dashed,1,,5986.0,4656.0,6011.0,4418.0,FI 1202 A,FI 1202 A,0.974,Instrument,Instrument
+726,Vertical,Dashed,1,,6027.0,3659.0,6027.0,3718.0,SP 010,SP 010,0.499,Special Piping Item,Special Piping Item
+727,Vertical,Dashed,1,,6044.0,3458.0,6044.0,3718.0,A19A,SP 010,0.56,Equipment,Special Piping Item
+728,Vertical,Dashed,1,,6044.0,4182.0,6044.0,4962.0,FT 1202,OPEN,0.966,Instrument,
+729,Vertical,Dashed,1,,6043.0,3214.0,6046.0,3018.0,A19A,TI 1207,0.675,Equipment,Instrument
+730,Vertical,Dashed,1,,6106.0,3579.0,6107.0,3522.0,SP 010,SP 010,0.644,Special Piping Item,Special Piping Item
+731,Vertical,Dashed,1,,6149.0,3122.0,6156.0,3022.0,TT 1207,TT 1207,0.706,Instrument,Instrument
+732,Straight,Dashed,2,,6197.0,2811.0,6199.0,2289.0,TT 1207,CP 1206,0.859,Instrument,Corrosion Monitoring System
+733,Vertical,Dashed,1,,6227.0,2289.0,6227.0,2412.0,CP 1206,SP 012,0.648,Corrosion Monitoring System,Special Piping Item
+734,Vertical,Dashed,1,,6284.0,2590.0,6291.0,2795.0,SP 012,TT 1207,0.976,Special Piping Item,Instrument
+735,Vertical,Dashed,1,,6301.0,2939.0,6304.0,3027.0,TT 1207,TT 1207,0.764,Instrument,Instrument
+736,Vertical,Dashed,1,,6434.0,3068.0,6434.0,3253.0,TE 1207,CC,0.627,Sensor,Corrosion Monitoring System
+737,Vertical,Dashed,1,,6489.0,2875.0,6492.0,2937.0,TE 1207,TE 1207,0.897,Sensor,Sensor
+738,Vertical,Dashed,1,,6506.0,2796.0,6506.0,2846.0,TE 1207,TE 1207,0.847,Sensor,Sensor
+739,Vertical,Dashed,1,,6570.0,4181.0,6570.0,4238.0,SP 110,SP 110,0.761,Special Piping Item,Special Piping Item
+740,Straight,Dashed,2,,6568.0,5145.0,6571.0,5469.0,OPEN,OPEN,0.0,,
+741,Straight,Dashed,3,,6587.0,5141.0,6588.0,5709.0,OPEN,OPEN,0.0,,
+742,Vertical,Dashed,1,,6599.0,3302.0,6599.0,3368.0,CC,CC,0.539,Corrosion Monitoring System,Corrosion Monitoring System
+743,Straight,Dashed,3,,6620.0,5710.0,6621.0,5151.0,OPEN,OPEN,0.0,,
+744,Vertical,Dashed,1,,6615.0,3200.0,6618.0,3252.0,TE 1207,CC,0.332,Sensor,Corrosion Monitoring System
+745,Vertical,Dashed,1,,6645.0,2333.0,6645.0,2637.0,CP 1206,PI 1206,0.588,Corrosion Monitoring System,Instrument
+746,Vertical,Dashed,1,,6656.0,2331.0,6662.0,2677.0,CP 1206,PI 1206,0.559,Corrosion Monitoring System,Instrument
+747,Vertical,Dashed,1,,6673.0,2331.0,6673.0,2679.0,CP 1206,PI 1206,0.532,Corrosion Monitoring System,Instrument
+748,Vertical,Dashed,1,,6705.0,5621.0,6711.0,5710.0,OPEN,OPEN,0.0,,
+749,Vertical,Dashed,1,,6707.0,5140.0,6711.0,5230.0,OPEN,OPEN,0.0,,
+750,Vertical,Dashed,1,,6727.0,5621.0,6727.0,5708.0,OPEN,OPEN,0.0,,
+751,Vertical,Dashed,1,,6733.0,2488.0,6733.0,2660.0,CC,PI 1206,0.412,Corrosion Monitoring System,Instrument
+752,Vertical,Dashed,1,,6789.0,2911.0,6792.0,3012.0,TE 1207,T2,0.329,Sensor,Equipment
+753,Vertical,Dashed,1,,6810.0,1731.0,6812.0,1614.0,OPEN,OPEN,0.0,,
+754,Vertical,Dashed,1,,6840.0,4905.0,6841.0,4989.0,TI 1202,OPEN,0.255,Instrument,
+755,Vertical,Dashed,1,,6861.0,4668.0,6861.0,4733.0,TI 1202,TI 1202,0.495,Instrument,Instrument
+756,Vertical,Dashed,1,"12""-P-101-1202-B1A-IT",6914.0,2109.0,6914.0,2170.0,OPEN,OPEN,0.079,,
+757,Vertical,Dashed,1,,6988.0,3042.0,6988.0,3206.0,T2,T1,0.731,Equipment,Equipment
+758,Vertical,Dashed,1,"2""-SV-101-1202-B1A-IT",6998.0,4359.0,7000.0,4467.0,TT 1202,TT 1202,0.774,Instrument,Instrument
+759,Vertical,Dashed,1,,7008.0,1885.0,7008.0,1944.0,OPEN,OPEN,0.0,,
+760,Vertical,Dashed,1,"2""-P-101-1221-B1A-IT",7016.0,3309.0,7016.0,3658.0,T1,S2,0.896,Equipment,Equipment
+761,Vertical,Dashed,1,,7012.0,4392.0,7013.0,4493.0,TT 1202,TT 1202,0.798,Instrument,Instrument
+762,Vertical,Dashed,1,"12""-P-101-1202-B1A-IT",7034.0,1885.0,7034.0,2210.0,OPEN,OPEN,0.319,,
+763,Vertical,Dashed,1,"12""-P-101-1202-B1A-IT",7112.0,2332.0,7112.0,2639.0,OPEN,S1,0.637,,Equipment
+764,Straight,Dashed,2,,7151.0,2802.0,7151.0,2974.0,S1,S1,0.879,Equipment,Equipment
+765,Vertical,Dashed,1,"2""-P-101-1221-B1A-IT",7201.0,3660.0,7201.0,3807.0,S2,TE 1202,0.554,Equipment,Sensor
+766,Vertical,Dashed,1,,7231.0,2725.0,7231.0,2835.0,S1,S1,0.618,Equipment,Equipment
+767,Vertical,Dashed,1,"2""-P-101-1221-B1A-IT",7254.0,3522.0,7258.0,3646.0,S2,S2,0.619,Equipment,Equipment
+768,Vertical,Dashed,1,"12""-P-101-1202-B1A-IT",7293.0,1421.0,7293.0,2220.0,OPEN,OPEN,0.578,,
+769,Vertical,Dashed,1,"12""-P-101-1202-B1A-IT",7292.0,2456.0,7292.0,2545.0,OPEN,OPEN,0.95,,
+770,Vertical,Dashed,1,"12""-P-101-1202-B1A-IT",7312.0,2424.0,7312.0,2888.0,OPEN,S1,0.963,,Equipment
+771,Vertical,Dashed,1,,7341.0,4090.0,7341.0,4181.0,TE 1202,TE 1202,0.544,Sensor,Sensor
+772,Vertical,Dashed,1,,7342.0,3558.0,7344.0,3680.0,S2,S2,0.467,Equipment,Equipment
+773,Vertical,Dashed,1,"2""-P-101-1221-B1A-IT",7386.0,3649.0,7386.0,3788.0,S2,OPEN,0.28,Equipment,
+774,Vertical,Dashed,1,"12""-P-101-1202-B1A-IT",7449.0,2589.0,7449.0,2772.0,OPEN,S1,0.556,,Equipment
+775,Vertical,Dashed,1,,7455.0,3632.0,7455.0,3761.0,S2,OPEN,0.268,Equipment,
+776,Vertical,Dashed,1,"12""-P-101-1202-B1A-IT",7466.0,2590.0,7469.0,2738.0,OPEN,S1,0.53,,Equipment
+777,Vertical,Dashed,1,"2""-P-101-1220-B1A-IT",7509.0,3731.0,7510.0,3653.0,OPEN,S2,0.295,,Equipment
+778,Vertical,Dashed,1,"12""-P-101-1201-B1A-IT",7768.0,2030.0,7768.0,2129.0,OPEN,OPEN,0.354,,
+779,Vertical,Dashed,1,"12""-P-101-1201-B1A-IT",7815.0,2006.0,7815.0,2083.0,OPEN,OPEN,0.233,,
+780,Straight,Dashed,2,,7822.0,4835.0,7824.0,5098.0,TI 1201,OPEN,0.627,Instrument,
+781,Vertical,Dashed,1,"12""-P-101-1201-B1A-IT",7830.0,2059.0,7830.0,2131.0,OPEN,OPEN,0.304,,
+782,Vertical,Dashed,1,,7843.0,4832.0,7843.0,5166.0,TI 1201,OPEN,0.622,Instrument,
+783,Vertical,Dashed,1,"36""-P-101-1210-A19A-IH",7845.0,5552.0,7845.0,5648.0,OPEN,OPEN,0.496,,
+784,Vertical,Dashed,1,"12""-P-101-1201-B1A-IT",7895.0,2174.0,7895.0,2261.0,OPEN,OPEN,0.41,,
+785,Vertical,Dashed,1,"36""-P-101-1210-A19A-IH",7895.0,5710.0,7896.0,5626.0,OPEN,OPEN,0.404,,
+786,Vertical,Dashed,1,"36""-P-101-1210-A19A-IH",7901.0,5007.0,7906.0,5102.0,TI 1201,OPEN,0.498,Instrument,
+787,Vertical,Dashed,1,"12""-P-101-1201-B1A-IT",7913.0,2008.0,7913.0,2084.0,OPEN,OPEN,0.134,,
+788,Vertical,Dashed,1,,7928.0,4832.0,7928.0,5102.0,TI 1201,OPEN,0.543,Instrument,
+789,Vertical,Dashed,1,"36""-P-101-1210-A19A-IH",7915.0,5319.0,7915.0,5408.0,OPEN,OPEN,0.865,,
+790,Vertical,Dashed,1,,7922.0,1351.0,7926.0,1431.0,OPEN,OPEN,0.0,,
+791,Vertical,Dashed,1,"12""-P-101-1201-B1A-IT",7927.0,2174.0,7927.0,2261.0,CP 1205,CP 1205,0.356,Corrosion Monitoring System,Corrosion Monitoring System
+792,Vertical,Dashed,1,"36""-P-101-1210-A19A-IH",7944.0,5315.0,7944.0,5711.0,OPEN,OPEN,0.923,,
+793,Vertical,Dashed,1,,7942.0,1351.0,7945.0,1511.0,OPEN,OPEN,0.0,,
+794,Vertical,Dashed,1,"12""-P-101-1201-B1A-IT",7947.0,2177.0,7947.0,2261.0,CP 1205,CP 1205,0.322,Corrosion Monitoring System,Corrosion Monitoring System
+795,Vertical,Dashed,1,,7966.0,1354.0,7966.0,1509.0,OPEN,OPEN,0.0,,
+796,Vertical,Dashed,1,,7980.0,1082.0,7980.0,1240.0,OPEN,OPEN,0.0,,
+797,Vertical,Dashed,1,,7990.0,1446.0,7993.0,1352.0,OPEN,OPEN,0.0,,
+798,Vertical,Dashed,1,,8006.0,1426.0,8011.0,1504.0,OPEN,OPEN,0.0,,
+799,Vertical,Dashed,1,,8030.0,1427.0,8030.0,1511.0,OPEN,OPEN,0.0,,
+800,Vertical,Dashed,1,,8083.0,1084.0,8084.0,1169.0,OPEN,OPEN,0.0,,

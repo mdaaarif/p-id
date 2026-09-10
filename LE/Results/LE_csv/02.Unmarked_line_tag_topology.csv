@@ -1,0 +1,226 @@
+Line_ID,Line_Type,Num_Segments,line_tag,x_start,y_start,x_end,y_end,tag_start,tag_end,Confidence_Score,type_start,type_end
+1,Elbow,4,,332.0,897.0,339.0,1018.0,INDIA LIMITED,INDIA LIMITED,0.092,Complex Equipment,Complex Equipment
+2,Elbow,3,"12""-P-101-1201-B1A-IT",334.0,957.0,7542.0,3657.0,INDIA LIMITED,OPEN,0.877,Complex Equipment,
+3,Elbow,6,,7805.0,1527.0,8183.0,1137.0,OPEN,OPEN,0.0,,
+4,Horizontal,1,"24""-P-101-1216-A19A-IS",946.0,1197.0,8183.0,1197.0,,OPEN,0.632,Compressor,
+5,Horizontal,1,,5661.0,1452.0,5874.0,1452.0,OPEN,OPEN,0.0,,
+6,Elbow,2,,4713.0,1708.0,8183.0,1467.0,OPEN,OPEN,0.0,,
+7,Horizontal,1,"24""-P-101-1217-A19A-IS",2728.0,1692.0,2941.0,1692.0,OPEN,OPEN,0.349,,
+8,Horizontal,1,"24""-P-101-1217-A19A-IS",1446.0,1707.0,6832.0,1707.0,,OPEN,0.828,Heat Exchanger,
+9,Horizontal,1,"12""-P-101-1202-B1A-IT",6972.0,2097.0,7068.0,2097.0,OPEN,OPEN,0.194,,
+10,Horizontal,1,"12""-P-101-1202-B1A-IT",6973.0,2127.0,7067.0,2127.0,OPEN,OPEN,0.242,,
+11,Elbow,4,"12""-P-101-1201-B1A-IT",7656.0,2157.0,7733.0,2278.0,OPEN,OPEN,0.656,,
+12,Elbow,2,,838.0,4950.0,8118.0,2218.0,,SP 008,0.807,Instrument,Heat Exchanger
+13,Horizontal,1,,1860.0,2254.0,1929.0,2254.0,CR COL OVHD,CR COL OVHD,0.0,Valve (generic),Valve (generic)
+14,Horizontal,1,,6119.0,2291.0,6253.0,2289.0,SP 012,SP 012,0.635,Heat Exchanger,Heat Exchanger
+15,Straight,2,"12""-P-101-1203-B1A-IT",4185.0,2368.0,4335.0,2367.0,OPEN,SP 014,0.87,,Heat Exchanger
+16,Horizontal,1,,6138.0,2439.0,6215.0,2441.0,SP 012,SP 012,0.694,Heat Exchanger,Heat Exchanger
+17,Horizontal,1,"24""-P-101-1219-A19A-IS",2126.0,2441.0,2221.0,2441.0,OPEN,OPEN,0.214,,
+18,Elbow,4,,2313.0,2397.0,2313.0,2827.0,OPEN,TI 1209,0.42,,Temperature Indicator
+19,Straight,2,"12""-P-101-1203-B1A-IT",4185.0,2561.0,4335.0,2561.0,OPEN,SP 014,0.739,,Heat Exchanger
+20,Horizontal,1,"12""-P-101-1204-B1A-IT",3942.0,2576.0,4021.0,2574.0,OPEN,OPEN,0.709,,
+21,Horizontal,1,,4646.0,2576.0,4730.0,2574.0,SP 014,SP 014,0.989,Heat Exchanger,Heat Exchanger
+22,Horizontal,1,,1286.0,2576.0,1381.0,2576.0,OPEN,OPEN,0.0,,
+23,Horizontal,1,,2625.0,2578.0,2665.0,2578.0,SP 018,SP 018,0.498,Pressure Indicator,Pressure Indicator
+24,Vertical,1,,2672.0,2245.0,2672.0,2457.0,SP 018,SP 018,0.453,Pressure Indicator,Pressure Indicator
+25,Vertical,1,,2672.0,2946.0,2672.0,3088.0,TI 1209,TI 1209,0.803,Temperature Indicator,Temperature Indicator
+26,Vertical,1,,2673.0,2478.0,2673.0,2584.0,SP 018,SP 018,0.514,Pressure Indicator,Pressure Indicator
+27,Vertical,1,,2673.0,2638.0,2673.0,2694.0,SP 018,TI 1209,0.596,Pressure Indicator,Temperature Indicator
+28,Vertical,1,,2673.0,2721.0,2673.0,2777.0,TI 1209,TI 1209,0.743,Temperature Indicator,Temperature Indicator
+30,Vertical,1,,2673.0,3110.0,2673.0,3166.0,TI 1209,A19A,0.618,Temperature Indicator,Heat Exchanger
+31,Vertical,1,,2673.0,3334.0,2673.0,3374.0,A19A,A19A,0.721,Heat Exchanger,Heat Exchanger
+32,Horizontal,1,,3389.0,2846.0,3509.0,2844.0,TE 1209,OPEN,0.374,Pressure Indicator,
+33,Horizontal,1,,6068.0,2844.0,6122.0,2846.0,TI 1207,TT 1207,0.832,Temperature Transmitter,Temperature Primary Element
+34,Horizontal,1,,7128.0,2965.0,7194.0,2965.0,S2,S2,0.887,Tank,Tank
+35,Horizontal,1,,1129.0,2966.0,1194.0,2966.0,OPEN,OPEN,0.0,,
+36,Horizontal,1,,3768.0,2967.0,3834.0,2967.0,S1,S1,0.892,Tank,Tank
+37,Straight,2,,5413.0,3023.0,5674.0,3024.0,TT 1208,TI 1208,0.712,Temperature Transmitter,Temperature Transmitter
+38,Straight,2,,1962.0,3026.0,2314.0,3028.0,OPEN,TI 1209,0.416,,Temperature Indicator
+39,Horizontal,1,,2665.0,3027.0,3061.0,3027.0,TI 1209,TE 1209,0.709,Temperature Indicator,Pressure Indicator
+40,Horizontal,1,,1962.0,3041.0,2142.0,3041.0,OPEN,OPEN,0.242,,
+41,Elbow,3,,3332.0,3115.0,3776.0,1199.0,MIN.,OPEN,0.971,Vessel,
+42,Elbow,3,,6693.0,3117.0,7142.0,1199.0,MIN.,OPEN,0.961,Vessel,
+43,Horizontal,1,,5257.0,3140.0,5318.0,3140.0,TE 1208,TT 1208,0.61,Temperature Transmitter,Temperature Transmitter
+44,Horizontal,1,,5372.0,3178.0,5454.0,3176.0,A19A,A19A,0.809,Heat Exchanger,Heat Exchanger
+45,Straight,2,,6959.0,3312.0,7149.0,3311.0,MIN.,S2,0.965,Vessel,Tank
+47,Elbow,2,,816.0,3335.0,878.0,3261.0,OPEN,OPEN,0.0,,
+48,Elbow,2,,6396.0,3342.0,6458.0,3261.0,SP 010,MIN.,0.616,Heat Exchanger,Vessel
+49,Elbow,2,,3037.0,3372.0,3098.0,3291.0,SP 016,MIN.,0.675,Control Controller,Vessel
+50,Elbow,2,,1896.0,3372.0,1958.0,3291.0,OPEN,OPEN,0.081,,
+51,Elbow,2,,5646.0,3462.0,5708.0,3381.0,A19A,A19A,0.778,Heat Exchanger,Heat Exchanger
+52,Horizontal,1,,6006.0,3462.0,6068.0,3462.0,A19A,A19A,0.603,Heat Exchanger,Heat Exchanger
+53,Straight,1,,7243.0,3506.0,7285.0,3505.0,S2,S2,0.651,Tank,Tank
+54,Straight,2,"2""-P-101-1222-B1A-IT",4574.0,3506.0,4952.0,3507.0,OPEN,SP 111,0.748,,Vessel
+55,Horizontal,1,,3333.0,3507.0,3425.0,3506.0,MIN.,MIN.,0.488,Vessel,Vessel
+56,Horizontal,1,,6692.0,3506.0,6785.0,3506.0,MIN.,MIN.,0.49,Vessel,Vessel
+57,Horizontal,1,,1470.0,3506.0,1592.0,3508.0,OPEN,OPEN,0.0,,
+58,Straight,2,"2""-P-101-1221-B1A-IT",6996.0,3520.0,7270.0,3522.0,MIN.,S2,0.909,Vessel,Tank
+59,Straight,2,,2696.0,3567.0,3062.0,3562.0,SP 016,SP 016,0.935,Control Controller,Control Controller
+60,Elbow,3,,5281.0,2935.0,5674.0,3567.0,TT 1208,A19A,0.928,Temperature Transmitter,Heat Exchanger
+61,Elbow,4,,1921.0,2935.0,2229.0,3567.0,OPEN,A19A,0.348,,Heat Exchanger
+62,Horizontal,1,,4881.0,3566.0,4951.0,3567.0,SP 111,SP 111,0.564,Vessel,Vessel
+63,Horizontal,1,,6035.0,3568.0,6433.0,3568.0,SP 010,SP 010,0.931,Heat Exchanger,Heat Exchanger
+64,Horizontal,1,,5313.0,3581.0,5403.0,3581.0,B19A,B19A,0.732,Pump / Compressor,Pump / Compressor
+65,Straight,2,"2""-P-101-1221-B1A-IT",6693.0,3656.0,7068.0,3657.0,SP 110,PSV 1202,0.648,Pressure Valve,Temperature Primary Element
+66,Elbow,2,"12""-P-101-1203-B1A-IT",3327.0,3657.0,4231.0,1044.0,MIN.,OPEN,0.875,Vessel,
+67,Horizontal,1,"2""-WP-101-1203-B19A-IH",5646.0,3670.0,5708.0,3670.0,A19A,A19A,0.587,Heat Exchanger,Heat Exchanger
+68,Horizontal,1,,6006.0,3670.0,6068.0,3670.0,SP 010,SP 010,0.577,Heat Exchanger,Heat Exchanger
+69,Horizontal,1,,2286.0,3672.0,2348.0,3672.0,A19A,A19A,0.245,Heat Exchanger,Heat Exchanger
+70,Horizontal,1,,1500.0,3687.0,1592.0,3684.0,OPEN,OPEN,0.0,,
+71,Horizontal,1,"2""-WP-101-1203-B19A-IH",5650.0,3687.0,5708.0,3684.0,A19A,A19A,0.595,Heat Exchanger,Heat Exchanger
+72,Horizontal,1,,2262.0,3686.0,2348.0,3688.0,A19A,A19A,0.213,Heat Exchanger,Heat Exchanger
+73,Elbow,2,,4351.0,1044.0,4952.0,3687.0,OPEN,SP 111,0.942,,Vessel
+74,Straight,2,,5994.0,3716.0,6188.0,3711.0,SP 010,SP 010,0.762,Heat Exchanger,Heat Exchanger
+75,Horizontal,1,"2""-WP-101-1203-B19A-IH",5638.0,3716.0,5703.0,3716.0,A19A,A19A,0.637,Heat Exchanger,Heat Exchanger
+76,Horizontal,1,,2634.0,3717.0,2707.0,3717.0,SP 016,SP 016,0.548,Control Controller,Control Controller
+77,Horizontal,1,,2273.0,3719.0,2347.0,3718.0,OPEN,A19A,0.154,,Heat Exchanger
+78,Horizontal,1,,6551.0,3775.0,6692.0,3775.0,SP 110,SP 110,0.729,Pressure Valve,Pressure Valve
+79,Horizontal,1,,6325.0,3773.0,6392.0,3776.0,SP 010,SP 010,0.838,Heat Exchanger,Heat Exchanger
+80,Horizontal,1,,6098.0,3776.0,6234.0,3776.0,SP 010,SP 010,0.833,Heat Exchanger,Heat Exchanger
+81,Horizontal,1,,5949.0,3893.0,6692.0,3893.0,FE-1202,SP 110,0.926,Flow Transmitter,Pressure Valve
+82,Horizontal,1,"2""-WP-101-1203-B19A-IH",5653.0,3895.0,5778.0,3895.0,FT 1203,FT 1202,0.542,Flow Transmitter,Flow Transmitter
+83,Horizontal,1,"2""-WP-101-1203-B19A-IH",5429.0,3895.0,5571.0,3895.0,FT 1203,FT 1203,0.743,Flow Transmitter,Flow Transmitter
+84,Horizontal,1,"2""-WP-101-1203-B19A-IH",5327.0,3897.0,5383.0,3897.0,FT 1203,FT 1203,0.693,Flow Transmitter,Flow Transmitter
+85,Vertical,1,,6691.0,1709.0,6691.0,3778.0,OPEN,SP 110,0.502,,Pressure Valve
+86,Vertical,1,,6690.0,3973.0,6692.0,3894.0,SP 110,SP 110,0.745,Pressure Valve,Pressure Valve
+87,Straight,4,,1640.0,3776.0,2366.0,3777.0,OPEN,OPEN,0.042,,
+88,Straight,2,,4971.0,3777.0,5170.0,3775.0,SP 111,SP 111,0.796,Vessel,Vessel
+89,Horizontal,1,"2""-WP-101-1203-B19A-IH",5437.0,3776.0,5612.0,3776.0,FT 1203,FT 1203,0.981,Flow Transmitter,Flow Transmitter
+90,Horizontal,1,"2""-WP-101-1203-B19A-IH",5676.0,3777.0,5775.0,3776.0,FT 1203,A19A,0.575,Flow Transmitter,Heat Exchanger
+91,Horizontal,1,"3""-FL-101-1203-A11A",5626.0,4437.0,5673.0,4437.0,FI 1202 B,FI 1202 B,0.84,Flow Transmitter,Flow Transmitter
+92,Horizontal,1,"3""-FL-101-1203-A11A",5626.0,4697.0,5673.0,4697.0,OPEN,FI 1202 A,0.638,,Flow Indicator
+93,Vertical,1,,5671.0,3959.0,5673.0,4094.0,FT 1203,FT 1203,0.551,Flow Transmitter,Flow Transmitter
+94,Vertical,1,,5673.0,2221.0,5673.0,3777.0,OPEN,FT 1203,0.91,,Flow Transmitter
+95,Vertical,1,,5673.0,4271.0,5673.0,4327.0,FI 1202 B,FI 1202 B,0.672,Flow Transmitter,Flow Transmitter
+96,Vertical,1,"3""-FL-101-1203-A11A",5673.0,4378.0,5673.0,4433.0,FI 1202 B,FI 1202 B,0.795,Flow Transmitter,Flow Transmitter
+97,Vertical,1,"3""-FL-101-1203-A11A",5673.0,4455.0,5673.0,4511.0,FI 1202 B,FI 1202 B,0.881,Flow Transmitter,Flow Transmitter
+98,Vertical,1,"3""-FL-101-1203-A11A",5673.0,4532.0,5673.0,4588.0,FI 1202 B,FI 1202 B,0.877,Flow Transmitter,Flow Transmitter
+99,Vertical,1,"3""-FL-101-1203-A11A",5673.0,4694.0,5673.0,4750.0,FI 1202 A,FI 1202 A,0.625,Flow Indicator,Flow Indicator
+100,Horizontal,1,,2590.0,3777.0,3332.0,3777.0,SP 016,PSV 1204,0.841,Control Controller,Temperature Primary Element
+101,Horizontal,1,,1480.0,3894.0,1712.0,3894.0,OPEN,OPEN,0.0,,
+102,Horizontal,1,,2563.0,3895.0,2736.0,3895.0,FE-1204,B19A,0.653,Flow Transmitter,Flow Primary Element
+103,Horizontal,1,,3240.0,3897.0,3332.0,3897.0,SP 112,PSV 1204,0.6,Flow Primary Element,Temperature Primary Element
+104,Horizontal,1,,1851.0,3895.0,2055.0,3895.0,OPEN,OPEN,0.0,,
+105,Horizontal,1,,2109.0,3896.0,2252.0,3896.0,OPEN,OPEN,0.031,,
+106,Horizontal,1,,2910.0,3895.0,3201.0,3895.0,B19A,SP 112,0.923,Flow Primary Element,Flow Primary Element
+107,Horizontal,1,,2352.0,3896.0,2418.0,3896.0,OPEN,FT 1204,0.259,,Flow Indicator
+108,Horizontal,1,,1761.0,3897.0,1817.0,3897.0,OPEN,OPEN,0.0,,
+110,Horizontal,1,,1467.0,5667.0,8117.0,5667.0,OPEN,OPEN,0.901,,
+111,Vertical,1,,1471.0,3893.0,1471.0,5668.0,OPEN,OPEN,0.0,,
+112,Vertical,1,"26""-P-101-1215-A19A-IH",3330.0,4397.0,3330.0,4513.0,1.5E2,1.5E2,0.887,Speed/Safety Valve,Speed/Safety Valve
+113,Vertical,1,,3331.0,1709.0,3331.0,3778.0,OPEN,PSV 1204,0.495,,Temperature Primary Element
+114,Vertical,1,,3330.0,3973.0,3332.0,3894.0,PSV 1204,PSV 1204,0.699,Speed/Safety Valve,Temperature Primary Element
+115,Vertical,1,,3331.0,4148.0,3331.0,4264.0,PSV 1204,1.5E2,0.801,Speed/Safety Valve,Speed/Safety Valve
+116,Elbow,4,,4951.0,1709.0,8117.0,5187.0,OPEN,OPEN,0.997,,
+117,Horizontal,1,,5993.0,3954.0,6067.0,3954.0,FE-1202,FE-1202,0.571,Flow Transmitter,Flow Transmitter
+118,Horizontal,1,,2291.0,3955.0,2347.0,3955.0,OPEN,FT 1204,0.253,,Flow Indicator
+119,Horizontal,1,,2269.0,3986.0,2348.0,3986.0,OPEN,FT 1204,0.293,,Flow Indicator
+120,Horizontal,1,,3932.0,3989.0,4415.0,3989.0,TE 1204,TE 1203,0.634,Temperature Primary Element,Temperature Primary Element
+121,Horizontal,1,,5629.0,3998.0,5687.0,4002.0,FT 1203,FT 1203,0.447,Flow Transmitter,Flow Transmitter
+122,Straight,2,,1291.0,4062.0,1495.0,4061.0,OPEN,OPEN,0.0,,
+123,Straight,2,,4012.0,4059.0,4381.0,4060.0,TE 1204,TE 1203,0.758,Temperature Primary Element,Temperature Primary Element
+124,Horizontal,1,,6928.0,4136.0,7011.0,4135.0,PSV 1202,TE 1202,0.783,Temperature Primary Element,Temperature Primary Element
+125,Horizontal,1,,1150.0,4136.0,1231.0,4136.0,OPEN,OPEN,0.0,,
+126,Horizontal,1,,3568.0,4136.0,3659.0,4136.0,PSV 1204,TE 1204,0.827,Speed/Safety Valve,Temperature Primary Element
+127,Horizontal,1,,4618.0,4136.0,4712.0,4136.0,PSV 1203,1.5E2,0.792,Temperature Primary Element,Pressure Valve
+128,Elbow,2,,2286.0,4180.0,2348.0,4101.0,FI 1204 B,FI 1204 B,0.573,Flow Indicator,Flow Indicator
+129,Elbow,2,,5646.0,4181.0,5708.0,4101.0,FI 1202 B,FI 1202 B,0.695,Flow Transmitter,Flow Transmitter
+130,Horizontal,1,,2646.0,4182.0,2708.0,4182.0,FT 1204,FT 1204,0.947,Flow Indicator,Flow Indicator
+131,Elbow,1,,6068.0,4101.0,6068.0,4182.0,FE-1202,FT 1202,0.835,Flow Transmitter,Flow Transmitter
+132,Straight,2,,1290.0,4209.0,1531.0,4207.0,OPEN,OPEN,0.0,,
+133,Horizontal,1,,4306.0,4209.0,4381.0,4212.0,TE 1203,TE 1203,0.876,Temperature Primary Element,Temperature Primary Element
+139,Vertical,1,,6031.0,3959.0,6031.0,4012.0,FE-1202,FE-1202,0.611,Flow Transmitter,Flow Transmitter
+140,Vertical,1,,6033.0,2221.0,6033.0,3777.0,OPEN,SP 010,0.85,,Heat Exchanger
+141,Vertical,1,,6033.0,4320.0,6033.0,4435.0,FT 1202,FI 1202 A,0.908,Flow Transmitter,Flow Indicator
+144,Vertical,1,,6033.0,4673.0,6033.0,4790.0,FI 1202 A,FI 1202 A,0.674,Flow Indicator,Flow Indicator
+145,Vertical,1,,6033.0,4901.0,6033.0,4948.0,FI 1202 A,OPEN,0.226,Flow Indicator,
+146,Horizontal,1,"26""-P-101-1214-A19A-IH",4947.0,4527.0,5045.0,4526.0,FI 1203 B,FI 1203 B,0.935,Flow Transmitter,Flow Transmitter
+147,Elbow,4,"26""-P-101-1213-A19A-IH",6691.0,4223.0,6694.0,4938.0,1.5E2,OPEN,0.877,Speed/Safety Valve,
+148,Horizontal,1,,1452.0,4527.0,1565.0,4527.0,OPEN,CRUDE,0.0,,Vessel
+149,Horizontal,1,"26""-P-101-1215-A19A-IH",3327.0,4527.0,3425.0,4527.0,1.5E2,1.5E2,0.881,Speed/Safety Valve,Speed/Safety Valve
+150,Horizontal,1,"26""-P-101-1213-A19A-IH",6687.0,4706.0,6785.0,4706.0,OPEN,TI 1202,0.563,,Temperature Indicator
+151,Horizontal,1,,1473.0,4707.0,1565.0,4707.0,CRUDE,CRUDE,0.0,Vessel,Vessel
+152,Horizontal,1,"26""-P-101-1215-A19A-IH",3327.0,4708.0,3425.0,4706.0,TW 1210,TW 1210,0.573,Temperature Well/Thermowell,Temperature Well/Thermowell
+153,Horizontal,1,"26""-P-101-1214-A19A-IH",4947.0,4708.0,5045.0,4706.0,FI 1203 A,FI 1203 A,0.574,Flow Indicator,Flow Indicator
+154,Horizontal,1,,7934.0,4883.0,7968.0,4887.0,TI 1201,TI 1201,0.452,Temperature Indicator,Temperature Indicator
+155,Horizontal,1,,7730.0,4886.0,7867.0,4886.0,TI 1201,TI 1201,0.531,Temperature Indicator,Temperature Indicator
+156,Horizontal,1,"36""-P-101-1210-A19A-IH",8047.0,5007.0,8119.0,5006.0,OPEN,OPEN,0.32,,
+157,Horizontal,1,"36""-P-101-1210-A19A-IH",7882.0,5007.0,7938.0,5007.0,TI 1201,TI 1201,0.326,Temperature Indicator,Temperature Indicator
+158,Horizontal,1,"36""-P-101-1210-A19A-IH",7975.0,5007.0,8031.0,5007.0,OPEN,OPEN,0.332,,
+159,Horizontal,1,"36""-P-101-1210-A19A-IH",7736.0,5127.0,8118.0,5127.0,OPEN,OPEN,0.572,,
+160,Horizontal,1,"36""-P-101-1210-A19A-IH",7730.0,5247.0,8118.0,5247.0,OPEN,OPEN,0.812,,
+161,Horizontal,1,"36""-P-101-1210-A19A-IH",7729.0,5367.0,8118.0,5367.0,OPEN,OPEN,0.948,,
+162,Horizontal,1,"36""-P-101-1210-A19A-IH",7730.0,5487.0,8118.0,5487.0,OPEN,OPEN,0.708,,
+163,Horizontal,1,"36""-P-101-1210-A19A-IH",7729.0,5607.0,8118.0,5607.0,OPEN,OPEN,0.468,,
+164,Horizontal,1,"36""-P-101-1210-A19A-IH",7730.0,5727.0,8118.0,5727.0,OPEN,OPEN,0.228,,
+165,Vertical,1,"36""-P-101-1210-A19A-IH",7731.0,5373.0,7731.0,5488.0,OPEN,OPEN,0.492,,
+166,Vertical,1,"36""-P-101-1210-A19A-IH",7732.0,5728.0,7734.0,5690.0,OPEN,OPEN,0.143,,
+167,Vertical,1,,7734.0,4883.0,7734.0,5008.0,TI 1201,TI 1201,0.524,Temperature Indicator,Temperature Indicator
+168,Vertical,1,"36""-P-101-1210-A19A-IH",7734.0,5123.0,7734.0,5248.0,OPEN,OPEN,0.469,,
+169,Vertical,1,"36""-P-101-1210-A19A-IH",7947.0,4961.0,7947.0,5007.0,TI 1201,TI 1201,0.328,Temperature Indicator,Temperature Indicator
+170,Vertical,1,"36""-P-101-1210-A19A-IH",8114.0,5368.0,8114.0,5488.0,OPEN,OPEN,0.732,,
+171,Vertical,1,"36""-P-101-1210-A19A-IH",8114.0,5008.0,8117.0,4884.0,OPEN,OPEN,0.284,,
+172,Vertical,1,"36""-P-101-1210-A19A-IH",8116.0,5123.0,8116.0,5248.0,OPEN,OPEN,0.675,,
+173,Vertical,1,"36""-P-101-1210-A19A-IH",8115.0,5728.0,8117.0,5604.0,OPEN,OPEN,0.409,,
+174,Elbow,4,,259.0,4887.0,264.0,5008.0,OPEN,OPEN,0.0,,
+175,Horizontal,1,,7102.0,4932.0,7315.0,4932.0,TI 1202,TI 1202,0.439,Temperature Indicator,Temperature Indicator
+176,Straight,2,,265.0,4946.0,6043.0,4946.0,OPEN,OPEN,0.959,,
+177,Horizontal,1,,6687.0,4947.0,8117.0,4947.0,OPEN,OPEN,0.409,,
+178,Horizontal,1,"3""-FL-101-1202-A11A",5820.0,4983.0,5889.0,4983.0,OPEN,OPEN,0.051,,
+179,Horizontal,1,,6809.0,5172.0,7022.0,5172.0,OPEN,OPEN,0.0,,
+180,Horizontal,1,,6809.0,5412.0,7022.0,5412.0,OPEN,OPEN,0.0,,
+181,Elbow,5,"36""-P-101-1211-A19A-IH",3330.0,4755.0,8117.0,5427.0,TW 1210,OPEN,0.828,Temperature Well/Thermowell,
+182,Horizontal,1,,6809.0,5652.0,7022.0,5652.0,OPEN,OPEN,0.0,,
+183,Vertical,1,,990.0,1044.0,990.0,3760.0,,OPEN,0.0,Compressor,
+184,Vertical,1,,1141.0,1200.0,1141.0,3711.0,,OPEN,0.0,Complex Equipment,
+185,Straight,2,,1289.0,3432.0,1291.0,3711.0,OPEN,OPEN,0.0,,
+186,Vertical,1,,1577.0,2757.0,1577.0,2968.0,OPEN,OPEN,0.0,,
+187,Vertical,1,,1591.0,1709.0,1591.0,3778.0,,OPEN,0.0,Heat Exchanger,
+188,Vertical,1,"3""-FL-101-1204-A11A",1928.0,4360.0,1928.0,4512.0,OPEN,CRUDE,0.109,,Vessel
+189,Vertical,1,,2146.0,3009.0,2146.0,3064.0,OPEN,OPEN,0.279,,
+190,Straight,2,,2172.0,3134.0,2176.0,2862.0,OPEN,OPEN,0.406,,
+191,Straight,3,,2313.0,3049.0,2313.0,3374.0,TI 1209,A19A,0.779,Temperature Indicator,Heat Exchanger
+192,Vertical,1,"3""-FL-101-1204-A11A",2313.0,3893.0,2313.0,4950.0,OPEN,TE 1205,0.879,,Temperature Primary Element
+193,Straight,2,,2671.0,3661.0,2673.0,4950.0,SP 016,TE 1205,0.932,Control Controller,Temperature Primary Element
+194,Vertical,1,,2708.0,3381.0,2708.0,3462.0,A19A,A19A,0.623,Heat Exchanger,Heat Exchanger
+195,Vertical,1,,3061.0,2935.0,3061.0,3579.0,TE 1209,SP 016,0.965,Pressure Indicator,Control Controller
+196,Vertical,1,,3346.0,2486.0,3346.0,2699.0,PI 1215,PI 1215,0.465,Pressure Indicator,Pressure Indicator
+197,Vertical,1,,3475.0,4674.0,3476.0,4738.0,TI 1204,TW 1210,0.531,Temperature Indicator,Temperature Well/Thermowell
+198,Vertical,1,,3501.0,4667.0,3503.0,4736.0,TI 1204,TW 1210,0.525,Temperature Indicator,Temperature Well/Thermowell
+199,Vertical,1,,3578.0,2845.0,3578.0,2997.0,OPEN,S1,0.605,,Tank
+200,Vertical,1,,3787.0,3310.0,3787.0,3462.0,S1,S1,0.939,Tank,Tank
+202,Vertical,1,"2""-P-101-1222-B1A-IT",4501.0,1199.0,4501.0,3711.0,OPEN,PSV 1203,0.899,,Temperature Primary Element
+203,Vertical,1,"2""-P-101-1222-B1A-IT",4646.0,3432.0,4646.0,3566.0,OPEN,OPEN,0.609,,
+204,Vertical,1,,4836.0,1773.0,4840.0,1687.0,OPEN,OPEN,0.0,,
+205,Vertical,1,,4868.0,3265.0,4868.0,3419.0,OPEN,SP 111,0.441,,Vessel
+206,Vertical,1,,4937.0,2757.0,4937.0,2968.0,PI 1212,TE 1208,0.578,Temperature Transmitter,Temperature Transmitter
+207,Vertical,1,,5026.0,1494.0,5026.0,1571.0,OPEN,OPEN,0.0,,
+208,Vertical,1,"26""-P-101-1214-A19A-IH",5122.0,4668.0,5123.0,4736.0,FI 1203 A,FI 1203 A,0.59,Flow Indicator,Flow Indicator
+209,Straight,1,,5130.0,2764.0,5130.0,2794.0,PI 1212,TE 1208,0.822,Temperature Transmitter,Temperature Transmitter
+210,Vertical,1,,5294.0,3180.0,5294.0,3283.0,A19A,A19A,0.663,Heat Exchanger,Heat Exchanger
+211,Vertical,1,,5324.0,3287.0,5324.0,3372.0,A19A,A19A,0.755,Heat Exchanger,Heat Exchanger
+212,Vertical,1,,5325.0,2984.0,5326.0,3044.0,TT 1208,TT 1208,0.759,Temperature Transmitter,Temperature Transmitter
+213,Vertical,1,,5408.0,4360.0,5408.0,4512.0,FI 1203 A,FI 1203 A,0.806,Flow Indicator,Flow Indicator
+214,Vertical,1,"2""-WP-101-1203-B19A-IH",5520.0,3887.0,5520.0,3961.0,FT 1203,FT 1203,0.734,Flow Transmitter,Flow Transmitter
+215,Vertical,1,,5529.0,3074.0,5532.0,3130.0,TI 1208,A19A,0.701,Temperature Transmitter,Heat Exchanger
+216,Vertical,1,,5865.0,4885.0,5866.0,4971.0,FI 1202 A,OPEN,0.223,Flow Indicator,
+217,Vertical,1,,6196.0,3002.0,6196.0,3063.0,TT 1207,TT 1207,0.759,Temperature Primary Element,Temperature Primary Element
+218,Vertical,1,,6421.0,2935.0,6421.0,3579.0,TE 1207,SP 010,0.964,Temperature Primary Element,Heat Exchanger
+219,Vertical,1,,6707.0,2487.0,6707.0,2698.0,PI 1206,PI 1206,0.464,Temperature Primary Element,Temperature Primary Element
+220,Vertical,1,,6743.0,2875.0,6743.0,3032.0,TE 1207,MIN.,0.39,Temperature Primary Element,Vessel
+222,Vertical,1,"26""-P-101-1213-A19A-IH",6835.0,4674.0,6836.0,4738.0,TI 1202,TI 1202,0.461,Temperature Indicator,Temperature Indicator
+223,Vertical,1,"2""-SV-101-1202-B1A-IT",6958.0,4389.0,6960.0,4514.0,TT 1202,TT 1202,0.705,Temperature Primary Element,Temperature Primary Element
+224,Vertical,1,"12""-P-101-1202-B1A-IT",7021.0,1984.0,7021.0,2220.0,OPEN,OPEN,0.311,,
+225,Vertical,1,,7067.0,3080.0,7067.0,3139.0,S2,S2,0.886,Tank,Tank
+226,Vertical,1,,7156.0,897.0,7162.0,981.0,OPEN,OPEN,0.0,,
+227,Vertical,1,,7216.0,1494.0,7216.0,1647.0,OPEN,OPEN,0.0,,
+228,Vertical,1,"12""-P-101-1202-B1A-IT",7231.0,2424.0,7231.0,2577.0,OPEN,OPEN,0.875,,
+229,Vertical,1,,7261.0,4063.0,7261.0,4212.0,TE 1202,TE 1202,0.704,Temperature Primary Element,Temperature Primary Element
+230,Vertical,1,,7366.0,1495.0,7366.0,1647.0,OPEN,OPEN,0.0,,
+231,Vertical,1,,7369.0,3553.0,7369.0,3606.0,S2,OPEN,0.442,Tank,
+232,Vertical,1,"12""-P-101-1202-B1A-IT",7381.0,2425.0,7381.0,2685.0,OPEN,OPEN,0.825,,
+233,Vertical,1,,7411.0,4060.0,7411.0,4212.0,TE 1202,TE 1202,0.404,Temperature Primary Element,Temperature Primary Element
+234,Vertical,1,"12""-P-101-1201-B1A-IT",7649.0,2206.0,7678.0,2020.0,OPEN,OPEN,0.55,,
+235,Vertical,1,"12""-P-101-1201-B1A-IT",7752.0,2053.0,7752.0,2131.0,OPEN,OPEN,0.369,,
+236,Vertical,1,"12""-P-101-1201-B1A-IT",7845.0,2054.0,7845.0,2122.0,OPEN,OPEN,0.273,,
+237,Vertical,1,,7988.0,2006.0,7988.0,2084.0,OPEN,OPEN,0.234,,

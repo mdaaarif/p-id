@@ -1,0 +1,2597 @@
+cluster_id,template_name,template_group,best_score,best_scale,threshold,above_threshold,winner
+02.Unmarked_p1_c0000,Gate Valve,Valve,0.239,0.6,0.4,False,False
+02.Unmarked_p1_c0000,Globe Valve,Valve,0.2676,0.6,0.4,False,False
+02.Unmarked_p1_c0000,Butterfly Valve,Valve,0.1945,0.7,0.4,False,False
+02.Unmarked_p1_c0000,Check Valve,Valve,0.2271,0.6,0.4,False,False
+02.Unmarked_p1_c0000,Control Valve,Valve,0.1694,0.8,0.4,False,False
+02.Unmarked_p1_c0000,Needle Valve,Valve,0.2535,0.6,0.4,False,False
+02.Unmarked_p1_c0000,Relief Valve,Valve,0.2975,0.6,0.4,False,False
+02.Unmarked_p1_c0000,Solenoid Valve,Valve,0.2271,0.6,0.4,False,False
+02.Unmarked_p1_c0000,3-Way Valve,Valve,0.2438,0.6,0.4,False,False
+02.Unmarked_p1_c0000,Diaphragm Valve,Valve,0.2256,0.7,0.4,False,False
+02.Unmarked_p1_c0000,Centrifugal Pump,Pump,0.2723,0.9,0.4,False,False
+02.Unmarked_p1_c0000,Rotary Pump,Pump,0.2253,0.6,0.4,False,False
+02.Unmarked_p1_c0000,Heat Exchanger,Heat Exchanger,0.3117,0.8,0.4,False,False
+02.Unmarked_p1_c0000,Condenser,Heat Exchanger,0.2686,0.6,0.4,False,False
+02.Unmarked_p1_c0000,Reboiler,Heat Exchanger,0.2779,0.7,0.4,False,False
+02.Unmarked_p1_c0000,Cooler,Heat Exchanger,0.2942,0.6,0.4,False,False
+02.Unmarked_p1_c0000,Vessel,Vessel,0.3484,0.6,0.4,False,False
+02.Unmarked_p1_c0000,Tank,Vessel,0.4225,0.6,0.4,True,True
+02.Unmarked_p1_c0000,Drum,Vessel,0.384,0.7,0.4,False,False
+02.Unmarked_p1_c0000,Filter,Filter,0.3856,0.6,0.4,False,False
+02.Unmarked_p1_c0000,Strainer,Filter,0.319,0.7,0.4,False,False
+02.Unmarked_p1_c0000,Compressor,Compressor,0.3073,0.6,0.4,False,False
+02.Unmarked_p1_c0001,Gate Valve,Valve,0.2711,0.7,0.4,False,False
+02.Unmarked_p1_c0001,Globe Valve,Valve,0.2376,0.6,0.4,False,False
+02.Unmarked_p1_c0001,Butterfly Valve,Valve,0.1738,0.7,0.4,False,False
+02.Unmarked_p1_c0001,Check Valve,Valve,0.1963,0.9,0.4,False,False
+02.Unmarked_p1_c0001,Control Valve,Valve,0.2205,0.6,0.4,False,False
+02.Unmarked_p1_c0001,Needle Valve,Valve,0.2261,0.6,0.4,False,False
+02.Unmarked_p1_c0001,Relief Valve,Valve,0.3272,0.6,0.4,False,False
+02.Unmarked_p1_c0001,Solenoid Valve,Valve,0.1945,0.6,0.4,False,False
+02.Unmarked_p1_c0001,3-Way Valve,Valve,0.2401,0.6,0.4,False,False
+02.Unmarked_p1_c0001,Diaphragm Valve,Valve,0.1963,0.9,0.4,False,False
+02.Unmarked_p1_c0001,Centrifugal Pump,Pump,0.2957,0.6,0.4,False,False
+02.Unmarked_p1_c0001,Rotary Pump,Pump,0.1945,0.6,0.4,False,False
+02.Unmarked_p1_c0001,Heat Exchanger,Heat Exchanger,0.3251,0.6,0.4,False,False
+02.Unmarked_p1_c0001,Condenser,Heat Exchanger,0.2415,0.6,0.4,False,False
+02.Unmarked_p1_c0001,Reboiler,Heat Exchanger,0.2638,0.7,0.4,False,False
+02.Unmarked_p1_c0001,Cooler,Heat Exchanger,0.2793,0.6,0.4,False,False
+02.Unmarked_p1_c0001,Vessel,Vessel,0.3745,0.6,0.4,False,False
+02.Unmarked_p1_c0001,Tank,Vessel,0.4587,0.6,0.4,True,True
+02.Unmarked_p1_c0001,Drum,Vessel,0.3925,0.6,0.4,False,False
+02.Unmarked_p1_c0001,Filter,Filter,0.3429,0.6,0.4,False,False
+02.Unmarked_p1_c0001,Strainer,Filter,0.3045,0.7,0.4,False,False
+02.Unmarked_p1_c0001,Compressor,Compressor,0.3402,0.6,0.4,False,False
+02.Unmarked_p1_c0002,Gate Valve,Valve,0.2556,0.6,0.4,False,False
+02.Unmarked_p1_c0002,Globe Valve,Valve,0.2804,0.7,0.4,False,False
+02.Unmarked_p1_c0002,Butterfly Valve,Valve,0.1958,0.7,0.4,False,False
+02.Unmarked_p1_c0002,Check Valve,Valve,0.2233,0.6,0.4,False,False
+02.Unmarked_p1_c0002,Control Valve,Valve,0.177,0.6,0.4,False,False
+02.Unmarked_p1_c0002,Needle Valve,Valve,0.2661,0.6,0.4,False,False
+02.Unmarked_p1_c0002,Relief Valve,Valve,0.2957,0.6,0.4,False,False
+02.Unmarked_p1_c0002,Solenoid Valve,Valve,0.2233,0.6,0.4,False,False
+02.Unmarked_p1_c0002,3-Way Valve,Valve,0.2631,0.7,0.4,False,False
+02.Unmarked_p1_c0002,Diaphragm Valve,Valve,0.2217,0.7,0.4,False,False
+02.Unmarked_p1_c0002,Centrifugal Pump,Pump,0.274,0.9,0.4,False,False
+02.Unmarked_p1_c0002,Rotary Pump,Pump,0.2209,0.7,0.4,False,False
+02.Unmarked_p1_c0002,Heat Exchanger,Heat Exchanger,0.3271,0.6,0.4,False,False
+02.Unmarked_p1_c0002,Condenser,Heat Exchanger,0.2912,0.6,0.4,False,False
+02.Unmarked_p1_c0002,Reboiler,Heat Exchanger,0.2801,0.7,0.4,False,False
+02.Unmarked_p1_c0002,Cooler,Heat Exchanger,0.3081,0.6,0.4,False,False
+02.Unmarked_p1_c0002,Vessel,Vessel,0.3561,1.0,0.4,False,False
+02.Unmarked_p1_c0002,Tank,Vessel,0.4155,0.6,0.4,True,True
+02.Unmarked_p1_c0002,Drum,Vessel,0.3677,0.7,0.4,False,False
+02.Unmarked_p1_c0002,Filter,Filter,0.3722,0.6,0.4,False,False
+02.Unmarked_p1_c0002,Strainer,Filter,0.3197,0.7,0.4,False,False
+02.Unmarked_p1_c0002,Compressor,Compressor,0.3074,0.6,0.4,False,False
+02.Unmarked_p1_c0003,Gate Valve,Valve,0.2566,0.7,0.4,False,False
+02.Unmarked_p1_c0003,Globe Valve,Valve,0.2494,0.6,0.4,False,False
+02.Unmarked_p1_c0003,Butterfly Valve,Valve,0.1783,0.7,0.4,False,False
+02.Unmarked_p1_c0003,Check Valve,Valve,0.1991,0.9,0.4,False,False
+02.Unmarked_p1_c0003,Control Valve,Valve,0.1702,0.6,0.4,False,False
+02.Unmarked_p1_c0003,Needle Valve,Valve,0.2219,0.6,0.4,False,False
+02.Unmarked_p1_c0003,Relief Valve,Valve,0.3241,0.6,0.4,False,False
+02.Unmarked_p1_c0003,Solenoid Valve,Valve,0.1883,0.6,0.4,False,False
+02.Unmarked_p1_c0003,3-Way Valve,Valve,0.245,0.7,0.4,False,False
+02.Unmarked_p1_c0003,Diaphragm Valve,Valve,0.1991,0.9,0.4,False,False
+02.Unmarked_p1_c0003,Centrifugal Pump,Pump,0.2994,0.6,0.4,False,False
+02.Unmarked_p1_c0003,Rotary Pump,Pump,0.2192,0.6,0.4,False,False
+02.Unmarked_p1_c0003,Heat Exchanger,Heat Exchanger,0.3351,0.6,0.4,False,False
+02.Unmarked_p1_c0003,Condenser,Heat Exchanger,0.2506,0.6,0.4,False,False
+02.Unmarked_p1_c0003,Reboiler,Heat Exchanger,0.2679,0.7,0.4,False,False
+02.Unmarked_p1_c0003,Cooler,Heat Exchanger,0.2761,0.6,0.4,False,False
+02.Unmarked_p1_c0003,Vessel,Vessel,0.3776,1.0,0.4,False,False
+02.Unmarked_p1_c0003,Tank,Vessel,0.4559,0.6,0.4,True,True
+02.Unmarked_p1_c0003,Drum,Vessel,0.3842,0.6,0.4,False,False
+02.Unmarked_p1_c0003,Filter,Filter,0.3452,0.6,0.4,False,False
+02.Unmarked_p1_c0003,Strainer,Filter,0.3082,0.6,0.4,False,False
+02.Unmarked_p1_c0003,Compressor,Compressor,0.345,0.6,0.4,False,False
+02.Unmarked_p1_c0004,Gate Valve,Valve,0.2672,0.6,0.4,False,False
+02.Unmarked_p1_c0004,Globe Valve,Valve,0.2523,0.8,0.4,False,False
+02.Unmarked_p1_c0004,Butterfly Valve,Valve,0.1913,0.7,0.4,False,False
+02.Unmarked_p1_c0004,Check Valve,Valve,0.2034,0.7,0.4,False,False
+02.Unmarked_p1_c0004,Control Valve,Valve,0.204,0.6,0.4,False,False
+02.Unmarked_p1_c0004,Needle Valve,Valve,0.1932,0.7,0.4,False,False
+02.Unmarked_p1_c0004,Relief Valve,Valve,0.256,0.7,0.4,False,False
+02.Unmarked_p1_c0004,Solenoid Valve,Valve,0.2034,0.7,0.4,False,False
+02.Unmarked_p1_c0004,3-Way Valve,Valve,0.1857,0.6,0.4,False,False
+02.Unmarked_p1_c0004,Diaphragm Valve,Valve,0.1888,0.6,0.4,False,False
+02.Unmarked_p1_c0004,Centrifugal Pump,Pump,0.2542,0.6,0.4,False,False
+02.Unmarked_p1_c0004,Rotary Pump,Pump,0.1754,0.6,0.4,False,False
+02.Unmarked_p1_c0004,Heat Exchanger,Heat Exchanger,0.2395,0.7,0.4,False,False
+02.Unmarked_p1_c0004,Condenser,Heat Exchanger,0.1875,0.6,0.4,False,False
+02.Unmarked_p1_c0004,Reboiler,Heat Exchanger,0.2065,0.6,0.4,False,False
+02.Unmarked_p1_c0004,Cooler,Heat Exchanger,0.2348,0.6,0.4,False,False
+02.Unmarked_p1_c0004,Vessel,Vessel,0.3003,0.6,0.4,False,False
+02.Unmarked_p1_c0004,Tank,Vessel,0.3003,0.6,0.4,False,False
+02.Unmarked_p1_c0004,Drum,Vessel,0.222,0.6,0.4,False,False
+02.Unmarked_p1_c0004,Filter,Filter,0.2508,0.6,0.4,False,False
+02.Unmarked_p1_c0004,Strainer,Filter,0.2254,0.6,0.4,False,False
+02.Unmarked_p1_c0004,Compressor,Compressor,0.2614,0.6,0.4,False,False
+02.Unmarked_p1_c0005,Gate Valve,Valve,0.2713,0.6,0.4,False,False
+02.Unmarked_p1_c0005,Globe Valve,Valve,0.2188,0.7,0.4,False,False
+02.Unmarked_p1_c0005,Butterfly Valve,Valve,0.1787,0.6,0.4,False,False
+02.Unmarked_p1_c0005,Check Valve,Valve,0.2057,0.6,0.4,False,False
+02.Unmarked_p1_c0005,Control Valve,Valve,0.2026,0.7,0.4,False,False
+02.Unmarked_p1_c0005,Needle Valve,Valve,0.1752,0.6,0.4,False,False
+02.Unmarked_p1_c0005,Relief Valve,Valve,0.2681,0.6,0.4,False,False
+02.Unmarked_p1_c0005,Solenoid Valve,Valve,0.1734,0.6,0.4,False,False
+02.Unmarked_p1_c0005,3-Way Valve,Valve,0.2203,0.6,0.4,False,False
+02.Unmarked_p1_c0005,Diaphragm Valve,Valve,0.2057,0.6,0.4,False,False
+02.Unmarked_p1_c0005,Centrifugal Pump,Pump,0.3179,0.6,0.4,False,False
+02.Unmarked_p1_c0005,Rotary Pump,Pump,0.1938,0.8,0.4,False,False
+02.Unmarked_p1_c0005,Heat Exchanger,Heat Exchanger,0.2292,0.8,0.4,False,False
+02.Unmarked_p1_c0005,Condenser,Heat Exchanger,0.2136,0.7,0.4,False,False
+02.Unmarked_p1_c0005,Reboiler,Heat Exchanger,0.2421,0.7,0.4,False,False
+02.Unmarked_p1_c0005,Cooler,Heat Exchanger,0.26,0.7,0.4,False,False
+02.Unmarked_p1_c0005,Vessel,Vessel,0.2878,0.6,0.4,False,False
+02.Unmarked_p1_c0005,Tank,Vessel,0.3594,0.6,0.4,False,False
+02.Unmarked_p1_c0005,Drum,Vessel,0.3241,0.6,0.4,False,False
+02.Unmarked_p1_c0005,Filter,Filter,0.2875,0.6,0.4,False,False
+02.Unmarked_p1_c0005,Strainer,Filter,0.2765,0.6,0.4,False,False
+02.Unmarked_p1_c0005,Compressor,Compressor,0.3179,0.6,0.4,False,False
+02.Unmarked_p1_c0006,Gate Valve,Valve,0.2548,0.6,0.4,False,False
+02.Unmarked_p1_c0006,Globe Valve,Valve,0.2052,0.7,0.4,False,False
+02.Unmarked_p1_c0006,Butterfly Valve,Valve,0.1746,0.6,0.4,False,False
+02.Unmarked_p1_c0006,Check Valve,Valve,0.1837,0.6,0.4,False,False
+02.Unmarked_p1_c0006,Control Valve,Valve,0.1942,0.7,0.4,False,False
+02.Unmarked_p1_c0006,Needle Valve,Valve,0.1629,0.6,0.4,False,False
+02.Unmarked_p1_c0006,Relief Valve,Valve,0.2275,0.6,0.4,False,False
+02.Unmarked_p1_c0006,Solenoid Valve,Valve,0.1837,0.6,0.4,False,False
+02.Unmarked_p1_c0006,3-Way Valve,Valve,0.1926,0.6,0.4,False,False
+02.Unmarked_p1_c0006,Diaphragm Valve,Valve,0.159,0.6,0.4,False,False
+02.Unmarked_p1_c0006,Centrifugal Pump,Pump,0.2605,0.6,0.4,False,False
+02.Unmarked_p1_c0006,Rotary Pump,Pump,0.164,0.6,0.4,False,False
+02.Unmarked_p1_c0006,Heat Exchanger,Heat Exchanger,0.2367,0.6,0.4,False,False
+02.Unmarked_p1_c0006,Condenser,Heat Exchanger,0.1898,0.7,0.4,False,False
+02.Unmarked_p1_c0006,Reboiler,Heat Exchanger,0.2349,0.7,0.4,False,False
+02.Unmarked_p1_c0006,Cooler,Heat Exchanger,0.2281,0.6,0.4,False,False
+02.Unmarked_p1_c0006,Vessel,Vessel,0.2774,0.6,0.4,False,False
+02.Unmarked_p1_c0006,Tank,Vessel,0.2509,0.6,0.4,False,False
+02.Unmarked_p1_c0006,Drum,Vessel,0.2638,0.6,0.4,False,False
+02.Unmarked_p1_c0006,Filter,Filter,0.2706,0.6,0.4,False,False
+02.Unmarked_p1_c0006,Strainer,Filter,0.2418,0.6,0.4,False,False
+02.Unmarked_p1_c0006,Compressor,Compressor,0.2333,0.6,0.4,False,False
+02.Unmarked_p1_c0007,Gate Valve,Valve,0.2616,0.6,0.4,False,False
+02.Unmarked_p1_c0007,Globe Valve,Valve,0.1847,0.6,0.4,False,False
+02.Unmarked_p1_c0007,Butterfly Valve,Valve,0.1479,0.6,0.4,False,False
+02.Unmarked_p1_c0007,Check Valve,Valve,0.2321,0.6,0.4,False,False
+02.Unmarked_p1_c0007,Control Valve,Valve,0.1792,0.6,0.4,False,False
+02.Unmarked_p1_c0007,Needle Valve,Valve,0.1938,0.6,0.4,False,False
+02.Unmarked_p1_c0007,Relief Valve,Valve,0.2387,0.6,0.4,False,False
+02.Unmarked_p1_c0007,Solenoid Valve,Valve,0.2321,0.6,0.4,False,False
+02.Unmarked_p1_c0007,3-Way Valve,Valve,0.2234,0.6,0.4,False,False
+02.Unmarked_p1_c0007,Diaphragm Valve,Valve,0.1813,0.6,0.4,False,False
+02.Unmarked_p1_c0007,Centrifugal Pump,Pump,0.1968,0.6,0.4,False,False
+02.Unmarked_p1_c0007,Rotary Pump,Pump,0.1929,0.7,0.4,False,False
+02.Unmarked_p1_c0007,Heat Exchanger,Heat Exchanger,0.2358,0.7,0.4,False,False
+02.Unmarked_p1_c0007,Condenser,Heat Exchanger,0.2295,0.6,0.4,False,False
+02.Unmarked_p1_c0007,Reboiler,Heat Exchanger,0.1872,0.7,0.4,False,False
+02.Unmarked_p1_c0007,Cooler,Heat Exchanger,0.2322,0.6,0.4,False,False
+02.Unmarked_p1_c0007,Vessel,Vessel,0.2355,0.8,0.4,False,False
+02.Unmarked_p1_c0007,Tank,Vessel,0.2355,0.8,0.4,False,False
+02.Unmarked_p1_c0007,Drum,Vessel,0.2029,0.8,0.4,False,False
+02.Unmarked_p1_c0007,Filter,Filter,0.2101,0.6,0.4,False,False
+02.Unmarked_p1_c0007,Strainer,Filter,0.2292,0.8,0.4,False,False
+02.Unmarked_p1_c0007,Compressor,Compressor,0.2456,0.6,0.4,False,False
+02.Unmarked_p1_c0008,Gate Valve,Valve,0.2368,0.6,0.4,False,False
+02.Unmarked_p1_c0008,Globe Valve,Valve,0.2062,0.7,0.4,False,False
+02.Unmarked_p1_c0008,Butterfly Valve,Valve,0.1756,0.6,0.4,False,False
+02.Unmarked_p1_c0008,Check Valve,Valve,0.1675,0.6,0.4,False,False
+02.Unmarked_p1_c0008,Control Valve,Valve,0.224,0.6,0.4,False,False
+02.Unmarked_p1_c0008,Needle Valve,Valve,0.185,0.7,0.4,False,False
+02.Unmarked_p1_c0008,Relief Valve,Valve,0.2623,0.6,0.4,False,False
+02.Unmarked_p1_c0008,Solenoid Valve,Valve,0.1675,0.6,0.4,False,False
+02.Unmarked_p1_c0008,3-Way Valve,Valve,0.1873,0.6,0.4,False,False
+02.Unmarked_p1_c0008,Diaphragm Valve,Valve,0.1555,0.6,0.4,False,False
+02.Unmarked_p1_c0008,Centrifugal Pump,Pump,0.2993,0.6,0.4,False,False
+02.Unmarked_p1_c0008,Rotary Pump,Pump,0.1848,0.8,0.4,False,False
+02.Unmarked_p1_c0008,Heat Exchanger,Heat Exchanger,0.2515,0.6,0.4,False,False
+02.Unmarked_p1_c0008,Condenser,Heat Exchanger,0.2153,0.7,0.4,False,False
+02.Unmarked_p1_c0008,Reboiler,Heat Exchanger,0.2278,0.7,0.4,False,False
+02.Unmarked_p1_c0008,Cooler,Heat Exchanger,0.2535,0.7,0.4,False,False
+02.Unmarked_p1_c0008,Vessel,Vessel,0.3058,0.6,0.4,False,False
+02.Unmarked_p1_c0008,Tank,Vessel,0.2651,0.6,0.4,False,False
+02.Unmarked_p1_c0008,Drum,Vessel,0.353,0.6,0.4,False,False
+02.Unmarked_p1_c0008,Filter,Filter,0.2765,0.6,0.4,False,False
+02.Unmarked_p1_c0008,Strainer,Filter,0.2696,0.6,0.4,False,False
+02.Unmarked_p1_c0008,Compressor,Compressor,0.2993,0.6,0.4,False,False
+02.Unmarked_p1_c0009,Gate Valve,Valve,0.2648,0.7,0.4,False,False
+02.Unmarked_p1_c0009,Globe Valve,Valve,0.226,0.8,0.4,False,False
+02.Unmarked_p1_c0009,Butterfly Valve,Valve,0.1784,0.6,0.4,False,False
+02.Unmarked_p1_c0009,Check Valve,Valve,0.2127,0.8,0.4,False,False
+02.Unmarked_p1_c0009,Control Valve,Valve,0.1731,0.6,0.4,False,False
+02.Unmarked_p1_c0009,Needle Valve,Valve,0.2619,0.6,0.4,False,False
+02.Unmarked_p1_c0009,Relief Valve,Valve,0.2837,0.6,0.4,False,False
+02.Unmarked_p1_c0009,Solenoid Valve,Valve,0.1939,0.6,0.4,False,False
+02.Unmarked_p1_c0009,3-Way Valve,Valve,0.2212,0.6,0.4,False,False
+02.Unmarked_p1_c0009,Diaphragm Valve,Valve,0.2127,0.8,0.4,False,False
+02.Unmarked_p1_c0009,Centrifugal Pump,Pump,0.3009,0.6,0.4,False,False
+02.Unmarked_p1_c0009,Rotary Pump,Pump,0.2103,0.7,0.4,False,False
+02.Unmarked_p1_c0009,Heat Exchanger,Heat Exchanger,0.3155,0.6,0.4,False,False
+02.Unmarked_p1_c0009,Condenser,Heat Exchanger,0.2759,0.6,0.4,False,False
+02.Unmarked_p1_c0009,Reboiler,Heat Exchanger,0.2482,0.6,0.4,False,False
+02.Unmarked_p1_c0009,Cooler,Heat Exchanger,0.2857,0.6,0.4,False,False
+02.Unmarked_p1_c0009,Vessel,Vessel,0.2942,0.6,0.4,False,False
+02.Unmarked_p1_c0009,Tank,Vessel,0.3015,0.6,0.4,False,False
+02.Unmarked_p1_c0009,Drum,Vessel,0.2838,0.6,0.4,False,False
+02.Unmarked_p1_c0009,Filter,Filter,0.378,0.6,0.4,False,False
+02.Unmarked_p1_c0009,Strainer,Filter,0.3479,0.8,0.4,False,False
+02.Unmarked_p1_c0009,Compressor,Compressor,0.3257,0.6,0.4,False,False
+02.Unmarked_p1_c0010,Gate Valve,Valve,0.2687,0.6,0.4,False,False
+02.Unmarked_p1_c0010,Globe Valve,Valve,0.2298,0.6,0.4,False,False
+02.Unmarked_p1_c0010,Butterfly Valve,Valve,0.1851,0.6,0.4,False,False
+02.Unmarked_p1_c0010,Check Valve,Valve,0.1711,0.6,0.4,False,False
+02.Unmarked_p1_c0010,Control Valve,Valve,0.227,0.6,0.4,False,False
+02.Unmarked_p1_c0010,Needle Valve,Valve,0.1931,0.7,0.4,False,False
+02.Unmarked_p1_c0010,Relief Valve,Valve,0.2756,0.6,0.4,False,False
+02.Unmarked_p1_c0010,Solenoid Valve,Valve,0.1711,0.6,0.4,False,False
+02.Unmarked_p1_c0010,3-Way Valve,Valve,0.2195,0.6,0.4,False,False
+02.Unmarked_p1_c0010,Diaphragm Valve,Valve,0.1688,0.7,0.4,False,False
+02.Unmarked_p1_c0010,Centrifugal Pump,Pump,0.3019,0.6,0.4,False,False
+02.Unmarked_p1_c0010,Rotary Pump,Pump,0.1749,0.7,0.4,False,False
+02.Unmarked_p1_c0010,Heat Exchanger,Heat Exchanger,0.2322,0.6,0.4,False,False
+02.Unmarked_p1_c0010,Condenser,Heat Exchanger,0.2169,0.6,0.4,False,False
+02.Unmarked_p1_c0010,Reboiler,Heat Exchanger,0.2447,0.7,0.4,False,False
+02.Unmarked_p1_c0010,Cooler,Heat Exchanger,0.2403,0.6,0.4,False,False
+02.Unmarked_p1_c0010,Vessel,Vessel,0.3258,0.6,0.4,False,False
+02.Unmarked_p1_c0010,Tank,Vessel,0.2757,0.6,0.4,False,False
+02.Unmarked_p1_c0010,Drum,Vessel,0.3755,0.6,0.4,False,False
+02.Unmarked_p1_c0010,Filter,Filter,0.2964,0.6,0.4,False,False
+02.Unmarked_p1_c0010,Strainer,Filter,0.2477,0.6,0.4,False,False
+02.Unmarked_p1_c0010,Compressor,Compressor,0.2921,0.6,0.4,False,False
+02.Unmarked_p1_c0011,Gate Valve,Valve,0.2767,0.6,0.4,False,False
+02.Unmarked_p1_c0011,Globe Valve,Valve,0.2543,0.8,0.4,False,False
+02.Unmarked_p1_c0011,Butterfly Valve,Valve,0.1958,0.7,0.4,False,False
+02.Unmarked_p1_c0011,Check Valve,Valve,0.209,0.7,0.4,False,False
+02.Unmarked_p1_c0011,Control Valve,Valve,0.2048,0.6,0.4,False,False
+02.Unmarked_p1_c0011,Needle Valve,Valve,0.1945,0.7,0.4,False,False
+02.Unmarked_p1_c0011,Relief Valve,Valve,0.2615,0.7,0.4,False,False
+02.Unmarked_p1_c0011,Solenoid Valve,Valve,0.209,0.7,0.4,False,False
+02.Unmarked_p1_c0011,3-Way Valve,Valve,0.1881,0.6,0.4,False,False
+02.Unmarked_p1_c0011,Diaphragm Valve,Valve,0.1952,0.6,0.4,False,False
+02.Unmarked_p1_c0011,Centrifugal Pump,Pump,0.2528,0.6,0.4,False,False
+02.Unmarked_p1_c0011,Rotary Pump,Pump,0.1783,0.6,0.4,False,False
+02.Unmarked_p1_c0011,Heat Exchanger,Heat Exchanger,0.2484,0.7,0.4,False,False
+02.Unmarked_p1_c0011,Condenser,Heat Exchanger,0.183,0.8,0.4,False,False
+02.Unmarked_p1_c0011,Reboiler,Heat Exchanger,0.2011,0.6,0.4,False,False
+02.Unmarked_p1_c0011,Cooler,Heat Exchanger,0.2418,0.6,0.4,False,False
+02.Unmarked_p1_c0011,Vessel,Vessel,0.2963,0.6,0.4,False,False
+02.Unmarked_p1_c0011,Tank,Vessel,0.2963,0.6,0.4,False,False
+02.Unmarked_p1_c0011,Drum,Vessel,0.2225,0.6,0.4,False,False
+02.Unmarked_p1_c0011,Filter,Filter,0.2571,0.6,0.4,False,False
+02.Unmarked_p1_c0011,Strainer,Filter,0.2264,0.6,0.4,False,False
+02.Unmarked_p1_c0011,Compressor,Compressor,0.262,0.6,0.4,False,False
+02.Unmarked_p1_c0012,Gate Valve,Valve,0.264,0.6,0.4,False,False
+02.Unmarked_p1_c0012,Globe Valve,Valve,0.239,0.6,0.4,False,False
+02.Unmarked_p1_c0012,Butterfly Valve,Valve,0.1683,0.6,0.4,False,False
+02.Unmarked_p1_c0012,Check Valve,Valve,0.2393,0.6,0.4,False,False
+02.Unmarked_p1_c0012,Control Valve,Valve,0.1673,0.6,0.4,False,False
+02.Unmarked_p1_c0012,Needle Valve,Valve,0.1935,0.8,0.4,False,False
+02.Unmarked_p1_c0012,Relief Valve,Valve,0.2376,0.6,0.4,False,False
+02.Unmarked_p1_c0012,Solenoid Valve,Valve,0.2393,0.6,0.4,False,False
+02.Unmarked_p1_c0012,3-Way Valve,Valve,0.1998,0.6,0.4,False,False
+02.Unmarked_p1_c0012,Diaphragm Valve,Valve,0.1917,0.6,0.4,False,False
+02.Unmarked_p1_c0012,Centrifugal Pump,Pump,0.2176,0.6,0.4,False,False
+02.Unmarked_p1_c0012,Rotary Pump,Pump,0.1981,0.7,0.4,False,False
+02.Unmarked_p1_c0012,Heat Exchanger,Heat Exchanger,0.2669,0.6,0.4,False,False
+02.Unmarked_p1_c0012,Condenser,Heat Exchanger,0.2185,0.6,0.4,False,False
+02.Unmarked_p1_c0012,Reboiler,Heat Exchanger,0.2172,0.7,0.4,False,False
+02.Unmarked_p1_c0012,Cooler,Heat Exchanger,0.2515,0.6,0.4,False,False
+02.Unmarked_p1_c0012,Vessel,Vessel,0.2308,0.8,0.4,False,False
+02.Unmarked_p1_c0012,Tank,Vessel,0.2431,0.6,0.4,False,False
+02.Unmarked_p1_c0012,Drum,Vessel,0.2183,0.7,0.4,False,False
+02.Unmarked_p1_c0012,Filter,Filter,0.2243,0.6,0.4,False,False
+02.Unmarked_p1_c0012,Strainer,Filter,0.2417,0.6,0.4,False,False
+02.Unmarked_p1_c0012,Compressor,Compressor,0.2349,0.7,0.4,False,False
+02.Unmarked_p1_c0013,Gate Valve,Valve,0.253,0.6,0.4,False,False
+02.Unmarked_p1_c0013,Globe Valve,Valve,0.2612,0.8,0.4,False,False
+02.Unmarked_p1_c0013,Butterfly Valve,Valve,0.1872,0.6,0.4,False,False
+02.Unmarked_p1_c0013,Check Valve,Valve,0.1852,0.6,0.4,False,False
+02.Unmarked_p1_c0013,Control Valve,Valve,0.2544,0.6,0.4,False,False
+02.Unmarked_p1_c0013,Needle Valve,Valve,0.2037,0.8,0.4,False,False
+02.Unmarked_p1_c0013,Relief Valve,Valve,0.2771,0.6,0.4,False,False
+02.Unmarked_p1_c0013,Solenoid Valve,Valve,0.1852,0.6,0.4,False,False
+02.Unmarked_p1_c0013,3-Way Valve,Valve,0.199,0.6,0.4,False,False
+02.Unmarked_p1_c0013,Diaphragm Valve,Valve,0.1657,0.8,0.4,False,False
+02.Unmarked_p1_c0013,Centrifugal Pump,Pump,0.3138,0.6,0.4,False,False
+02.Unmarked_p1_c0013,Rotary Pump,Pump,0.199,0.7,0.4,False,False
+02.Unmarked_p1_c0013,Heat Exchanger,Heat Exchanger,0.2604,0.6,0.4,False,False
+02.Unmarked_p1_c0013,Condenser,Heat Exchanger,0.2263,0.7,0.4,False,False
+02.Unmarked_p1_c0013,Reboiler,Heat Exchanger,0.235,0.7,0.4,False,False
+02.Unmarked_p1_c0013,Cooler,Heat Exchanger,0.267,0.6,0.4,False,False
+02.Unmarked_p1_c0013,Vessel,Vessel,0.3258,0.6,0.4,False,False
+02.Unmarked_p1_c0013,Tank,Vessel,0.2782,0.6,0.4,False,False
+02.Unmarked_p1_c0013,Drum,Vessel,0.3755,0.6,0.4,False,False
+02.Unmarked_p1_c0013,Filter,Filter,0.2964,0.6,0.4,False,False
+02.Unmarked_p1_c0013,Strainer,Filter,0.3099,0.6,0.4,False,False
+02.Unmarked_p1_c0013,Compressor,Compressor,0.3138,0.6,0.4,False,False
+02.Unmarked_p1_c0014,Gate Valve,Valve,0.2786,0.6,0.4,False,False
+02.Unmarked_p1_c0014,Globe Valve,Valve,0.2358,0.6,0.4,False,False
+02.Unmarked_p1_c0014,Butterfly Valve,Valve,0.1873,0.6,0.4,False,False
+02.Unmarked_p1_c0014,Check Valve,Valve,0.2073,0.6,0.4,False,False
+02.Unmarked_p1_c0014,Control Valve,Valve,0.1603,0.6,0.4,False,False
+02.Unmarked_p1_c0014,Needle Valve,Valve,0.2562,0.6,0.4,False,False
+02.Unmarked_p1_c0014,Relief Valve,Valve,0.3252,0.6,0.4,False,False
+02.Unmarked_p1_c0014,Solenoid Valve,Valve,0.2036,0.6,0.4,False,False
+02.Unmarked_p1_c0014,3-Way Valve,Valve,0.2251,0.6,0.4,False,False
+02.Unmarked_p1_c0014,Diaphragm Valve,Valve,0.2073,0.6,0.4,False,False
+02.Unmarked_p1_c0014,Centrifugal Pump,Pump,0.3859,0.6,0.4,False,False
+02.Unmarked_p1_c0014,Rotary Pump,Pump,0.2015,0.6,0.4,False,False
+02.Unmarked_p1_c0014,Heat Exchanger,Heat Exchanger,0.3176,0.6,0.4,False,False
+02.Unmarked_p1_c0014,Condenser,Heat Exchanger,0.259,0.6,0.4,False,False
+02.Unmarked_p1_c0014,Reboiler,Heat Exchanger,0.2041,0.6,0.4,False,False
+02.Unmarked_p1_c0014,Cooler,Heat Exchanger,0.2764,0.6,0.4,False,False
+02.Unmarked_p1_c0014,Vessel,Vessel,0.3522,0.6,0.4,False,False
+02.Unmarked_p1_c0014,Tank,Vessel,0.3522,0.6,0.4,False,False
+02.Unmarked_p1_c0014,Drum,Vessel,0.3428,0.6,0.4,False,False
+02.Unmarked_p1_c0014,Filter,Filter,0.3472,0.6,0.4,False,False
+02.Unmarked_p1_c0014,Strainer,Filter,0.3095,0.6,0.4,False,False
+02.Unmarked_p1_c0014,Compressor,Compressor,0.3859,0.6,0.4,False,False
+02.Unmarked_p1_c0015,Gate Valve,Valve,0.2622,0.6,0.4,False,False
+02.Unmarked_p1_c0015,Globe Valve,Valve,0.2273,0.6,0.4,False,False
+02.Unmarked_p1_c0015,Butterfly Valve,Valve,0.1666,0.6,0.4,False,False
+02.Unmarked_p1_c0015,Check Valve,Valve,0.1691,0.6,0.4,False,False
+02.Unmarked_p1_c0015,Control Valve,Valve,0.1918,0.7,0.4,False,False
+02.Unmarked_p1_c0015,Needle Valve,Valve,0.2037,0.6,0.4,False,False
+02.Unmarked_p1_c0015,Relief Valve,Valve,0.235,0.6,0.4,False,False
+02.Unmarked_p1_c0015,Solenoid Valve,Valve,0.1691,0.6,0.4,False,False
+02.Unmarked_p1_c0015,3-Way Valve,Valve,0.1557,0.8,0.4,False,False
+02.Unmarked_p1_c0015,Diaphragm Valve,Valve,0.1391,0.7,0.4,False,False
+02.Unmarked_p1_c0015,Centrifugal Pump,Pump,0.2422,0.6,0.4,False,False
+02.Unmarked_p1_c0015,Rotary Pump,Pump,0.182,0.7,0.4,False,False
+02.Unmarked_p1_c0015,Heat Exchanger,Heat Exchanger,0.2332,0.6,0.4,False,False
+02.Unmarked_p1_c0015,Condenser,Heat Exchanger,0.2332,0.6,0.4,False,False
+02.Unmarked_p1_c0015,Reboiler,Heat Exchanger,0.2098,0.7,0.4,False,False
+02.Unmarked_p1_c0015,Cooler,Heat Exchanger,0.1966,0.6,0.4,False,False
+02.Unmarked_p1_c0015,Vessel,Vessel,0.2077,0.7,0.4,False,False
+02.Unmarked_p1_c0015,Tank,Vessel,0.2251,0.6,0.4,False,False
+02.Unmarked_p1_c0015,Drum,Vessel,0.2077,0.7,0.4,False,False
+02.Unmarked_p1_c0015,Filter,Filter,0.2279,0.6,0.4,False,False
+02.Unmarked_p1_c0015,Strainer,Filter,0.2616,0.6,0.4,False,False
+02.Unmarked_p1_c0015,Compressor,Compressor,0.2294,0.6,0.4,False,False
+02.Unmarked_p1_c0016,Gate Valve,Valve,0.2505,0.7,0.4,False,False
+02.Unmarked_p1_c0016,Globe Valve,Valve,0.2468,0.8,0.4,False,False
+02.Unmarked_p1_c0016,Butterfly Valve,Valve,0.1733,0.6,0.4,False,False
+02.Unmarked_p1_c0016,Check Valve,Valve,0.2149,0.8,0.4,False,False
+02.Unmarked_p1_c0016,Control Valve,Valve,0.1895,0.7,0.4,False,False
+02.Unmarked_p1_c0016,Needle Valve,Valve,0.2526,0.6,0.4,False,False
+02.Unmarked_p1_c0016,Relief Valve,Valve,0.3089,0.6,0.4,False,False
+02.Unmarked_p1_c0016,Solenoid Valve,Valve,0.2015,0.8,0.4,False,False
+02.Unmarked_p1_c0016,3-Way Valve,Valve,0.2293,0.6,0.4,False,False
+02.Unmarked_p1_c0016,Diaphragm Valve,Valve,0.2149,0.8,0.4,False,False
+02.Unmarked_p1_c0016,Centrifugal Pump,Pump,0.3421,0.6,0.4,False,False
+02.Unmarked_p1_c0016,Rotary Pump,Pump,0.2492,0.7,0.4,False,False
+02.Unmarked_p1_c0016,Heat Exchanger,Heat Exchanger,0.3232,0.6,0.4,False,False
+02.Unmarked_p1_c0016,Condenser,Heat Exchanger,0.2843,0.6,0.4,False,False
+02.Unmarked_p1_c0016,Reboiler,Heat Exchanger,0.2682,0.6,0.4,False,False
+02.Unmarked_p1_c0016,Cooler,Heat Exchanger,0.3201,0.6,0.4,False,False
+02.Unmarked_p1_c0016,Vessel,Vessel,0.3412,0.6,0.4,False,False
+02.Unmarked_p1_c0016,Tank,Vessel,0.339,0.6,0.4,False,False
+02.Unmarked_p1_c0016,Drum,Vessel,0.3419,0.6,0.4,False,False
+02.Unmarked_p1_c0016,Filter,Filter,0.3936,0.6,0.4,False,False
+02.Unmarked_p1_c0016,Strainer,Filter,0.3817,0.8,0.4,False,False
+02.Unmarked_p1_c0016,Compressor,Compressor,0.3442,0.6,0.4,False,False
+02.Unmarked_p1_c0017,Gate Valve,Valve,0.215,0.6,0.4,False,False
+02.Unmarked_p1_c0017,Globe Valve,Valve,0.2572,0.6,0.4,False,False
+02.Unmarked_p1_c0017,Butterfly Valve,Valve,0.186,0.6,0.4,False,False
+02.Unmarked_p1_c0017,Check Valve,Valve,0.2044,0.7,0.4,False,False
+02.Unmarked_p1_c0017,Control Valve,Valve,0.1867,0.6,0.4,False,False
+02.Unmarked_p1_c0017,Needle Valve,Valve,0.2026,0.6,0.4,False,False
+02.Unmarked_p1_c0017,Relief Valve,Valve,0.2031,0.6,0.4,False,False
+02.Unmarked_p1_c0017,Solenoid Valve,Valve,0.1777,0.6,0.4,False,False
+02.Unmarked_p1_c0017,3-Way Valve,Valve,0.2022,0.7,0.4,False,False
+02.Unmarked_p1_c0017,Diaphragm Valve,Valve,0.2044,0.7,0.4,False,False
+02.Unmarked_p1_c0017,Centrifugal Pump,Pump,0.2174,0.6,0.4,False,False
+02.Unmarked_p1_c0017,Rotary Pump,Pump,0.1863,0.6,0.4,False,False
+02.Unmarked_p1_c0017,Heat Exchanger,Heat Exchanger,0.2419,0.6,0.4,False,False
+02.Unmarked_p1_c0017,Condenser,Heat Exchanger,0.1952,0.6,0.4,False,False
+02.Unmarked_p1_c0017,Reboiler,Heat Exchanger,0.2114,0.7,0.4,False,False
+02.Unmarked_p1_c0017,Cooler,Heat Exchanger,0.248,0.6,0.4,False,False
+02.Unmarked_p1_c0017,Vessel,Vessel,0.2308,0.7,0.4,False,False
+02.Unmarked_p1_c0017,Tank,Vessel,0.2784,0.6,0.4,False,False
+02.Unmarked_p1_c0017,Drum,Vessel,0.2308,0.7,0.4,False,False
+02.Unmarked_p1_c0017,Filter,Filter,0.2319,0.6,0.4,False,False
+02.Unmarked_p1_c0017,Strainer,Filter,0.2179,0.6,0.4,False,False
+02.Unmarked_p1_c0017,Compressor,Compressor,0.2566,0.6,0.4,False,False
+02.Unmarked_p1_c0018,Gate Valve,Valve,0.2613,0.6,0.4,False,False
+02.Unmarked_p1_c0018,Globe Valve,Valve,0.2612,0.8,0.4,False,False
+02.Unmarked_p1_c0018,Butterfly Valve,Valve,0.1871,0.6,0.4,False,False
+02.Unmarked_p1_c0018,Check Valve,Valve,0.192,0.8,0.4,False,False
+02.Unmarked_p1_c0018,Control Valve,Valve,0.2195,0.6,0.4,False,False
+02.Unmarked_p1_c0018,Needle Valve,Valve,0.1947,0.8,0.4,False,False
+02.Unmarked_p1_c0018,Relief Valve,Valve,0.2274,0.6,0.4,False,False
+02.Unmarked_p1_c0018,Solenoid Valve,Valve,0.192,0.8,0.4,False,False
+02.Unmarked_p1_c0018,3-Way Valve,Valve,0.1942,0.6,0.4,False,False
+02.Unmarked_p1_c0018,Diaphragm Valve,Valve,0.1768,0.6,0.4,False,False
+02.Unmarked_p1_c0018,Centrifugal Pump,Pump,0.3032,0.6,0.4,False,False
+02.Unmarked_p1_c0018,Rotary Pump,Pump,0.2048,0.7,0.4,False,False
+02.Unmarked_p1_c0018,Heat Exchanger,Heat Exchanger,0.244,0.8,0.4,False,False
+02.Unmarked_p1_c0018,Condenser,Heat Exchanger,0.2116,0.6,0.4,False,False
+02.Unmarked_p1_c0018,Reboiler,Heat Exchanger,0.2535,0.6,0.4,False,False
+02.Unmarked_p1_c0018,Cooler,Heat Exchanger,0.2469,0.6,0.4,False,False
+02.Unmarked_p1_c0018,Vessel,Vessel,0.2676,0.7,0.4,False,False
+02.Unmarked_p1_c0018,Tank,Vessel,0.2497,0.6,0.4,False,False
+02.Unmarked_p1_c0018,Drum,Vessel,0.2676,0.7,0.4,False,False
+02.Unmarked_p1_c0018,Filter,Filter,0.3045,0.6,0.4,False,False
+02.Unmarked_p1_c0018,Strainer,Filter,0.3,0.6,0.4,False,False
+02.Unmarked_p1_c0018,Compressor,Compressor,0.2888,0.7,0.4,False,False
+02.Unmarked_p1_c0019,Gate Valve,Valve,0.2187,0.6,0.4,False,False
+02.Unmarked_p1_c0019,Globe Valve,Valve,0.1741,0.8,0.4,False,False
+02.Unmarked_p1_c0019,Butterfly Valve,Valve,0.1497,0.6,0.4,False,False
+02.Unmarked_p1_c0019,Check Valve,Valve,0.2126,0.6,0.4,False,False
+02.Unmarked_p1_c0019,Control Valve,Valve,0.1495,0.7,0.4,False,False
+02.Unmarked_p1_c0019,Needle Valve,Valve,0.2266,0.6,0.4,False,False
+02.Unmarked_p1_c0019,Relief Valve,Valve,0.2809,0.6,0.4,False,False
+02.Unmarked_p1_c0019,Solenoid Valve,Valve,0.1641,0.7,0.4,False,False
+02.Unmarked_p1_c0019,3-Way Valve,Valve,0.2093,0.6,0.4,False,False
+02.Unmarked_p1_c0019,Diaphragm Valve,Valve,0.2126,0.6,0.4,False,False
+02.Unmarked_p1_c0019,Centrifugal Pump,Pump,0.3,0.6,0.4,False,False
+02.Unmarked_p1_c0019,Rotary Pump,Pump,0.1885,0.7,0.4,False,False
+02.Unmarked_p1_c0019,Heat Exchanger,Heat Exchanger,0.3044,0.6,0.4,False,False
+02.Unmarked_p1_c0019,Condenser,Heat Exchanger,0.2663,0.6,0.4,False,False
+02.Unmarked_p1_c0019,Reboiler,Heat Exchanger,0.2248,0.6,0.4,False,False
+02.Unmarked_p1_c0019,Cooler,Heat Exchanger,0.2855,0.6,0.4,False,False
+02.Unmarked_p1_c0019,Vessel,Vessel,0.3094,0.6,0.4,False,False
+02.Unmarked_p1_c0019,Tank,Vessel,0.3094,0.6,0.4,False,False
+02.Unmarked_p1_c0019,Drum,Vessel,0.2745,0.6,0.4,False,False
+02.Unmarked_p1_c0019,Filter,Filter,0.3524,0.6,0.4,False,False
+02.Unmarked_p1_c0019,Strainer,Filter,0.3132,0.7,0.4,False,False
+02.Unmarked_p1_c0019,Compressor,Compressor,0.3233,0.6,0.4,False,False
+02.Unmarked_p1_c0020,Gate Valve,Valve,0.2246,0.6,0.4,False,False
+02.Unmarked_p1_c0020,Globe Valve,Valve,0.2034,0.6,0.4,False,False
+02.Unmarked_p1_c0020,Butterfly Valve,Valve,0.1581,0.6,0.4,False,False
+02.Unmarked_p1_c0020,Check Valve,Valve,0.2399,0.6,0.4,False,False
+02.Unmarked_p1_c0020,Control Valve,Valve,0.1855,0.6,0.4,False,False
+02.Unmarked_p1_c0020,Needle Valve,Valve,0.1844,0.8,0.4,False,False
+02.Unmarked_p1_c0020,Relief Valve,Valve,0.235,0.6,0.4,False,False
+02.Unmarked_p1_c0020,Solenoid Valve,Valve,0.2399,0.6,0.4,False,False
+02.Unmarked_p1_c0020,3-Way Valve,Valve,0.2412,0.6,0.4,False,False
+02.Unmarked_p1_c0020,Diaphragm Valve,Valve,0.1717,0.6,0.4,False,False
+02.Unmarked_p1_c0020,Centrifugal Pump,Pump,0.2212,0.6,0.4,False,False
+02.Unmarked_p1_c0020,Rotary Pump,Pump,0.203,0.7,0.4,False,False
+02.Unmarked_p1_c0020,Heat Exchanger,Heat Exchanger,0.2332,0.6,0.4,False,False
+02.Unmarked_p1_c0020,Condenser,Heat Exchanger,0.2332,0.6,0.4,False,False
+02.Unmarked_p1_c0020,Reboiler,Heat Exchanger,0.199,0.6,0.4,False,False
+02.Unmarked_p1_c0020,Cooler,Heat Exchanger,0.2329,0.6,0.4,False,False
+02.Unmarked_p1_c0020,Vessel,Vessel,0.2374,0.8,0.4,False,False
+02.Unmarked_p1_c0020,Tank,Vessel,0.2374,0.8,0.4,False,False
+02.Unmarked_p1_c0020,Drum,Vessel,0.2258,0.8,0.4,False,False
+02.Unmarked_p1_c0020,Filter,Filter,0.2189,0.6,0.4,False,False
+02.Unmarked_p1_c0020,Strainer,Filter,0.2342,0.6,0.4,False,False
+02.Unmarked_p1_c0020,Compressor,Compressor,0.2542,0.8,0.4,False,False
+02.Unmarked_p1_c0021,Gate Valve,Valve,0.2641,0.6,0.4,False,False
+02.Unmarked_p1_c0021,Globe Valve,Valve,0.2318,0.8,0.4,False,False
+02.Unmarked_p1_c0021,Butterfly Valve,Valve,0.1739,0.6,0.4,False,False
+02.Unmarked_p1_c0021,Check Valve,Valve,0.1866,0.6,0.4,False,False
+02.Unmarked_p1_c0021,Control Valve,Valve,0.249,0.6,0.4,False,False
+02.Unmarked_p1_c0021,Needle Valve,Valve,0.1939,0.6,0.4,False,False
+02.Unmarked_p1_c0021,Relief Valve,Valve,0.2742,0.6,0.4,False,False
+02.Unmarked_p1_c0021,Solenoid Valve,Valve,0.1866,0.6,0.4,False,False
+02.Unmarked_p1_c0021,3-Way Valve,Valve,0.199,0.6,0.4,False,False
+02.Unmarked_p1_c0021,Diaphragm Valve,Valve,0.1636,0.6,0.4,False,False
+02.Unmarked_p1_c0021,Centrifugal Pump,Pump,0.3117,0.6,0.4,False,False
+02.Unmarked_p1_c0021,Rotary Pump,Pump,0.1881,0.7,0.4,False,False
+02.Unmarked_p1_c0021,Heat Exchanger,Heat Exchanger,0.2626,0.6,0.4,False,False
+02.Unmarked_p1_c0021,Condenser,Heat Exchanger,0.213,0.6,0.4,False,False
+02.Unmarked_p1_c0021,Reboiler,Heat Exchanger,0.2336,0.7,0.4,False,False
+02.Unmarked_p1_c0021,Cooler,Heat Exchanger,0.2689,0.6,0.4,False,False
+02.Unmarked_p1_c0021,Vessel,Vessel,0.3258,0.6,0.4,False,False
+02.Unmarked_p1_c0021,Tank,Vessel,0.2792,0.6,0.4,False,False
+02.Unmarked_p1_c0021,Drum,Vessel,0.3755,0.6,0.4,False,False
+02.Unmarked_p1_c0021,Filter,Filter,0.2997,0.6,0.4,False,False
+02.Unmarked_p1_c0021,Strainer,Filter,0.3146,0.6,0.4,False,False
+02.Unmarked_p1_c0021,Compressor,Compressor,0.3117,0.6,0.4,False,False
+02.Unmarked_p1_c0022,Gate Valve,Valve,0.2082,0.6,0.4,False,False
+02.Unmarked_p1_c0022,Globe Valve,Valve,0.2028,0.6,0.4,False,False
+02.Unmarked_p1_c0022,Butterfly Valve,Valve,0.1945,0.7,0.4,False,False
+02.Unmarked_p1_c0022,Check Valve,Valve,0.2011,0.7,0.4,False,False
+02.Unmarked_p1_c0022,Control Valve,Valve,0.1818,0.6,0.4,False,False
+02.Unmarked_p1_c0022,Needle Valve,Valve,0.1609,0.7,0.4,False,False
+02.Unmarked_p1_c0022,Relief Valve,Valve,0.196,0.6,0.4,False,False
+02.Unmarked_p1_c0022,Solenoid Valve,Valve,0.2011,0.7,0.4,False,False
+02.Unmarked_p1_c0022,3-Way Valve,Valve,0.1758,0.6,0.4,False,False
+02.Unmarked_p1_c0022,Diaphragm Valve,Valve,0.1622,0.7,0.4,False,False
+02.Unmarked_p1_c0022,Centrifugal Pump,Pump,0.2139,0.6,0.4,False,False
+02.Unmarked_p1_c0022,Rotary Pump,Pump,0.161,0.8,0.4,False,False
+02.Unmarked_p1_c0022,Heat Exchanger,Heat Exchanger,0.2298,0.6,0.4,False,False
+02.Unmarked_p1_c0022,Condenser,Heat Exchanger,0.1783,0.6,0.4,False,False
+02.Unmarked_p1_c0022,Reboiler,Heat Exchanger,0.2008,0.7,0.4,False,False
+02.Unmarked_p1_c0022,Cooler,Heat Exchanger,0.2153,0.6,0.4,False,False
+02.Unmarked_p1_c0022,Vessel,Vessel,0.211,0.7,0.4,False,False
+02.Unmarked_p1_c0022,Tank,Vessel,0.2355,0.6,0.4,False,False
+02.Unmarked_p1_c0022,Drum,Vessel,0.211,0.7,0.4,False,False
+02.Unmarked_p1_c0022,Filter,Filter,0.2639,0.6,0.4,False,False
+02.Unmarked_p1_c0022,Strainer,Filter,0.2404,0.6,0.4,False,False
+02.Unmarked_p1_c0022,Compressor,Compressor,0.2532,0.6,0.4,False,False
+02.Unmarked_p1_c0023,Gate Valve,Valve,0.2558,0.6,0.4,False,False
+02.Unmarked_p1_c0023,Globe Valve,Valve,0.1924,0.6,0.4,False,False
+02.Unmarked_p1_c0023,Butterfly Valve,Valve,0.164,0.6,0.4,False,False
+02.Unmarked_p1_c0023,Check Valve,Valve,0.1552,0.6,0.4,False,False
+02.Unmarked_p1_c0023,Control Valve,Valve,0.1833,0.6,0.4,False,False
+02.Unmarked_p1_c0023,Needle Valve,Valve,0.1591,0.6,0.4,False,False
+02.Unmarked_p1_c0023,Relief Valve,Valve,0.3057,0.6,0.4,False,False
+02.Unmarked_p1_c0023,Solenoid Valve,Valve,0.1552,0.6,0.4,False,False
+02.Unmarked_p1_c0023,3-Way Valve,Valve,0.2288,0.6,0.4,False,False
+02.Unmarked_p1_c0023,Diaphragm Valve,Valve,0.1518,0.6,0.4,False,False
+02.Unmarked_p1_c0023,Centrifugal Pump,Pump,0.323,0.6,0.4,False,False
+02.Unmarked_p1_c0023,Rotary Pump,Pump,0.1653,0.6,0.4,False,False
+02.Unmarked_p1_c0023,Heat Exchanger,Heat Exchanger,0.2419,0.6,0.4,False,False
+02.Unmarked_p1_c0023,Condenser,Heat Exchanger,0.2432,0.6,0.4,False,False
+02.Unmarked_p1_c0023,Reboiler,Heat Exchanger,0.2239,0.7,0.4,False,False
+02.Unmarked_p1_c0023,Cooler,Heat Exchanger,0.2626,0.6,0.4,False,False
+02.Unmarked_p1_c0023,Vessel,Vessel,0.3157,0.6,0.4,False,False
+02.Unmarked_p1_c0023,Tank,Vessel,0.3012,0.6,0.4,False,False
+02.Unmarked_p1_c0023,Drum,Vessel,0.3653,0.6,0.4,False,False
+02.Unmarked_p1_c0023,Filter,Filter,0.3007,0.6,0.4,False,False
+02.Unmarked_p1_c0023,Strainer,Filter,0.2662,0.6,0.4,False,False
+02.Unmarked_p1_c0023,Compressor,Compressor,0.323,0.6,0.4,False,False
+02.Unmarked_p1_c0024,Gate Valve,Valve,0.2536,0.6,0.4,False,False
+02.Unmarked_p1_c0024,Globe Valve,Valve,0.1972,0.8,0.4,False,False
+02.Unmarked_p1_c0024,Butterfly Valve,Valve,0.2076,0.8,0.4,False,False
+02.Unmarked_p1_c0024,Check Valve,Valve,0.1788,0.6,0.4,False,False
+02.Unmarked_p1_c0024,Control Valve,Valve,0.2258,0.6,0.4,False,False
+02.Unmarked_p1_c0024,Needle Valve,Valve,0.2065,0.6,0.4,False,False
+02.Unmarked_p1_c0024,Relief Valve,Valve,0.3032,0.6,0.4,False,False
+02.Unmarked_p1_c0024,Solenoid Valve,Valve,0.1788,0.6,0.4,False,False
+02.Unmarked_p1_c0024,3-Way Valve,Valve,0.1949,0.6,0.4,False,False
+02.Unmarked_p1_c0024,Diaphragm Valve,Valve,0.1702,0.8,0.4,False,False
+02.Unmarked_p1_c0024,Centrifugal Pump,Pump,0.301,0.6,0.4,False,False
+02.Unmarked_p1_c0024,Rotary Pump,Pump,0.1704,0.7,0.4,False,False
+02.Unmarked_p1_c0024,Heat Exchanger,Heat Exchanger,0.2219,0.6,0.4,False,False
+02.Unmarked_p1_c0024,Condenser,Heat Exchanger,0.2407,0.6,0.4,False,False
+02.Unmarked_p1_c0024,Reboiler,Heat Exchanger,0.2193,0.7,0.4,False,False
+02.Unmarked_p1_c0024,Cooler,Heat Exchanger,0.2453,0.6,0.4,False,False
+02.Unmarked_p1_c0024,Vessel,Vessel,0.329,0.6,0.4,False,False
+02.Unmarked_p1_c0024,Tank,Vessel,0.281,0.6,0.4,False,False
+02.Unmarked_p1_c0024,Drum,Vessel,0.3775,0.6,0.4,False,False
+02.Unmarked_p1_c0024,Filter,Filter,0.2867,0.6,0.4,False,False
+02.Unmarked_p1_c0024,Strainer,Filter,0.2977,0.6,0.4,False,False
+02.Unmarked_p1_c0024,Compressor,Compressor,0.301,0.6,0.4,False,False
+02.Unmarked_p1_c0025,Gate Valve,Valve,0.2946,0.6,0.4,False,False
+02.Unmarked_p1_c0025,Globe Valve,Valve,0.2126,0.6,0.4,False,False
+02.Unmarked_p1_c0025,Butterfly Valve,Valve,0.1903,0.6,0.4,False,False
+02.Unmarked_p1_c0025,Check Valve,Valve,0.2097,0.7,0.4,False,False
+02.Unmarked_p1_c0025,Control Valve,Valve,0.1632,0.6,0.4,False,False
+02.Unmarked_p1_c0025,Needle Valve,Valve,0.2365,0.6,0.4,False,False
+02.Unmarked_p1_c0025,Relief Valve,Valve,0.3233,0.6,0.4,False,False
+02.Unmarked_p1_c0025,Solenoid Valve,Valve,0.1933,0.6,0.4,False,False
+02.Unmarked_p1_c0025,3-Way Valve,Valve,0.2239,0.6,0.4,False,False
+02.Unmarked_p1_c0025,Diaphragm Valve,Valve,0.2097,0.7,0.4,False,False
+02.Unmarked_p1_c0025,Centrifugal Pump,Pump,0.3235,0.7,0.4,False,False
+02.Unmarked_p1_c0025,Rotary Pump,Pump,0.229,0.7,0.4,False,False
+02.Unmarked_p1_c0025,Heat Exchanger,Heat Exchanger,0.3057,0.6,0.4,False,False
+02.Unmarked_p1_c0025,Condenser,Heat Exchanger,0.2765,0.6,0.4,False,False
+02.Unmarked_p1_c0025,Reboiler,Heat Exchanger,0.2162,0.6,0.4,False,False
+02.Unmarked_p1_c0025,Cooler,Heat Exchanger,0.3003,0.6,0.4,False,False
+02.Unmarked_p1_c0025,Vessel,Vessel,0.3663,0.6,0.4,False,False
+02.Unmarked_p1_c0025,Tank,Vessel,0.3436,0.6,0.4,False,False
+02.Unmarked_p1_c0025,Drum,Vessel,0.3597,0.6,0.4,False,False
+02.Unmarked_p1_c0025,Filter,Filter,0.3707,0.7,0.4,False,False
+02.Unmarked_p1_c0025,Strainer,Filter,0.3394,0.6,0.4,False,False
+02.Unmarked_p1_c0025,Compressor,Compressor,0.331,0.6,0.4,False,False
+02.Unmarked_p1_c0026,Gate Valve,Valve,0.2343,0.6,0.4,False,False
+02.Unmarked_p1_c0026,Globe Valve,Valve,0.2162,0.6,0.4,False,False
+02.Unmarked_p1_c0026,Butterfly Valve,Valve,0.1807,0.6,0.4,False,False
+02.Unmarked_p1_c0026,Check Valve,Valve,0.1797,0.7,0.4,False,False
+02.Unmarked_p1_c0026,Control Valve,Valve,0.1972,0.7,0.4,False,False
+02.Unmarked_p1_c0026,Needle Valve,Valve,0.1696,0.7,0.4,False,False
+02.Unmarked_p1_c0026,Relief Valve,Valve,0.228,0.6,0.4,False,False
+02.Unmarked_p1_c0026,Solenoid Valve,Valve,0.1797,0.7,0.4,False,False
+02.Unmarked_p1_c0026,3-Way Valve,Valve,0.192,0.6,0.4,False,False
+02.Unmarked_p1_c0026,Diaphragm Valve,Valve,0.172,0.6,0.4,False,False
+02.Unmarked_p1_c0026,Centrifugal Pump,Pump,0.2618,0.6,0.4,False,False
+02.Unmarked_p1_c0026,Rotary Pump,Pump,0.1645,0.6,0.4,False,False
+02.Unmarked_p1_c0026,Heat Exchanger,Heat Exchanger,0.2671,0.6,0.4,False,False
+02.Unmarked_p1_c0026,Condenser,Heat Exchanger,0.1884,0.7,0.4,False,False
+02.Unmarked_p1_c0026,Reboiler,Heat Exchanger,0.2295,0.7,0.4,False,False
+02.Unmarked_p1_c0026,Cooler,Heat Exchanger,0.2303,0.6,0.4,False,False
+02.Unmarked_p1_c0026,Vessel,Vessel,0.2566,0.6,0.4,False,False
+02.Unmarked_p1_c0026,Tank,Vessel,0.2491,0.6,0.4,False,False
+02.Unmarked_p1_c0026,Drum,Vessel,0.2644,0.6,0.4,False,False
+02.Unmarked_p1_c0026,Filter,Filter,0.277,0.6,0.4,False,False
+02.Unmarked_p1_c0026,Strainer,Filter,0.2573,0.6,0.4,False,False
+02.Unmarked_p1_c0026,Compressor,Compressor,0.2442,0.6,0.4,False,False
+02.Unmarked_p1_c0027,Gate Valve,Valve,0.2707,0.6,0.4,False,False
+02.Unmarked_p1_c0027,Globe Valve,Valve,0.2419,0.8,0.4,False,False
+02.Unmarked_p1_c0027,Butterfly Valve,Valve,0.1864,0.7,0.4,False,False
+02.Unmarked_p1_c0027,Check Valve,Valve,0.1699,0.6,0.4,False,False
+02.Unmarked_p1_c0027,Control Valve,Valve,0.2236,0.6,0.4,False,False
+02.Unmarked_p1_c0027,Needle Valve,Valve,0.1882,0.8,0.4,False,False
+02.Unmarked_p1_c0027,Relief Valve,Valve,0.2325,0.6,0.4,False,False
+02.Unmarked_p1_c0027,Solenoid Valve,Valve,0.1699,0.6,0.4,False,False
+02.Unmarked_p1_c0027,3-Way Valve,Valve,0.1758,0.6,0.4,False,False
+02.Unmarked_p1_c0027,Diaphragm Valve,Valve,0.1572,0.6,0.4,False,False
+02.Unmarked_p1_c0027,Centrifugal Pump,Pump,0.2575,0.6,0.4,False,False
+02.Unmarked_p1_c0027,Rotary Pump,Pump,0.1858,0.7,0.4,False,False
+02.Unmarked_p1_c0027,Heat Exchanger,Heat Exchanger,0.2255,0.7,0.4,False,False
+02.Unmarked_p1_c0027,Condenser,Heat Exchanger,0.2116,0.6,0.4,False,False
+02.Unmarked_p1_c0027,Reboiler,Heat Exchanger,0.2377,0.7,0.4,False,False
+02.Unmarked_p1_c0027,Cooler,Heat Exchanger,0.2353,0.6,0.4,False,False
+02.Unmarked_p1_c0027,Vessel,Vessel,0.2518,0.7,0.4,False,False
+02.Unmarked_p1_c0027,Tank,Vessel,0.2356,0.6,0.4,False,False
+02.Unmarked_p1_c0027,Drum,Vessel,0.2518,0.7,0.4,False,False
+02.Unmarked_p1_c0027,Filter,Filter,0.2821,0.6,0.4,False,False
+02.Unmarked_p1_c0027,Strainer,Filter,0.2936,0.6,0.4,False,False
+02.Unmarked_p1_c0027,Compressor,Compressor,0.2467,0.6,0.4,False,False
+02.Unmarked_p1_c0028,Gate Valve,Valve,0.1939,0.6,0.4,False,False
+02.Unmarked_p1_c0028,Globe Valve,Valve,0.2055,0.6,0.4,False,False
+02.Unmarked_p1_c0028,Butterfly Valve,Valve,0.176,0.6,0.4,False,False
+02.Unmarked_p1_c0028,Check Valve,Valve,0.2068,0.7,0.4,False,False
+02.Unmarked_p1_c0028,Control Valve,Valve,0.1617,0.6,0.4,False,False
+02.Unmarked_p1_c0028,Needle Valve,Valve,0.1909,0.6,0.4,False,False
+02.Unmarked_p1_c0028,Relief Valve,Valve,0.2007,0.6,0.4,False,False
+02.Unmarked_p1_c0028,Solenoid Valve,Valve,0.163,0.6,0.4,False,False
+02.Unmarked_p1_c0028,3-Way Valve,Valve,0.1994,0.6,0.4,False,False
+02.Unmarked_p1_c0028,Diaphragm Valve,Valve,0.2068,0.7,0.4,False,False
+02.Unmarked_p1_c0028,Centrifugal Pump,Pump,0.2209,0.6,0.4,False,False
+02.Unmarked_p1_c0028,Rotary Pump,Pump,0.1725,0.8,0.4,False,False
+02.Unmarked_p1_c0028,Heat Exchanger,Heat Exchanger,0.2355,0.6,0.4,False,False
+02.Unmarked_p1_c0028,Condenser,Heat Exchanger,0.2005,0.6,0.4,False,False
+02.Unmarked_p1_c0028,Reboiler,Heat Exchanger,0.2394,0.7,0.4,False,False
+02.Unmarked_p1_c0028,Cooler,Heat Exchanger,0.2643,0.6,0.4,False,False
+02.Unmarked_p1_c0028,Vessel,Vessel,0.2286,0.7,0.4,False,False
+02.Unmarked_p1_c0028,Tank,Vessel,0.2751,0.6,0.4,False,False
+02.Unmarked_p1_c0028,Drum,Vessel,0.2286,0.7,0.4,False,False
+02.Unmarked_p1_c0028,Filter,Filter,0.2406,0.7,0.4,False,False
+02.Unmarked_p1_c0028,Strainer,Filter,0.2238,0.6,0.4,False,False
+02.Unmarked_p1_c0028,Compressor,Compressor,0.2463,0.7,0.4,False,False
+02.Unmarked_p1_c0029,Gate Valve,Valve,0.2124,0.6,0.4,False,False
+02.Unmarked_p1_c0029,Globe Valve,Valve,0.1951,0.6,0.4,False,False
+02.Unmarked_p1_c0029,Butterfly Valve,Valve,0.1628,0.6,0.4,False,False
+02.Unmarked_p1_c0029,Check Valve,Valve,0.1849,0.7,0.4,False,False
+02.Unmarked_p1_c0029,Control Valve,Valve,0.182,0.6,0.4,False,False
+02.Unmarked_p1_c0029,Needle Valve,Valve,0.1825,0.6,0.4,False,False
+02.Unmarked_p1_c0029,Relief Valve,Valve,0.1909,0.6,0.4,False,False
+02.Unmarked_p1_c0029,Solenoid Valve,Valve,0.1506,0.6,0.4,False,False
+02.Unmarked_p1_c0029,3-Way Valve,Valve,0.189,0.6,0.4,False,False
+02.Unmarked_p1_c0029,Diaphragm Valve,Valve,0.1849,0.7,0.4,False,False
+02.Unmarked_p1_c0029,Centrifugal Pump,Pump,0.222,0.6,0.4,False,False
+02.Unmarked_p1_c0029,Rotary Pump,Pump,0.1971,0.6,0.4,False,False
+02.Unmarked_p1_c0029,Heat Exchanger,Heat Exchanger,0.217,0.6,0.4,False,False
+02.Unmarked_p1_c0029,Condenser,Heat Exchanger,0.183,0.6,0.4,False,False
+02.Unmarked_p1_c0029,Reboiler,Heat Exchanger,0.2228,0.7,0.4,False,False
+02.Unmarked_p1_c0029,Cooler,Heat Exchanger,0.2515,0.6,0.4,False,False
+02.Unmarked_p1_c0029,Vessel,Vessel,0.2233,0.7,0.4,False,False
+02.Unmarked_p1_c0029,Tank,Vessel,0.2328,0.7,0.4,False,False
+02.Unmarked_p1_c0029,Drum,Vessel,0.2233,0.7,0.4,False,False
+02.Unmarked_p1_c0029,Filter,Filter,0.2404,0.6,0.4,False,False
+02.Unmarked_p1_c0029,Strainer,Filter,0.2172,0.6,0.4,False,False
+02.Unmarked_p1_c0029,Compressor,Compressor,0.2288,0.7,0.4,False,False
+02.Unmarked_p1_c0030,Gate Valve,Valve,0.2521,0.6,0.4,False,False
+02.Unmarked_p1_c0030,Globe Valve,Valve,0.1956,0.6,0.4,False,False
+02.Unmarked_p1_c0030,Butterfly Valve,Valve,0.207,0.8,0.4,False,False
+02.Unmarked_p1_c0030,Check Valve,Valve,0.176,0.7,0.4,False,False
+02.Unmarked_p1_c0030,Control Valve,Valve,0.2315,0.6,0.4,False,False
+02.Unmarked_p1_c0030,Needle Valve,Valve,0.2298,0.6,0.4,False,False
+02.Unmarked_p1_c0030,Relief Valve,Valve,0.3049,0.6,0.4,False,False
+02.Unmarked_p1_c0030,Solenoid Valve,Valve,0.176,0.7,0.4,False,False
+02.Unmarked_p1_c0030,3-Way Valve,Valve,0.2007,0.6,0.4,False,False
+02.Unmarked_p1_c0030,Diaphragm Valve,Valve,0.1739,0.8,0.4,False,False
+02.Unmarked_p1_c0030,Centrifugal Pump,Pump,0.3026,0.6,0.4,False,False
+02.Unmarked_p1_c0030,Rotary Pump,Pump,0.1717,0.7,0.4,False,False
+02.Unmarked_p1_c0030,Heat Exchanger,Heat Exchanger,0.2299,0.7,0.4,False,False
+02.Unmarked_p1_c0030,Condenser,Heat Exchanger,0.24,0.6,0.4,False,False
+02.Unmarked_p1_c0030,Reboiler,Heat Exchanger,0.2093,0.7,0.4,False,False
+02.Unmarked_p1_c0030,Cooler,Heat Exchanger,0.2481,0.6,0.4,False,False
+02.Unmarked_p1_c0030,Vessel,Vessel,0.3312,0.6,0.4,False,False
+02.Unmarked_p1_c0030,Tank,Vessel,0.2828,0.6,0.4,False,False
+02.Unmarked_p1_c0030,Drum,Vessel,0.3748,0.6,0.4,False,False
+02.Unmarked_p1_c0030,Filter,Filter,0.2961,0.6,0.4,False,False
+02.Unmarked_p1_c0030,Strainer,Filter,0.2996,0.6,0.4,False,False
+02.Unmarked_p1_c0030,Compressor,Compressor,0.3026,0.6,0.4,False,False
+02.Unmarked_p1_c0031,Gate Valve,Valve,0.2412,0.6,0.4,False,False
+02.Unmarked_p1_c0031,Globe Valve,Valve,0.215,0.6,0.4,False,False
+02.Unmarked_p1_c0031,Butterfly Valve,Valve,0.1605,0.6,0.4,False,False
+02.Unmarked_p1_c0031,Check Valve,Valve,0.1718,0.7,0.4,False,False
+02.Unmarked_p1_c0031,Control Valve,Valve,0.2127,0.6,0.4,False,False
+02.Unmarked_p1_c0031,Needle Valve,Valve,0.1956,0.7,0.4,False,False
+02.Unmarked_p1_c0031,Relief Valve,Valve,0.2655,0.6,0.4,False,False
+02.Unmarked_p1_c0031,Solenoid Valve,Valve,0.1718,0.7,0.4,False,False
+02.Unmarked_p1_c0031,3-Way Valve,Valve,0.1916,0.6,0.4,False,False
+02.Unmarked_p1_c0031,Diaphragm Valve,Valve,0.1551,0.6,0.4,False,False
+02.Unmarked_p1_c0031,Centrifugal Pump,Pump,0.2993,0.6,0.4,False,False
+02.Unmarked_p1_c0031,Rotary Pump,Pump,0.1784,0.7,0.4,False,False
+02.Unmarked_p1_c0031,Heat Exchanger,Heat Exchanger,0.25,0.6,0.4,False,False
+02.Unmarked_p1_c0031,Condenser,Heat Exchanger,0.2222,0.6,0.4,False,False
+02.Unmarked_p1_c0031,Reboiler,Heat Exchanger,0.2163,0.7,0.4,False,False
+02.Unmarked_p1_c0031,Cooler,Heat Exchanger,0.2518,0.6,0.4,False,False
+02.Unmarked_p1_c0031,Vessel,Vessel,0.3084,0.6,0.4,False,False
+02.Unmarked_p1_c0031,Tank,Vessel,0.3084,0.6,0.4,False,False
+02.Unmarked_p1_c0031,Drum,Vessel,0.353,0.6,0.4,False,False
+02.Unmarked_p1_c0031,Filter,Filter,0.2765,0.6,0.4,False,False
+02.Unmarked_p1_c0031,Strainer,Filter,0.2773,0.6,0.4,False,False
+02.Unmarked_p1_c0031,Compressor,Compressor,0.2993,0.6,0.4,False,False
+02.Unmarked_p1_c0032,Gate Valve,Valve,0.2445,0.6,0.4,False,False
+02.Unmarked_p1_c0032,Globe Valve,Valve,0.2366,0.6,0.4,False,False
+02.Unmarked_p1_c0032,Butterfly Valve,Valve,0.1681,0.6,0.4,False,False
+02.Unmarked_p1_c0032,Check Valve,Valve,0.1874,0.7,0.4,False,False
+02.Unmarked_p1_c0032,Control Valve,Valve,0.1562,0.6,0.4,False,False
+02.Unmarked_p1_c0032,Needle Valve,Valve,0.2441,0.6,0.4,False,False
+02.Unmarked_p1_c0032,Relief Valve,Valve,0.283,0.6,0.4,False,False
+02.Unmarked_p1_c0032,Solenoid Valve,Valve,0.1773,0.6,0.4,False,False
+02.Unmarked_p1_c0032,3-Way Valve,Valve,0.212,0.6,0.4,False,False
+02.Unmarked_p1_c0032,Diaphragm Valve,Valve,0.1874,0.7,0.4,False,False
+02.Unmarked_p1_c0032,Centrifugal Pump,Pump,0.3019,0.6,0.4,False,False
+02.Unmarked_p1_c0032,Rotary Pump,Pump,0.1918,0.7,0.4,False,False
+02.Unmarked_p1_c0032,Heat Exchanger,Heat Exchanger,0.2958,0.6,0.4,False,False
+02.Unmarked_p1_c0032,Condenser,Heat Exchanger,0.2706,0.6,0.4,False,False
+02.Unmarked_p1_c0032,Reboiler,Heat Exchanger,0.2129,0.6,0.4,False,False
+02.Unmarked_p1_c0032,Cooler,Heat Exchanger,0.2928,0.6,0.4,False,False
+02.Unmarked_p1_c0032,Vessel,Vessel,0.3083,0.6,0.4,False,False
+02.Unmarked_p1_c0032,Tank,Vessel,0.3083,0.6,0.4,False,False
+02.Unmarked_p1_c0032,Drum,Vessel,0.281,0.6,0.4,False,False
+02.Unmarked_p1_c0032,Filter,Filter,0.3506,0.6,0.4,False,False
+02.Unmarked_p1_c0032,Strainer,Filter,0.3086,0.7,0.4,False,False
+02.Unmarked_p1_c0032,Compressor,Compressor,0.3262,0.6,0.4,False,False
+02.Unmarked_p1_c0033,Gate Valve,Valve,0.2832,0.6,0.4,False,False
+02.Unmarked_p1_c0033,Globe Valve,Valve,0.206,0.6,0.4,False,False
+02.Unmarked_p1_c0033,Butterfly Valve,Valve,0.1747,0.6,0.4,False,False
+02.Unmarked_p1_c0033,Check Valve,Valve,0.1803,0.6,0.4,False,False
+02.Unmarked_p1_c0033,Control Valve,Valve,0.1872,0.6,0.4,False,False
+02.Unmarked_p1_c0033,Needle Valve,Valve,0.1677,0.7,0.4,False,False
+02.Unmarked_p1_c0033,Relief Valve,Valve,0.2785,0.6,0.4,False,False
+02.Unmarked_p1_c0033,Solenoid Valve,Valve,0.1803,0.6,0.4,False,False
+02.Unmarked_p1_c0033,3-Way Valve,Valve,0.1849,0.6,0.4,False,False
+02.Unmarked_p1_c0033,Diaphragm Valve,Valve,0.1678,0.6,0.4,False,False
+02.Unmarked_p1_c0033,Centrifugal Pump,Pump,0.3127,0.6,0.4,False,False
+02.Unmarked_p1_c0033,Rotary Pump,Pump,0.1878,0.7,0.4,False,False
+02.Unmarked_p1_c0033,Heat Exchanger,Heat Exchanger,0.251,0.6,0.4,False,False
+02.Unmarked_p1_c0033,Condenser,Heat Exchanger,0.2179,0.6,0.4,False,False
+02.Unmarked_p1_c0033,Reboiler,Heat Exchanger,0.2506,0.7,0.4,False,False
+02.Unmarked_p1_c0033,Cooler,Heat Exchanger,0.2689,0.6,0.4,False,False
+02.Unmarked_p1_c0033,Vessel,Vessel,0.3144,0.6,0.4,False,False
+02.Unmarked_p1_c0033,Tank,Vessel,0.2826,0.6,0.4,False,False
+02.Unmarked_p1_c0033,Drum,Vessel,0.3755,0.6,0.4,False,False
+02.Unmarked_p1_c0033,Filter,Filter,0.2969,0.6,0.4,False,False
+02.Unmarked_p1_c0033,Strainer,Filter,0.2807,0.6,0.4,False,False
+02.Unmarked_p1_c0033,Compressor,Compressor,0.3127,0.6,0.4,False,False
+02.Unmarked_p1_c0034,Gate Valve,Valve,0.2284,0.6,0.4,False,False
+02.Unmarked_p1_c0034,Globe Valve,Valve,0.2213,0.7,0.4,False,False
+02.Unmarked_p1_c0034,Butterfly Valve,Valve,0.167,0.6,0.4,False,False
+02.Unmarked_p1_c0034,Check Valve,Valve,0.2054,0.8,0.4,False,False
+02.Unmarked_p1_c0034,Control Valve,Valve,0.1656,0.6,0.4,False,False
+02.Unmarked_p1_c0034,Needle Valve,Valve,0.2895,0.6,0.4,False,False
+02.Unmarked_p1_c0034,Relief Valve,Valve,0.2843,0.6,0.4,False,False
+02.Unmarked_p1_c0034,Solenoid Valve,Valve,0.1882,0.6,0.4,False,False
+02.Unmarked_p1_c0034,3-Way Valve,Valve,0.2442,0.6,0.4,False,False
+02.Unmarked_p1_c0034,Diaphragm Valve,Valve,0.2054,0.8,0.4,False,False
+02.Unmarked_p1_c0034,Centrifugal Pump,Pump,0.3572,0.6,0.4,False,False
+02.Unmarked_p1_c0034,Rotary Pump,Pump,0.2418,0.7,0.4,False,False
+02.Unmarked_p1_c0034,Heat Exchanger,Heat Exchanger,0.3004,0.7,0.4,False,False
+02.Unmarked_p1_c0034,Condenser,Heat Exchanger,0.2177,0.6,0.4,False,False
+02.Unmarked_p1_c0034,Reboiler,Heat Exchanger,0.2289,0.7,0.4,False,False
+02.Unmarked_p1_c0034,Cooler,Heat Exchanger,0.2734,0.6,0.4,False,False
+02.Unmarked_p1_c0034,Vessel,Vessel,0.3193,0.6,0.4,False,False
+02.Unmarked_p1_c0034,Tank,Vessel,0.3351,0.6,0.4,False,False
+02.Unmarked_p1_c0034,Drum,Vessel,0.3244,0.7,0.4,False,False
+02.Unmarked_p1_c0034,Filter,Filter,0.3799,0.6,0.4,False,False
+02.Unmarked_p1_c0034,Strainer,Filter,0.2843,0.7,0.4,False,False
+02.Unmarked_p1_c0034,Compressor,Compressor,0.3572,0.6,0.4,False,False
+02.Unmarked_p1_c0035,Gate Valve,Valve,0.2318,0.7,0.4,False,False
+02.Unmarked_p1_c0035,Globe Valve,Valve,0.2236,0.6,0.4,False,False
+02.Unmarked_p1_c0035,Butterfly Valve,Valve,0.1677,0.6,0.4,False,False
+02.Unmarked_p1_c0035,Check Valve,Valve,0.203,0.8,0.4,False,False
+02.Unmarked_p1_c0035,Control Valve,Valve,0.1653,0.6,0.4,False,False
+02.Unmarked_p1_c0035,Needle Valve,Valve,0.2891,0.6,0.4,False,False
+02.Unmarked_p1_c0035,Relief Valve,Valve,0.2838,0.6,0.4,False,False
+02.Unmarked_p1_c0035,Solenoid Valve,Valve,0.1902,0.6,0.4,False,False
+02.Unmarked_p1_c0035,3-Way Valve,Valve,0.2474,0.6,0.4,False,False
+02.Unmarked_p1_c0035,Diaphragm Valve,Valve,0.203,0.8,0.4,False,False
+02.Unmarked_p1_c0035,Centrifugal Pump,Pump,0.3567,0.6,0.4,False,False
+02.Unmarked_p1_c0035,Rotary Pump,Pump,0.2401,0.7,0.4,False,False
+02.Unmarked_p1_c0035,Heat Exchanger,Heat Exchanger,0.3024,0.7,0.4,False,False
+02.Unmarked_p1_c0035,Condenser,Heat Exchanger,0.2166,0.6,0.4,False,False
+02.Unmarked_p1_c0035,Reboiler,Heat Exchanger,0.234,0.7,0.4,False,False
+02.Unmarked_p1_c0035,Cooler,Heat Exchanger,0.2729,0.6,0.4,False,False
+02.Unmarked_p1_c0035,Vessel,Vessel,0.3224,0.6,0.4,False,False
+02.Unmarked_p1_c0035,Tank,Vessel,0.338,0.6,0.4,False,False
+02.Unmarked_p1_c0035,Drum,Vessel,0.304,0.7,0.4,False,False
+02.Unmarked_p1_c0035,Filter,Filter,0.3991,0.6,0.4,False,False
+02.Unmarked_p1_c0035,Strainer,Filter,0.2922,0.7,0.4,False,False
+02.Unmarked_p1_c0035,Compressor,Compressor,0.3567,0.6,0.4,False,False
+02.Unmarked_p1_c0036,Gate Valve,Valve,0.2261,0.6,0.4,False,False
+02.Unmarked_p1_c0036,Globe Valve,Valve,0.2062,0.6,0.4,False,False
+02.Unmarked_p1_c0036,Butterfly Valve,Valve,0.1696,0.6,0.4,False,False
+02.Unmarked_p1_c0036,Check Valve,Valve,0.2429,0.6,0.4,False,False
+02.Unmarked_p1_c0036,Control Valve,Valve,0.1949,0.6,0.4,False,False
+02.Unmarked_p1_c0036,Needle Valve,Valve,0.1822,0.6,0.4,False,False
+02.Unmarked_p1_c0036,Relief Valve,Valve,0.235,0.6,0.4,False,False
+02.Unmarked_p1_c0036,Solenoid Valve,Valve,0.2429,0.6,0.4,False,False
+02.Unmarked_p1_c0036,3-Way Valve,Valve,0.2332,0.6,0.4,False,False
+02.Unmarked_p1_c0036,Diaphragm Valve,Valve,0.182,0.6,0.4,False,False
+02.Unmarked_p1_c0036,Centrifugal Pump,Pump,0.2137,0.6,0.4,False,False
+02.Unmarked_p1_c0036,Rotary Pump,Pump,0.1927,0.7,0.4,False,False
+02.Unmarked_p1_c0036,Heat Exchanger,Heat Exchanger,0.2332,0.6,0.4,False,False
+02.Unmarked_p1_c0036,Condenser,Heat Exchanger,0.2332,0.6,0.4,False,False
+02.Unmarked_p1_c0036,Reboiler,Heat Exchanger,0.2067,0.7,0.4,False,False
+02.Unmarked_p1_c0036,Cooler,Heat Exchanger,0.2329,0.6,0.4,False,False
+02.Unmarked_p1_c0036,Vessel,Vessel,0.2358,0.8,0.4,False,False
+02.Unmarked_p1_c0036,Tank,Vessel,0.2358,0.8,0.4,False,False
+02.Unmarked_p1_c0036,Drum,Vessel,0.2152,0.8,0.4,False,False
+02.Unmarked_p1_c0036,Filter,Filter,0.2206,0.8,0.4,False,False
+02.Unmarked_p1_c0036,Strainer,Filter,0.2649,0.6,0.4,False,False
+02.Unmarked_p1_c0036,Compressor,Compressor,0.2341,0.8,0.4,False,False
+02.Unmarked_p1_c0038,Gate Valve,Valve,0.228,0.6,0.4,False,False
+02.Unmarked_p1_c0038,Globe Valve,Valve,0.2219,0.6,0.4,False,False
+02.Unmarked_p1_c0038,Butterfly Valve,Valve,0.1665,0.6,0.4,False,False
+02.Unmarked_p1_c0038,Check Valve,Valve,0.2096,0.8,0.4,False,False
+02.Unmarked_p1_c0038,Control Valve,Valve,0.1665,0.7,0.4,False,False
+02.Unmarked_p1_c0038,Needle Valve,Valve,0.2891,0.6,0.4,False,False
+02.Unmarked_p1_c0038,Relief Valve,Valve,0.2838,0.6,0.4,False,False
+02.Unmarked_p1_c0038,Solenoid Valve,Valve,0.1896,0.6,0.4,False,False
+02.Unmarked_p1_c0038,3-Way Valve,Valve,0.247,0.6,0.4,False,False
+02.Unmarked_p1_c0038,Diaphragm Valve,Valve,0.2096,0.8,0.4,False,False
+02.Unmarked_p1_c0038,Centrifugal Pump,Pump,0.3562,0.6,0.4,False,False
+02.Unmarked_p1_c0038,Rotary Pump,Pump,0.2406,0.7,0.4,False,False
+02.Unmarked_p1_c0038,Heat Exchanger,Heat Exchanger,0.2994,0.7,0.4,False,False
+02.Unmarked_p1_c0038,Condenser,Heat Exchanger,0.2203,0.6,0.4,False,False
+02.Unmarked_p1_c0038,Reboiler,Heat Exchanger,0.2297,0.7,0.4,False,False
+02.Unmarked_p1_c0038,Cooler,Heat Exchanger,0.2729,0.6,0.4,False,False
+02.Unmarked_p1_c0038,Vessel,Vessel,0.319,0.6,0.4,False,False
+02.Unmarked_p1_c0038,Tank,Vessel,0.3348,0.6,0.4,False,False
+02.Unmarked_p1_c0038,Drum,Vessel,0.3159,0.7,0.4,False,False
+02.Unmarked_p1_c0038,Filter,Filter,0.3766,0.6,0.4,False,False
+02.Unmarked_p1_c0038,Strainer,Filter,0.2843,0.7,0.4,False,False
+02.Unmarked_p1_c0038,Compressor,Compressor,0.3562,0.6,0.4,False,False
+02.Unmarked_p1_c0039,Gate Valve,Valve,0.2688,0.6,0.4,False,False
+02.Unmarked_p1_c0039,Globe Valve,Valve,0.1879,0.6,0.4,False,False
+02.Unmarked_p1_c0039,Butterfly Valve,Valve,0.163,0.6,0.4,False,False
+02.Unmarked_p1_c0039,Check Valve,Valve,0.2078,0.6,0.4,False,False
+02.Unmarked_p1_c0039,Control Valve,Valve,0.1286,0.7,0.4,False,False
+02.Unmarked_p1_c0039,Needle Valve,Valve,0.2019,0.6,0.4,False,False
+02.Unmarked_p1_c0039,Relief Valve,Valve,0.2988,0.6,0.4,False,False
+02.Unmarked_p1_c0039,Solenoid Valve,Valve,0.2078,0.6,0.4,False,False
+02.Unmarked_p1_c0039,3-Way Valve,Valve,0.2082,0.6,0.4,False,False
+02.Unmarked_p1_c0039,Diaphragm Valve,Valve,0.1849,0.7,0.4,False,False
+02.Unmarked_p1_c0039,Centrifugal Pump,Pump,0.3033,0.6,0.4,False,False
+02.Unmarked_p1_c0039,Rotary Pump,Pump,0.2261,0.7,0.4,False,False
+02.Unmarked_p1_c0039,Heat Exchanger,Heat Exchanger,0.3107,0.7,0.4,False,False
+02.Unmarked_p1_c0039,Condenser,Heat Exchanger,0.2931,0.6,0.4,False,False
+02.Unmarked_p1_c0039,Reboiler,Heat Exchanger,0.2231,0.7,0.4,False,False
+02.Unmarked_p1_c0039,Cooler,Heat Exchanger,0.2897,0.6,0.4,False,False
+02.Unmarked_p1_c0039,Vessel,Vessel,0.3694,0.7,0.4,False,False
+02.Unmarked_p1_c0039,Tank,Vessel,0.3895,0.6,0.4,False,False
+02.Unmarked_p1_c0039,Drum,Vessel,0.3396,0.6,0.4,False,False
+02.Unmarked_p1_c0039,Filter,Filter,0.3595,0.6,0.4,False,False
+02.Unmarked_p1_c0039,Strainer,Filter,0.3139,0.7,0.4,False,False
+02.Unmarked_p1_c0039,Compressor,Compressor,0.3185,0.7,0.4,False,False
+02.Unmarked_p1_c0040,Gate Valve,Valve,0.2205,0.6,0.4,False,False
+02.Unmarked_p1_c0040,Globe Valve,Valve,0.1731,0.7,0.4,False,False
+02.Unmarked_p1_c0040,Butterfly Valve,Valve,0.1465,0.6,0.4,False,False
+02.Unmarked_p1_c0040,Check Valve,Valve,0.1895,0.7,0.4,False,False
+02.Unmarked_p1_c0040,Control Valve,Valve,0.1549,0.6,0.4,False,False
+02.Unmarked_p1_c0040,Needle Valve,Valve,0.2259,0.6,0.4,False,False
+02.Unmarked_p1_c0040,Relief Valve,Valve,0.283,0.6,0.4,False,False
+02.Unmarked_p1_c0040,Solenoid Valve,Valve,0.1643,0.7,0.4,False,False
+02.Unmarked_p1_c0040,3-Way Valve,Valve,0.2175,0.6,0.4,False,False
+02.Unmarked_p1_c0040,Diaphragm Valve,Valve,0.1895,0.7,0.4,False,False
+02.Unmarked_p1_c0040,Centrifugal Pump,Pump,0.3025,0.6,0.4,False,False
+02.Unmarked_p1_c0040,Rotary Pump,Pump,0.191,0.7,0.4,False,False
+02.Unmarked_p1_c0040,Heat Exchanger,Heat Exchanger,0.2964,0.6,0.4,False,False
+02.Unmarked_p1_c0040,Condenser,Heat Exchanger,0.2638,0.6,0.4,False,False
+02.Unmarked_p1_c0040,Reboiler,Heat Exchanger,0.2134,0.6,0.4,False,False
+02.Unmarked_p1_c0040,Cooler,Heat Exchanger,0.2818,0.6,0.4,False,False
+02.Unmarked_p1_c0040,Vessel,Vessel,0.3114,0.6,0.4,False,False
+02.Unmarked_p1_c0040,Tank,Vessel,0.3114,0.6,0.4,False,False
+02.Unmarked_p1_c0040,Drum,Vessel,0.278,0.6,0.4,False,False
+02.Unmarked_p1_c0040,Filter,Filter,0.3585,0.6,0.4,False,False
+02.Unmarked_p1_c0040,Strainer,Filter,0.3102,0.7,0.4,False,False
+02.Unmarked_p1_c0040,Compressor,Compressor,0.3194,0.6,0.4,False,False
+02.Unmarked_p1_c0041,Gate Valve,Valve,0.2752,0.6,0.4,False,False
+02.Unmarked_p1_c0041,Globe Valve,Valve,0.2212,0.8,0.4,False,False
+02.Unmarked_p1_c0041,Butterfly Valve,Valve,0.1731,0.6,0.4,False,False
+02.Unmarked_p1_c0041,Check Valve,Valve,0.1922,0.7,0.4,False,False
+02.Unmarked_p1_c0041,Control Valve,Valve,0.2213,0.6,0.4,False,False
+02.Unmarked_p1_c0041,Needle Valve,Valve,0.1798,0.6,0.4,False,False
+02.Unmarked_p1_c0041,Relief Valve,Valve,0.2323,0.6,0.4,False,False
+02.Unmarked_p1_c0041,Solenoid Valve,Valve,0.1922,0.7,0.4,False,False
+02.Unmarked_p1_c0041,3-Way Valve,Valve,0.2045,0.6,0.4,False,False
+02.Unmarked_p1_c0041,Diaphragm Valve,Valve,0.1577,0.6,0.4,False,False
+02.Unmarked_p1_c0041,Centrifugal Pump,Pump,0.3213,0.6,0.4,False,False
+02.Unmarked_p1_c0041,Rotary Pump,Pump,0.1819,0.7,0.4,False,False
+02.Unmarked_p1_c0041,Heat Exchanger,Heat Exchanger,0.2327,0.6,0.4,False,False
+02.Unmarked_p1_c0041,Condenser,Heat Exchanger,0.2155,0.6,0.4,False,False
+02.Unmarked_p1_c0041,Reboiler,Heat Exchanger,0.2536,0.7,0.4,False,False
+02.Unmarked_p1_c0041,Cooler,Heat Exchanger,0.2387,0.6,0.4,False,False
+02.Unmarked_p1_c0041,Vessel,Vessel,0.2497,0.7,0.4,False,False
+02.Unmarked_p1_c0041,Tank,Vessel,0.2594,0.6,0.4,False,False
+02.Unmarked_p1_c0041,Drum,Vessel,0.2497,0.7,0.4,False,False
+02.Unmarked_p1_c0041,Filter,Filter,0.2983,0.6,0.4,False,False
+02.Unmarked_p1_c0041,Strainer,Filter,0.266,0.6,0.4,False,False
+02.Unmarked_p1_c0041,Compressor,Compressor,0.2853,0.6,0.4,False,False
+02.Unmarked_p1_c0042,Gate Valve,Valve,0.2745,0.6,0.4,False,False
+02.Unmarked_p1_c0042,Globe Valve,Valve,0.2386,0.6,0.4,False,False
+02.Unmarked_p1_c0042,Butterfly Valve,Valve,0.1755,0.6,0.4,False,False
+02.Unmarked_p1_c0042,Check Valve,Valve,0.1817,0.6,0.4,False,False
+02.Unmarked_p1_c0042,Control Valve,Valve,0.2107,0.6,0.4,False,False
+02.Unmarked_p1_c0042,Needle Valve,Valve,0.1687,0.7,0.4,False,False
+02.Unmarked_p1_c0042,Relief Valve,Valve,0.2985,0.6,0.4,False,False
+02.Unmarked_p1_c0042,Solenoid Valve,Valve,0.1787,0.6,0.4,False,False
+02.Unmarked_p1_c0042,3-Way Valve,Valve,0.2295,0.6,0.4,False,False
+02.Unmarked_p1_c0042,Diaphragm Valve,Valve,0.1817,0.6,0.4,False,False
+02.Unmarked_p1_c0042,Centrifugal Pump,Pump,0.3375,0.6,0.4,False,False
+02.Unmarked_p1_c0042,Rotary Pump,Pump,0.175,0.7,0.4,False,False
+02.Unmarked_p1_c0042,Heat Exchanger,Heat Exchanger,0.257,0.6,0.4,False,False
+02.Unmarked_p1_c0042,Condenser,Heat Exchanger,0.2341,0.6,0.4,False,False
+02.Unmarked_p1_c0042,Reboiler,Heat Exchanger,0.2167,0.7,0.4,False,False
+02.Unmarked_p1_c0042,Cooler,Heat Exchanger,0.2565,0.7,0.4,False,False
+02.Unmarked_p1_c0042,Vessel,Vessel,0.3096,0.6,0.4,False,False
+02.Unmarked_p1_c0042,Tank,Vessel,0.2893,0.6,0.4,False,False
+02.Unmarked_p1_c0042,Drum,Vessel,0.3507,0.6,0.4,False,False
+02.Unmarked_p1_c0042,Filter,Filter,0.284,0.6,0.4,False,False
+02.Unmarked_p1_c0042,Strainer,Filter,0.2805,0.6,0.4,False,False
+02.Unmarked_p1_c0042,Compressor,Compressor,0.3398,0.6,0.4,False,False
+02.Unmarked_p1_c0043,Gate Valve,Valve,0.261,0.7,0.4,False,False
+02.Unmarked_p1_c0043,Globe Valve,Valve,0.1938,0.6,0.4,False,False
+02.Unmarked_p1_c0043,Butterfly Valve,Valve,0.169,0.6,0.4,False,False
+02.Unmarked_p1_c0043,Check Valve,Valve,0.2032,0.7,0.4,False,False
+02.Unmarked_p1_c0043,Control Valve,Valve,0.1807,0.7,0.4,False,False
+02.Unmarked_p1_c0043,Needle Valve,Valve,0.2461,0.6,0.4,False,False
+02.Unmarked_p1_c0043,Relief Valve,Valve,0.3071,0.6,0.4,False,False
+02.Unmarked_p1_c0043,Solenoid Valve,Valve,0.1802,0.6,0.4,False,False
+02.Unmarked_p1_c0043,3-Way Valve,Valve,0.2236,0.6,0.4,False,False
+02.Unmarked_p1_c0043,Diaphragm Valve,Valve,0.2032,0.7,0.4,False,False
+02.Unmarked_p1_c0043,Centrifugal Pump,Pump,0.3422,0.6,0.4,False,False
+02.Unmarked_p1_c0043,Rotary Pump,Pump,0.2373,0.7,0.4,False,False
+02.Unmarked_p1_c0043,Heat Exchanger,Heat Exchanger,0.3169,0.6,0.4,False,False
+02.Unmarked_p1_c0043,Condenser,Heat Exchanger,0.2828,0.6,0.4,False,False
+02.Unmarked_p1_c0043,Reboiler,Heat Exchanger,0.2418,0.6,0.4,False,False
+02.Unmarked_p1_c0043,Cooler,Heat Exchanger,0.3032,0.6,0.4,False,False
+02.Unmarked_p1_c0043,Vessel,Vessel,0.326,0.6,0.4,False,False
+02.Unmarked_p1_c0043,Tank,Vessel,0.3192,0.6,0.4,False,False
+02.Unmarked_p1_c0043,Drum,Vessel,0.3435,0.6,0.4,False,False
+02.Unmarked_p1_c0043,Filter,Filter,0.3727,0.6,0.4,False,False
+02.Unmarked_p1_c0043,Strainer,Filter,0.3512,0.7,0.4,False,False
+02.Unmarked_p1_c0043,Compressor,Compressor,0.3422,0.6,0.4,False,False
+02.Unmarked_p1_c0044,Gate Valve,Valve,0.2717,0.6,0.4,False,False
+02.Unmarked_p1_c0044,Globe Valve,Valve,0.2462,0.8,0.4,False,False
+02.Unmarked_p1_c0044,Butterfly Valve,Valve,0.1845,0.6,0.4,False,False
+02.Unmarked_p1_c0044,Check Valve,Valve,0.1846,0.7,0.4,False,False
+02.Unmarked_p1_c0044,Control Valve,Valve,0.2134,0.6,0.4,False,False
+02.Unmarked_p1_c0044,Needle Valve,Valve,0.1925,0.7,0.4,False,False
+02.Unmarked_p1_c0044,Relief Valve,Valve,0.2264,0.6,0.4,False,False
+02.Unmarked_p1_c0044,Solenoid Valve,Valve,0.1846,0.7,0.4,False,False
+02.Unmarked_p1_c0044,3-Way Valve,Valve,0.1939,0.6,0.4,False,False
+02.Unmarked_p1_c0044,Diaphragm Valve,Valve,0.1794,0.7,0.4,False,False
+02.Unmarked_p1_c0044,Centrifugal Pump,Pump,0.2815,0.6,0.4,False,False
+02.Unmarked_p1_c0044,Rotary Pump,Pump,0.1901,0.7,0.4,False,False
+02.Unmarked_p1_c0044,Heat Exchanger,Heat Exchanger,0.2517,0.6,0.4,False,False
+02.Unmarked_p1_c0044,Condenser,Heat Exchanger,0.2211,0.6,0.4,False,False
+02.Unmarked_p1_c0044,Reboiler,Heat Exchanger,0.2507,0.7,0.4,False,False
+02.Unmarked_p1_c0044,Cooler,Heat Exchanger,0.2313,0.6,0.4,False,False
+02.Unmarked_p1_c0044,Vessel,Vessel,0.2627,0.7,0.4,False,False
+02.Unmarked_p1_c0044,Tank,Vessel,0.2469,0.6,0.4,False,False
+02.Unmarked_p1_c0044,Drum,Vessel,0.2627,0.7,0.4,False,False
+02.Unmarked_p1_c0044,Filter,Filter,0.296,0.6,0.4,False,False
+02.Unmarked_p1_c0044,Strainer,Filter,0.2589,0.6,0.4,False,False
+02.Unmarked_p1_c0044,Compressor,Compressor,0.2815,0.6,0.4,False,False
+02.Unmarked_p1_c0045,Gate Valve,Valve,0.2797,0.6,0.4,False,False
+02.Unmarked_p1_c0045,Globe Valve,Valve,0.236,0.6,0.4,False,False
+02.Unmarked_p1_c0045,Butterfly Valve,Valve,0.2012,0.7,0.4,False,False
+02.Unmarked_p1_c0045,Check Valve,Valve,0.2,0.7,0.4,False,False
+02.Unmarked_p1_c0045,Control Valve,Valve,0.1668,0.7,0.4,False,False
+02.Unmarked_p1_c0045,Needle Valve,Valve,0.1823,0.6,0.4,False,False
+02.Unmarked_p1_c0045,Relief Valve,Valve,0.2319,0.6,0.4,False,False
+02.Unmarked_p1_c0045,Solenoid Valve,Valve,0.2,0.7,0.4,False,False
+02.Unmarked_p1_c0045,3-Way Valve,Valve,0.1753,0.6,0.4,False,False
+02.Unmarked_p1_c0045,Diaphragm Valve,Valve,0.1668,0.6,0.4,False,False
+02.Unmarked_p1_c0045,Centrifugal Pump,Pump,0.2254,0.6,0.4,False,False
+02.Unmarked_p1_c0045,Rotary Pump,Pump,0.1625,0.6,0.4,False,False
+02.Unmarked_p1_c0045,Heat Exchanger,Heat Exchanger,0.2214,0.6,0.4,False,False
+02.Unmarked_p1_c0045,Condenser,Heat Exchanger,0.2214,0.6,0.4,False,False
+02.Unmarked_p1_c0045,Reboiler,Heat Exchanger,0.2166,0.7,0.4,False,False
+02.Unmarked_p1_c0045,Cooler,Heat Exchanger,0.1995,0.6,0.4,False,False
+02.Unmarked_p1_c0045,Vessel,Vessel,0.2156,0.7,0.4,False,False
+02.Unmarked_p1_c0045,Tank,Vessel,0.2263,0.6,0.4,False,False
+02.Unmarked_p1_c0045,Drum,Vessel,0.2004,0.7,0.4,False,False
+02.Unmarked_p1_c0045,Filter,Filter,0.2448,0.6,0.4,False,False
+02.Unmarked_p1_c0045,Strainer,Filter,0.2518,0.6,0.4,False,False
+02.Unmarked_p1_c0045,Compressor,Compressor,0.253,0.6,0.4,False,False
+02.Unmarked_p1_c0046,Gate Valve,Valve,0.2677,0.6,0.4,False,False
+02.Unmarked_p1_c0046,Globe Valve,Valve,0.2087,0.6,0.4,False,False
+02.Unmarked_p1_c0046,Butterfly Valve,Valve,0.1574,0.6,0.4,False,False
+02.Unmarked_p1_c0046,Check Valve,Valve,0.1621,0.8,0.4,False,False
+02.Unmarked_p1_c0046,Control Valve,Valve,0.1901,0.6,0.4,False,False
+02.Unmarked_p1_c0046,Needle Valve,Valve,0.1847,0.6,0.4,False,False
+02.Unmarked_p1_c0046,Relief Valve,Valve,0.2396,0.6,0.4,False,False
+02.Unmarked_p1_c0046,Solenoid Valve,Valve,0.1621,0.8,0.4,False,False
+02.Unmarked_p1_c0046,3-Way Valve,Valve,0.1634,0.6,0.4,False,False
+02.Unmarked_p1_c0046,Diaphragm Valve,Valve,0.1435,0.6,0.4,False,False
+02.Unmarked_p1_c0046,Centrifugal Pump,Pump,0.2392,0.6,0.4,False,False
+02.Unmarked_p1_c0046,Rotary Pump,Pump,0.1813,0.7,0.4,False,False
+02.Unmarked_p1_c0046,Heat Exchanger,Heat Exchanger,0.2317,0.6,0.4,False,False
+02.Unmarked_p1_c0046,Condenser,Heat Exchanger,0.2317,0.6,0.4,False,False
+02.Unmarked_p1_c0046,Reboiler,Heat Exchanger,0.1996,0.7,0.4,False,False
+02.Unmarked_p1_c0046,Cooler,Heat Exchanger,0.2215,0.6,0.4,False,False
+02.Unmarked_p1_c0046,Vessel,Vessel,0.2269,0.7,0.4,False,False
+02.Unmarked_p1_c0046,Tank,Vessel,0.215,0.6,0.4,False,False
+02.Unmarked_p1_c0046,Drum,Vessel,0.2269,0.7,0.4,False,False
+02.Unmarked_p1_c0046,Filter,Filter,0.2472,0.6,0.4,False,False
+02.Unmarked_p1_c0046,Strainer,Filter,0.2624,0.6,0.4,False,False
+02.Unmarked_p1_c0046,Compressor,Compressor,0.2352,0.7,0.4,False,False
+02.Unmarked_p1_c0047,Gate Valve,Valve,0.2448,0.6,0.4,False,False
+02.Unmarked_p1_c0047,Globe Valve,Valve,0.2392,0.6,0.4,False,False
+02.Unmarked_p1_c0047,Butterfly Valve,Valve,0.193,0.6,0.4,False,False
+02.Unmarked_p1_c0047,Check Valve,Valve,0.1684,0.6,0.4,False,False
+02.Unmarked_p1_c0047,Control Valve,Valve,0.1989,0.6,0.4,False,False
+02.Unmarked_p1_c0047,Needle Valve,Valve,0.177,0.6,0.4,False,False
+02.Unmarked_p1_c0047,Relief Valve,Valve,0.3073,0.6,0.4,False,False
+02.Unmarked_p1_c0047,Solenoid Valve,Valve,0.1585,0.6,0.4,False,False
+02.Unmarked_p1_c0047,3-Way Valve,Valve,0.2355,0.6,0.4,False,False
+02.Unmarked_p1_c0047,Diaphragm Valve,Valve,0.1684,0.6,0.4,False,False
+02.Unmarked_p1_c0047,Centrifugal Pump,Pump,0.3248,0.6,0.4,False,False
+02.Unmarked_p1_c0047,Rotary Pump,Pump,0.1762,0.7,0.4,False,False
+02.Unmarked_p1_c0047,Heat Exchanger,Heat Exchanger,0.2449,0.6,0.4,False,False
+02.Unmarked_p1_c0047,Condenser,Heat Exchanger,0.2424,0.6,0.4,False,False
+02.Unmarked_p1_c0047,Reboiler,Heat Exchanger,0.2306,0.7,0.4,False,False
+02.Unmarked_p1_c0047,Cooler,Heat Exchanger,0.2615,0.6,0.4,False,False
+02.Unmarked_p1_c0047,Vessel,Vessel,0.3179,0.6,0.4,False,False
+02.Unmarked_p1_c0047,Tank,Vessel,0.3029,0.6,0.4,False,False
+02.Unmarked_p1_c0047,Drum,Vessel,0.3677,0.6,0.4,False,False
+02.Unmarked_p1_c0047,Filter,Filter,0.2977,0.6,0.4,False,False
+02.Unmarked_p1_c0047,Strainer,Filter,0.2676,0.6,0.4,False,False
+02.Unmarked_p1_c0047,Compressor,Compressor,0.3248,0.6,0.4,False,False
+02.Unmarked_p1_c0048,Gate Valve,Valve,0.2203,0.6,0.4,False,False
+02.Unmarked_p1_c0048,Globe Valve,Valve,0.2376,0.7,0.4,False,False
+02.Unmarked_p1_c0048,Butterfly Valve,Valve,0.1626,0.6,0.4,False,False
+02.Unmarked_p1_c0048,Check Valve,Valve,0.2087,0.8,0.4,False,False
+02.Unmarked_p1_c0048,Control Valve,Valve,0.162,0.6,0.4,False,False
+02.Unmarked_p1_c0048,Needle Valve,Valve,0.2918,0.6,0.4,False,False
+02.Unmarked_p1_c0048,Relief Valve,Valve,0.2725,0.6,0.4,False,False
+02.Unmarked_p1_c0048,Solenoid Valve,Valve,0.2007,0.6,0.4,False,False
+02.Unmarked_p1_c0048,3-Way Valve,Valve,0.2519,0.6,0.4,False,False
+02.Unmarked_p1_c0048,Diaphragm Valve,Valve,0.2087,0.8,0.4,False,False
+02.Unmarked_p1_c0048,Centrifugal Pump,Pump,0.3565,0.6,0.4,False,False
+02.Unmarked_p1_c0048,Rotary Pump,Pump,0.2397,0.7,0.4,False,False
+02.Unmarked_p1_c0048,Heat Exchanger,Heat Exchanger,0.2974,0.7,0.4,False,False
+02.Unmarked_p1_c0048,Condenser,Heat Exchanger,0.2218,0.6,0.4,False,False
+02.Unmarked_p1_c0048,Reboiler,Heat Exchanger,0.2235,0.7,0.4,False,False
+02.Unmarked_p1_c0048,Cooler,Heat Exchanger,0.262,0.6,0.4,False,False
+02.Unmarked_p1_c0048,Vessel,Vessel,0.3149,0.6,0.4,False,False
+02.Unmarked_p1_c0048,Tank,Vessel,0.3349,0.6,0.4,False,False
+02.Unmarked_p1_c0048,Drum,Vessel,0.311,0.7,0.4,False,False
+02.Unmarked_p1_c0048,Filter,Filter,0.3821,0.6,0.4,False,False
+02.Unmarked_p1_c0048,Strainer,Filter,0.2661,0.7,0.4,False,False
+02.Unmarked_p1_c0048,Compressor,Compressor,0.3565,0.6,0.4,False,False
+02.Unmarked_p1_c0049,Gate Valve,Valve,0.2906,0.6,0.4,False,False
+02.Unmarked_p1_c0049,Globe Valve,Valve,0.2103,0.8,0.4,False,False
+02.Unmarked_p1_c0049,Butterfly Valve,Valve,0.1557,0.6,0.4,False,False
+02.Unmarked_p1_c0049,Check Valve,Valve,0.2071,0.6,0.4,False,False
+02.Unmarked_p1_c0049,Control Valve,Valve,0.1982,0.6,0.4,False,False
+02.Unmarked_p1_c0049,Needle Valve,Valve,0.1906,0.7,0.4,False,False
+02.Unmarked_p1_c0049,Relief Valve,Valve,0.2955,0.7,0.4,False,False
+02.Unmarked_p1_c0049,Solenoid Valve,Valve,0.2071,0.6,0.4,False,False
+02.Unmarked_p1_c0049,3-Way Valve,Valve,0.1868,0.6,0.4,False,False
+02.Unmarked_p1_c0049,Diaphragm Valve,Valve,0.176,0.6,0.4,False,False
+02.Unmarked_p1_c0049,Centrifugal Pump,Pump,0.2654,0.6,0.4,False,False
+02.Unmarked_p1_c0049,Rotary Pump,Pump,0.1669,0.6,0.4,False,False
+02.Unmarked_p1_c0049,Heat Exchanger,Heat Exchanger,0.2096,0.6,0.4,False,False
+02.Unmarked_p1_c0049,Condenser,Heat Exchanger,0.1952,0.6,0.4,False,False
+02.Unmarked_p1_c0049,Reboiler,Heat Exchanger,0.1753,0.6,0.4,False,False
+02.Unmarked_p1_c0049,Cooler,Heat Exchanger,0.224,0.6,0.4,False,False
+02.Unmarked_p1_c0049,Vessel,Vessel,0.2665,0.6,0.4,False,False
+02.Unmarked_p1_c0049,Tank,Vessel,0.2665,0.6,0.4,False,False
+02.Unmarked_p1_c0049,Drum,Vessel,0.2814,0.6,0.4,False,False
+02.Unmarked_p1_c0049,Filter,Filter,0.2473,0.6,0.4,False,False
+02.Unmarked_p1_c0049,Strainer,Filter,0.2603,0.6,0.4,False,False
+02.Unmarked_p1_c0049,Compressor,Compressor,0.2957,0.6,0.4,False,False
+02.Unmarked_p1_c0050,Gate Valve,Valve,0.4736,1.0,0.4,True,False
+02.Unmarked_p1_c0050,Globe Valve,Valve,0.432,0.8,0.4,True,False
+02.Unmarked_p1_c0050,Butterfly Valve,Valve,0.4171,0.8,0.4,True,False
+02.Unmarked_p1_c0050,Check Valve,Valve,0.3714,0.9,0.4,False,False
+02.Unmarked_p1_c0050,Control Valve,Valve,0.2985,0.6,0.4,False,False
+02.Unmarked_p1_c0050,Needle Valve,Valve,0.3721,0.6,0.4,False,False
+02.Unmarked_p1_c0050,Relief Valve,Valve,0.507,0.6,0.4,True,False
+02.Unmarked_p1_c0050,Solenoid Valve,Valve,0.3515,0.6,0.4,False,False
+02.Unmarked_p1_c0050,3-Way Valve,Valve,0.4261,0.6,0.4,True,False
+02.Unmarked_p1_c0050,Diaphragm Valve,Valve,0.3714,0.9,0.4,False,False
+02.Unmarked_p1_c0050,Centrifugal Pump,Pump,0.3954,0.6,0.4,False,False
+02.Unmarked_p1_c0050,Rotary Pump,Pump,0.301,0.7,0.4,False,False
+02.Unmarked_p1_c0050,Heat Exchanger,Heat Exchanger,0.3962,1.0,0.4,False,False
+02.Unmarked_p1_c0050,Condenser,Heat Exchanger,0.3289,0.6,0.4,False,False
+02.Unmarked_p1_c0050,Reboiler,Heat Exchanger,0.3341,0.6,0.4,False,False
+02.Unmarked_p1_c0050,Cooler,Heat Exchanger,0.4553,0.6,0.4,True,False
+02.Unmarked_p1_c0050,Vessel,Vessel,0.5085,0.6,0.4,True,False
+02.Unmarked_p1_c0050,Tank,Vessel,0.4575,0.6,0.4,True,False
+02.Unmarked_p1_c0050,Drum,Vessel,0.409,0.9,0.4,True,False
+02.Unmarked_p1_c0050,Filter,Filter,0.6048,1.2,0.4,True,True
+02.Unmarked_p1_c0050,Strainer,Filter,0.3985,0.6,0.4,False,False
+02.Unmarked_p1_c0050,Compressor,Compressor,0.4587,0.7,0.4,True,False
+02.Unmarked_p1_c0051,Gate Valve,Valve,0.2862,0.6,0.4,False,False
+02.Unmarked_p1_c0051,Globe Valve,Valve,0.2093,0.6,0.4,False,False
+02.Unmarked_p1_c0051,Butterfly Valve,Valve,0.1601,0.6,0.4,False,False
+02.Unmarked_p1_c0051,Check Valve,Valve,0.204,0.6,0.4,False,False
+02.Unmarked_p1_c0051,Control Valve,Valve,0.1978,0.6,0.4,False,False
+02.Unmarked_p1_c0051,Needle Valve,Valve,0.1849,0.6,0.4,False,False
+02.Unmarked_p1_c0051,Relief Valve,Valve,0.2948,0.7,0.4,False,False
+02.Unmarked_p1_c0051,Solenoid Valve,Valve,0.204,0.6,0.4,False,False
+02.Unmarked_p1_c0051,3-Way Valve,Valve,0.1886,0.6,0.4,False,False
+02.Unmarked_p1_c0051,Diaphragm Valve,Valve,0.1719,0.6,0.4,False,False
+02.Unmarked_p1_c0051,Centrifugal Pump,Pump,0.254,0.6,0.4,False,False
+02.Unmarked_p1_c0051,Rotary Pump,Pump,0.179,0.6,0.4,False,False
+02.Unmarked_p1_c0051,Heat Exchanger,Heat Exchanger,0.203,0.6,0.4,False,False
+02.Unmarked_p1_c0051,Condenser,Heat Exchanger,0.2021,0.6,0.4,False,False
+02.Unmarked_p1_c0051,Reboiler,Heat Exchanger,0.179,0.6,0.4,False,False
+02.Unmarked_p1_c0051,Cooler,Heat Exchanger,0.2342,0.6,0.4,False,False
+02.Unmarked_p1_c0051,Vessel,Vessel,0.2698,0.6,0.4,False,False
+02.Unmarked_p1_c0051,Tank,Vessel,0.2698,0.6,0.4,False,False
+02.Unmarked_p1_c0051,Drum,Vessel,0.2873,0.6,0.4,False,False
+02.Unmarked_p1_c0051,Filter,Filter,0.2495,0.6,0.4,False,False
+02.Unmarked_p1_c0051,Strainer,Filter,0.2489,0.6,0.4,False,False
+02.Unmarked_p1_c0051,Compressor,Compressor,0.3,0.6,0.4,False,False
+02.Unmarked_p1_c0052,Gate Valve,Valve,0.3464,0.6,0.4,False,False
+02.Unmarked_p1_c0052,Globe Valve,Valve,0.2979,0.6,0.4,False,False
+02.Unmarked_p1_c0052,Butterfly Valve,Valve,0.16,0.8,0.4,False,False
+02.Unmarked_p1_c0052,Check Valve,Valve,0.1724,0.7,0.4,False,False
+02.Unmarked_p1_c0052,Control Valve,Valve,0.1922,0.6,0.4,False,False
+02.Unmarked_p1_c0052,Needle Valve,Valve,0.1798,0.6,0.4,False,False
+02.Unmarked_p1_c0052,Relief Valve,Valve,0.2336,0.6,0.4,False,False
+02.Unmarked_p1_c0052,Solenoid Valve,Valve,0.1724,0.7,0.4,False,False
+02.Unmarked_p1_c0052,3-Way Valve,Valve,0.2159,0.6,0.4,False,False
+02.Unmarked_p1_c0052,Diaphragm Valve,Valve,0.1645,0.8,0.4,False,False
+02.Unmarked_p1_c0052,Centrifugal Pump,Pump,0.2475,0.6,0.4,False,False
+02.Unmarked_p1_c0052,Rotary Pump,Pump,0.197,0.7,0.4,False,False
+02.Unmarked_p1_c0052,Heat Exchanger,Heat Exchanger,0.2747,0.8,0.4,False,False
+02.Unmarked_p1_c0052,Condenser,Heat Exchanger,0.1986,0.6,0.4,False,False
+02.Unmarked_p1_c0052,Reboiler,Heat Exchanger,0.2249,0.7,0.4,False,False
+02.Unmarked_p1_c0052,Cooler,Heat Exchanger,0.2331,0.7,0.4,False,False
+02.Unmarked_p1_c0052,Vessel,Vessel,0.3703,0.6,0.4,False,False
+02.Unmarked_p1_c0052,Tank,Vessel,0.3161,0.7,0.4,False,False
+02.Unmarked_p1_c0052,Drum,Vessel,0.2265,0.7,0.4,False,False
+02.Unmarked_p1_c0052,Filter,Filter,0.3419,0.7,0.4,False,False
+02.Unmarked_p1_c0052,Strainer,Filter,0.2983,0.6,0.4,False,False
+02.Unmarked_p1_c0052,Compressor,Compressor,0.2554,0.6,0.4,False,False
+02.Unmarked_p1_c0053,Gate Valve,Valve,0.2241,0.6,0.4,False,False
+02.Unmarked_p1_c0053,Globe Valve,Valve,0.2437,0.6,0.4,False,False
+02.Unmarked_p1_c0053,Butterfly Valve,Valve,0.1893,0.6,0.4,False,False
+02.Unmarked_p1_c0053,Check Valve,Valve,0.1885,0.6,0.4,False,False
+02.Unmarked_p1_c0053,Control Valve,Valve,0.2074,0.7,0.4,False,False
+02.Unmarked_p1_c0053,Needle Valve,Valve,0.1711,0.7,0.4,False,False
+02.Unmarked_p1_c0053,Relief Valve,Valve,0.2291,0.6,0.4,False,False
+02.Unmarked_p1_c0053,Solenoid Valve,Valve,0.1885,0.6,0.4,False,False
+02.Unmarked_p1_c0053,3-Way Valve,Valve,0.1849,0.6,0.4,False,False
+02.Unmarked_p1_c0053,Diaphragm Valve,Valve,0.174,0.6,0.4,False,False
+02.Unmarked_p1_c0053,Centrifugal Pump,Pump,0.2684,0.6,0.4,False,False
+02.Unmarked_p1_c0053,Rotary Pump,Pump,0.1646,0.6,0.4,False,False
+02.Unmarked_p1_c0053,Heat Exchanger,Heat Exchanger,0.2364,0.6,0.4,False,False
+02.Unmarked_p1_c0053,Condenser,Heat Exchanger,0.1856,0.6,0.4,False,False
+02.Unmarked_p1_c0053,Reboiler,Heat Exchanger,0.2139,0.6,0.4,False,False
+02.Unmarked_p1_c0053,Cooler,Heat Exchanger,0.2492,0.6,0.4,False,False
+02.Unmarked_p1_c0053,Vessel,Vessel,0.2752,0.6,0.4,False,False
+02.Unmarked_p1_c0053,Tank,Vessel,0.2382,0.6,0.4,False,False
+02.Unmarked_p1_c0053,Drum,Vessel,0.2627,0.6,0.4,False,False
+02.Unmarked_p1_c0053,Filter,Filter,0.2892,0.6,0.4,False,False
+02.Unmarked_p1_c0053,Strainer,Filter,0.2535,0.6,0.4,False,False
+02.Unmarked_p1_c0053,Compressor,Compressor,0.2594,0.7,0.4,False,False
+02.Unmarked_p1_c0054,Gate Valve,Valve,0.2701,0.6,0.4,False,False
+02.Unmarked_p1_c0054,Globe Valve,Valve,0.2152,0.7,0.4,False,False
+02.Unmarked_p1_c0054,Butterfly Valve,Valve,0.1886,0.7,0.4,False,False
+02.Unmarked_p1_c0054,Check Valve,Valve,0.1898,0.7,0.4,False,False
+02.Unmarked_p1_c0054,Control Valve,Valve,0.1877,0.7,0.4,False,False
+02.Unmarked_p1_c0054,Needle Valve,Valve,0.1651,0.6,0.4,False,False
+02.Unmarked_p1_c0054,Relief Valve,Valve,0.2463,0.6,0.4,False,False
+02.Unmarked_p1_c0054,Solenoid Valve,Valve,0.1898,0.7,0.4,False,False
+02.Unmarked_p1_c0054,3-Way Valve,Valve,0.1836,0.6,0.4,False,False
+02.Unmarked_p1_c0054,Diaphragm Valve,Valve,0.1691,0.6,0.4,False,False
+02.Unmarked_p1_c0054,Centrifugal Pump,Pump,0.2227,0.6,0.4,False,False
+02.Unmarked_p1_c0054,Rotary Pump,Pump,0.172,0.7,0.4,False,False
+02.Unmarked_p1_c0054,Heat Exchanger,Heat Exchanger,0.2342,0.6,0.4,False,False
+02.Unmarked_p1_c0054,Condenser,Heat Exchanger,0.2342,0.6,0.4,False,False
+02.Unmarked_p1_c0054,Reboiler,Heat Exchanger,0.2273,0.7,0.4,False,False
+02.Unmarked_p1_c0054,Cooler,Heat Exchanger,0.2233,0.6,0.4,False,False
+02.Unmarked_p1_c0054,Vessel,Vessel,0.225,0.7,0.4,False,False
+02.Unmarked_p1_c0054,Tank,Vessel,0.2473,0.6,0.4,False,False
+02.Unmarked_p1_c0054,Drum,Vessel,0.225,0.7,0.4,False,False
+02.Unmarked_p1_c0054,Filter,Filter,0.2575,0.6,0.4,False,False
+02.Unmarked_p1_c0054,Strainer,Filter,0.2423,0.6,0.4,False,False
+02.Unmarked_p1_c0054,Compressor,Compressor,0.2274,0.6,0.4,False,False
+02.Unmarked_p1_c0055,Gate Valve,Valve,0.2597,0.7,0.4,False,False
+02.Unmarked_p1_c0055,Globe Valve,Valve,0.2125,0.8,0.4,False,False
+02.Unmarked_p1_c0055,Butterfly Valve,Valve,0.1541,0.6,0.4,False,False
+02.Unmarked_p1_c0055,Check Valve,Valve,0.2041,0.7,0.4,False,False
+02.Unmarked_p1_c0055,Control Valve,Valve,0.1922,0.6,0.4,False,False
+02.Unmarked_p1_c0055,Needle Valve,Valve,0.2458,0.6,0.4,False,False
+02.Unmarked_p1_c0055,Relief Valve,Valve,0.2937,0.6,0.4,False,False
+02.Unmarked_p1_c0055,Solenoid Valve,Valve,0.1871,0.8,0.4,False,False
+02.Unmarked_p1_c0055,3-Way Valve,Valve,0.2273,0.6,0.4,False,False
+02.Unmarked_p1_c0055,Diaphragm Valve,Valve,0.2041,0.7,0.4,False,False
+02.Unmarked_p1_c0055,Centrifugal Pump,Pump,0.303,0.6,0.4,False,False
+02.Unmarked_p1_c0055,Rotary Pump,Pump,0.2264,0.7,0.4,False,False
+02.Unmarked_p1_c0055,Heat Exchanger,Heat Exchanger,0.3261,0.6,0.4,False,False
+02.Unmarked_p1_c0055,Condenser,Heat Exchanger,0.3208,0.6,0.4,False,False
+02.Unmarked_p1_c0055,Reboiler,Heat Exchanger,0.2329,0.6,0.4,False,False
+02.Unmarked_p1_c0055,Cooler,Heat Exchanger,0.3125,0.6,0.4,False,False
+02.Unmarked_p1_c0055,Vessel,Vessel,0.3138,0.6,0.4,False,False
+02.Unmarked_p1_c0055,Tank,Vessel,0.3246,0.6,0.4,False,False
+02.Unmarked_p1_c0055,Drum,Vessel,0.3147,0.6,0.4,False,False
+02.Unmarked_p1_c0055,Filter,Filter,0.3899,0.6,0.4,False,False
+02.Unmarked_p1_c0055,Strainer,Filter,0.3306,0.7,0.4,False,False
+02.Unmarked_p1_c0055,Compressor,Compressor,0.3432,0.6,0.4,False,False
+02.Unmarked_p1_c0056,Gate Valve,Valve,0.2107,0.6,0.4,False,False
+02.Unmarked_p1_c0056,Globe Valve,Valve,0.2122,0.6,0.4,False,False
+02.Unmarked_p1_c0056,Butterfly Valve,Valve,0.1976,0.7,0.4,False,False
+02.Unmarked_p1_c0056,Check Valve,Valve,0.2048,0.7,0.4,False,False
+02.Unmarked_p1_c0056,Control Valve,Valve,0.184,0.6,0.4,False,False
+02.Unmarked_p1_c0056,Needle Valve,Valve,0.1666,0.6,0.4,False,False
+02.Unmarked_p1_c0056,Relief Valve,Valve,0.1952,0.6,0.4,False,False
+02.Unmarked_p1_c0056,Solenoid Valve,Valve,0.2048,0.7,0.4,False,False
+02.Unmarked_p1_c0056,3-Way Valve,Valve,0.1746,0.6,0.4,False,False
+02.Unmarked_p1_c0056,Diaphragm Valve,Valve,0.1655,0.7,0.4,False,False
+02.Unmarked_p1_c0056,Centrifugal Pump,Pump,0.2237,0.6,0.4,False,False
+02.Unmarked_p1_c0056,Rotary Pump,Pump,0.1638,0.7,0.4,False,False
+02.Unmarked_p1_c0056,Heat Exchanger,Heat Exchanger,0.2067,0.6,0.4,False,False
+02.Unmarked_p1_c0056,Condenser,Heat Exchanger,0.1959,0.6,0.4,False,False
+02.Unmarked_p1_c0056,Reboiler,Heat Exchanger,0.1913,0.7,0.4,False,False
+02.Unmarked_p1_c0056,Cooler,Heat Exchanger,0.2255,0.6,0.4,False,False
+02.Unmarked_p1_c0056,Vessel,Vessel,0.2052,0.7,0.4,False,False
+02.Unmarked_p1_c0056,Tank,Vessel,0.2317,0.6,0.4,False,False
+02.Unmarked_p1_c0056,Drum,Vessel,0.2052,0.7,0.4,False,False
+02.Unmarked_p1_c0056,Filter,Filter,0.2333,0.6,0.4,False,False
+02.Unmarked_p1_c0056,Strainer,Filter,0.2584,0.6,0.4,False,False
+02.Unmarked_p1_c0056,Compressor,Compressor,0.2474,0.6,0.4,False,False
+02.Unmarked_p1_c0057,Gate Valve,Valve,0.2677,0.6,0.4,False,False
+02.Unmarked_p1_c0057,Globe Valve,Valve,0.2124,0.6,0.4,False,False
+02.Unmarked_p1_c0057,Butterfly Valve,Valve,0.1874,0.7,0.4,False,False
+02.Unmarked_p1_c0057,Check Valve,Valve,0.1821,0.7,0.4,False,False
+02.Unmarked_p1_c0057,Control Valve,Valve,0.2089,0.7,0.4,False,False
+02.Unmarked_p1_c0057,Needle Valve,Valve,0.1838,0.6,0.4,False,False
+02.Unmarked_p1_c0057,Relief Valve,Valve,0.2396,0.6,0.4,False,False
+02.Unmarked_p1_c0057,Solenoid Valve,Valve,0.1821,0.7,0.4,False,False
+02.Unmarked_p1_c0057,3-Way Valve,Valve,0.1822,0.6,0.4,False,False
+02.Unmarked_p1_c0057,Diaphragm Valve,Valve,0.1542,0.6,0.4,False,False
+02.Unmarked_p1_c0057,Centrifugal Pump,Pump,0.2396,0.6,0.4,False,False
+02.Unmarked_p1_c0057,Rotary Pump,Pump,0.1847,0.7,0.4,False,False
+02.Unmarked_p1_c0057,Heat Exchanger,Heat Exchanger,0.2343,0.6,0.4,False,False
+02.Unmarked_p1_c0057,Condenser,Heat Exchanger,0.2317,0.6,0.4,False,False
+02.Unmarked_p1_c0057,Reboiler,Heat Exchanger,0.2208,0.7,0.4,False,False
+02.Unmarked_p1_c0057,Cooler,Heat Exchanger,0.219,0.6,0.4,False,False
+02.Unmarked_p1_c0057,Vessel,Vessel,0.2326,0.7,0.4,False,False
+02.Unmarked_p1_c0057,Tank,Vessel,0.2297,0.6,0.4,False,False
+02.Unmarked_p1_c0057,Drum,Vessel,0.2326,0.7,0.4,False,False
+02.Unmarked_p1_c0057,Filter,Filter,0.2562,0.6,0.4,False,False
+02.Unmarked_p1_c0057,Strainer,Filter,0.2616,0.6,0.4,False,False
+02.Unmarked_p1_c0057,Compressor,Compressor,0.2401,0.7,0.4,False,False
+02.Unmarked_p1_c0058,Gate Valve,Valve,0.1974,0.6,0.4,False,False
+02.Unmarked_p1_c0058,Globe Valve,Valve,0.2088,0.6,0.4,False,False
+02.Unmarked_p1_c0058,Butterfly Valve,Valve,0.1773,0.6,0.4,False,False
+02.Unmarked_p1_c0058,Check Valve,Valve,0.1806,0.7,0.4,False,False
+02.Unmarked_p1_c0058,Control Valve,Valve,0.1657,0.6,0.4,False,False
+02.Unmarked_p1_c0058,Needle Valve,Valve,0.199,0.6,0.4,False,False
+02.Unmarked_p1_c0058,Relief Valve,Valve,0.1952,0.6,0.4,False,False
+02.Unmarked_p1_c0058,Solenoid Valve,Valve,0.1613,0.6,0.4,False,False
+02.Unmarked_p1_c0058,3-Way Valve,Valve,0.1872,0.6,0.4,False,False
+02.Unmarked_p1_c0058,Diaphragm Valve,Valve,0.1806,0.7,0.4,False,False
+02.Unmarked_p1_c0058,Centrifugal Pump,Pump,0.2231,0.6,0.4,False,False
+02.Unmarked_p1_c0058,Rotary Pump,Pump,0.1699,0.8,0.4,False,False
+02.Unmarked_p1_c0058,Heat Exchanger,Heat Exchanger,0.2479,0.6,0.4,False,False
+02.Unmarked_p1_c0058,Condenser,Heat Exchanger,0.1999,0.6,0.4,False,False
+02.Unmarked_p1_c0058,Reboiler,Heat Exchanger,0.2343,0.7,0.4,False,False
+02.Unmarked_p1_c0058,Cooler,Heat Exchanger,0.2574,0.6,0.4,False,False
+02.Unmarked_p1_c0058,Vessel,Vessel,0.2206,0.7,0.4,False,False
+02.Unmarked_p1_c0058,Tank,Vessel,0.2342,0.7,0.4,False,False
+02.Unmarked_p1_c0058,Drum,Vessel,0.2206,0.7,0.4,False,False
+02.Unmarked_p1_c0058,Filter,Filter,0.2363,0.6,0.4,False,False
+02.Unmarked_p1_c0058,Strainer,Filter,0.2282,0.6,0.4,False,False
+02.Unmarked_p1_c0058,Compressor,Compressor,0.2394,0.7,0.4,False,False
+02.Unmarked_p1_c0062,Gate Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0062,Globe Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0062,Butterfly Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0062,Check Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0062,Control Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0062,Needle Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0062,Relief Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0062,Solenoid Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0062,3-Way Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0062,Diaphragm Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0062,Centrifugal Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0062,Rotary Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0062,Heat Exchanger,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0062,Condenser,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0062,Reboiler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0062,Cooler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0062,Vessel,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0062,Tank,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0062,Drum,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0062,Filter,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0062,Strainer,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0062,Compressor,Compressor,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0063,Gate Valve,Valve,0.2367,0.6,0.4,False,False
+02.Unmarked_p1_c0063,Globe Valve,Valve,0.2148,0.6,0.4,False,False
+02.Unmarked_p1_c0063,Butterfly Valve,Valve,0.2007,0.7,0.4,False,False
+02.Unmarked_p1_c0063,Check Valve,Valve,0.2144,0.6,0.4,False,False
+02.Unmarked_p1_c0063,Control Valve,Valve,0.1607,0.6,0.4,False,False
+02.Unmarked_p1_c0063,Needle Valve,Valve,0.2603,0.6,0.4,False,False
+02.Unmarked_p1_c0063,Relief Valve,Valve,0.269,0.6,0.4,False,False
+02.Unmarked_p1_c0063,Solenoid Valve,Valve,0.2092,0.6,0.4,False,False
+02.Unmarked_p1_c0063,3-Way Valve,Valve,0.1945,0.6,0.4,False,False
+02.Unmarked_p1_c0063,Diaphragm Valve,Valve,0.2144,0.6,0.4,False,False
+02.Unmarked_p1_c0063,Centrifugal Pump,Pump,0.2497,0.6,0.4,False,False
+02.Unmarked_p1_c0063,Rotary Pump,Pump,0.1824,0.7,0.4,False,False
+02.Unmarked_p1_c0063,Heat Exchanger,Heat Exchanger,0.2675,0.6,0.4,False,False
+02.Unmarked_p1_c0063,Condenser,Heat Exchanger,0.2111,0.6,0.4,False,False
+02.Unmarked_p1_c0063,Reboiler,Heat Exchanger,0.179,0.6,0.4,False,False
+02.Unmarked_p1_c0063,Cooler,Heat Exchanger,0.3066,0.6,0.4,False,False
+02.Unmarked_p1_c0063,Vessel,Vessel,0.3383,0.6,0.4,False,False
+02.Unmarked_p1_c0063,Tank,Vessel,0.3383,0.6,0.4,False,False
+02.Unmarked_p1_c0063,Drum,Vessel,0.3178,0.6,0.4,False,False
+02.Unmarked_p1_c0063,Filter,Filter,0.2957,0.6,0.4,False,False
+02.Unmarked_p1_c0063,Strainer,Filter,0.2401,0.6,0.4,False,False
+02.Unmarked_p1_c0063,Compressor,Compressor,0.2855,0.7,0.4,False,False
+02.Unmarked_p1_c0065,Gate Valve,Valve,0.3047,0.6,0.4,False,False
+02.Unmarked_p1_c0065,Globe Valve,Valve,0.2537,0.6,0.4,False,False
+02.Unmarked_p1_c0065,Butterfly Valve,Valve,0.1878,0.6,0.4,False,False
+02.Unmarked_p1_c0065,Check Valve,Valve,0.1623,0.6,0.4,False,False
+02.Unmarked_p1_c0065,Control Valve,Valve,0.2266,0.6,0.4,False,False
+02.Unmarked_p1_c0065,Needle Valve,Valve,0.2003,0.6,0.4,False,False
+02.Unmarked_p1_c0065,Relief Valve,Valve,0.2769,0.6,0.4,False,False
+02.Unmarked_p1_c0065,Solenoid Valve,Valve,0.1518,0.6,0.4,False,False
+02.Unmarked_p1_c0065,3-Way Valve,Valve,0.1611,0.6,0.4,False,False
+02.Unmarked_p1_c0065,Diaphragm Valve,Valve,0.1623,0.6,0.4,False,False
+02.Unmarked_p1_c0065,Centrifugal Pump,Pump,0.2839,0.6,0.4,False,False
+02.Unmarked_p1_c0065,Rotary Pump,Pump,0.1936,0.6,0.4,False,False
+02.Unmarked_p1_c0065,Heat Exchanger,Heat Exchanger,0.2372,0.6,0.4,False,False
+02.Unmarked_p1_c0065,Condenser,Heat Exchanger,0.214,0.6,0.4,False,False
+02.Unmarked_p1_c0065,Reboiler,Heat Exchanger,0.2128,0.6,0.4,False,False
+02.Unmarked_p1_c0065,Cooler,Heat Exchanger,0.2328,0.6,0.4,False,False
+02.Unmarked_p1_c0065,Vessel,Vessel,0.2716,0.6,0.4,False,False
+02.Unmarked_p1_c0065,Tank,Vessel,0.2945,0.6,0.4,False,False
+02.Unmarked_p1_c0065,Drum,Vessel,0.2665,0.6,0.4,False,False
+02.Unmarked_p1_c0065,Filter,Filter,0.2749,0.6,0.4,False,False
+02.Unmarked_p1_c0065,Strainer,Filter,0.2425,0.6,0.4,False,False
+02.Unmarked_p1_c0065,Compressor,Compressor,0.3149,0.6,0.4,False,False
+02.Unmarked_p1_c0077,Gate Valve,Valve,0.2956,0.6,0.4,False,False
+02.Unmarked_p1_c0077,Globe Valve,Valve,0.2398,0.6,0.4,False,False
+02.Unmarked_p1_c0077,Butterfly Valve,Valve,0.1761,0.6,0.4,False,False
+02.Unmarked_p1_c0077,Check Valve,Valve,0.1589,0.6,0.4,False,False
+02.Unmarked_p1_c0077,Control Valve,Valve,0.2296,0.6,0.4,False,False
+02.Unmarked_p1_c0077,Needle Valve,Valve,0.2129,0.6,0.4,False,False
+02.Unmarked_p1_c0077,Relief Valve,Valve,0.3112,0.6,0.4,False,False
+02.Unmarked_p1_c0077,Solenoid Valve,Valve,0.1519,0.6,0.4,False,False
+02.Unmarked_p1_c0077,3-Way Valve,Valve,0.1589,0.6,0.4,False,False
+02.Unmarked_p1_c0077,Diaphragm Valve,Valve,0.1589,0.6,0.4,False,False
+02.Unmarked_p1_c0077,Centrifugal Pump,Pump,0.2788,0.6,0.4,False,False
+02.Unmarked_p1_c0077,Rotary Pump,Pump,0.213,0.6,0.4,False,False
+02.Unmarked_p1_c0077,Heat Exchanger,Heat Exchanger,0.3119,0.6,0.4,False,False
+02.Unmarked_p1_c0077,Condenser,Heat Exchanger,0.2132,0.6,0.4,False,False
+02.Unmarked_p1_c0077,Reboiler,Heat Exchanger,0.2083,0.6,0.4,False,False
+02.Unmarked_p1_c0077,Cooler,Heat Exchanger,0.302,0.6,0.4,False,False
+02.Unmarked_p1_c0077,Vessel,Vessel,0.3327,0.6,0.4,False,False
+02.Unmarked_p1_c0077,Tank,Vessel,0.3063,0.6,0.4,False,False
+02.Unmarked_p1_c0077,Drum,Vessel,0.3327,0.6,0.4,False,False
+02.Unmarked_p1_c0077,Filter,Filter,0.2928,0.6,0.4,False,False
+02.Unmarked_p1_c0077,Strainer,Filter,0.319,0.6,0.4,False,False
+02.Unmarked_p1_c0077,Compressor,Compressor,0.3092,0.6,0.4,False,False
+02.Unmarked_p1_c0081,Gate Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0081,Globe Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0081,Butterfly Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0081,Check Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0081,Control Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0081,Needle Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0081,Relief Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0081,Solenoid Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0081,3-Way Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0081,Diaphragm Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0081,Centrifugal Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0081,Rotary Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0081,Heat Exchanger,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0081,Condenser,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0081,Reboiler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0081,Cooler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0081,Vessel,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0081,Tank,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0081,Drum,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0081,Filter,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0081,Strainer,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0081,Compressor,Compressor,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0082,Gate Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0082,Globe Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0082,Butterfly Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0082,Check Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0082,Control Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0082,Needle Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0082,Relief Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0082,Solenoid Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0082,3-Way Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0082,Diaphragm Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0082,Centrifugal Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0082,Rotary Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0082,Heat Exchanger,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0082,Condenser,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0082,Reboiler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0082,Cooler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0082,Vessel,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0082,Tank,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0082,Drum,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0082,Filter,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0082,Strainer,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0082,Compressor,Compressor,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0085,Gate Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0085,Globe Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0085,Butterfly Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0085,Check Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0085,Control Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0085,Needle Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0085,Relief Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0085,Solenoid Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0085,3-Way Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0085,Diaphragm Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0085,Centrifugal Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0085,Rotary Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0085,Heat Exchanger,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0085,Condenser,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0085,Reboiler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0085,Cooler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0085,Vessel,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0085,Tank,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0085,Drum,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0085,Filter,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0085,Strainer,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0085,Compressor,Compressor,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0086,Gate Valve,Valve,0.3223,0.6,0.4,False,False
+02.Unmarked_p1_c0086,Globe Valve,Valve,0.3481,0.6,0.4,False,False
+02.Unmarked_p1_c0086,Butterfly Valve,Valve,0.253,0.6,0.4,False,False
+02.Unmarked_p1_c0086,Check Valve,Valve,0.203,0.6,0.4,False,False
+02.Unmarked_p1_c0086,Control Valve,Valve,0.2058,0.6,0.4,False,False
+02.Unmarked_p1_c0086,Needle Valve,Valve,0.1765,0.6,0.4,False,False
+02.Unmarked_p1_c0086,Relief Valve,Valve,0.3918,0.6,0.4,False,False
+02.Unmarked_p1_c0086,Solenoid Valve,Valve,0.203,0.6,0.4,False,False
+02.Unmarked_p1_c0086,3-Way Valve,Valve,0.2149,0.6,0.4,False,False
+02.Unmarked_p1_c0086,Diaphragm Valve,Valve,0.1859,0.6,0.4,False,False
+02.Unmarked_p1_c0086,Centrifugal Pump,Pump,0.2865,0.6,0.4,False,False
+02.Unmarked_p1_c0086,Rotary Pump,Pump,0.2308,0.6,0.4,False,False
+02.Unmarked_p1_c0086,Heat Exchanger,Heat Exchanger,0.2886,0.6,0.4,False,False
+02.Unmarked_p1_c0086,Condenser,Heat Exchanger,0.2436,0.6,0.4,False,False
+02.Unmarked_p1_c0086,Reboiler,Heat Exchanger,0.2124,0.6,0.4,False,False
+02.Unmarked_p1_c0086,Cooler,Heat Exchanger,0.2857,0.6,0.4,False,False
+02.Unmarked_p1_c0086,Vessel,Vessel,0.3271,0.6,0.4,False,False
+02.Unmarked_p1_c0086,Tank,Vessel,0.3984,0.6,0.4,False,False
+02.Unmarked_p1_c0086,Drum,Vessel,0.3191,0.6,0.4,False,False
+02.Unmarked_p1_c0086,Filter,Filter,0.3608,0.6,0.4,False,False
+02.Unmarked_p1_c0086,Strainer,Filter,0.3004,0.6,0.4,False,False
+02.Unmarked_p1_c0086,Compressor,Compressor,0.3028,0.6,0.4,False,False
+02.Unmarked_p1_c0095,Gate Valve,Valve,0.3292,0.6,0.4,False,False
+02.Unmarked_p1_c0095,Globe Valve,Valve,0.2573,0.6,0.4,False,False
+02.Unmarked_p1_c0095,Butterfly Valve,Valve,0.1826,0.6,0.4,False,False
+02.Unmarked_p1_c0095,Check Valve,Valve,0.2078,0.6,0.4,False,False
+02.Unmarked_p1_c0095,Control Valve,Valve,0.2277,0.6,0.4,False,False
+02.Unmarked_p1_c0095,Needle Valve,Valve,0.2081,0.6,0.4,False,False
+02.Unmarked_p1_c0095,Relief Valve,Valve,0.2998,0.6,0.4,False,False
+02.Unmarked_p1_c0095,Solenoid Valve,Valve,0.2078,0.6,0.4,False,False
+02.Unmarked_p1_c0095,3-Way Valve,Valve,0.1766,0.6,0.4,False,False
+02.Unmarked_p1_c0095,Diaphragm Valve,Valve,0.1378,0.6,0.4,False,False
+02.Unmarked_p1_c0095,Centrifugal Pump,Pump,0.2765,0.6,0.4,False,False
+02.Unmarked_p1_c0095,Rotary Pump,Pump,0.1971,0.6,0.4,False,False
+02.Unmarked_p1_c0095,Heat Exchanger,Heat Exchanger,0.2895,0.6,0.4,False,False
+02.Unmarked_p1_c0095,Condenser,Heat Exchanger,0.2418,0.6,0.4,False,False
+02.Unmarked_p1_c0095,Reboiler,Heat Exchanger,0.2072,0.6,0.4,False,False
+02.Unmarked_p1_c0095,Cooler,Heat Exchanger,0.291,0.6,0.4,False,False
+02.Unmarked_p1_c0095,Vessel,Vessel,0.2698,0.6,0.4,False,False
+02.Unmarked_p1_c0095,Tank,Vessel,0.2667,0.6,0.4,False,False
+02.Unmarked_p1_c0095,Drum,Vessel,0.2698,0.6,0.4,False,False
+02.Unmarked_p1_c0095,Filter,Filter,0.2706,0.6,0.4,False,False
+02.Unmarked_p1_c0095,Strainer,Filter,0.2643,0.6,0.4,False,False
+02.Unmarked_p1_c0095,Compressor,Compressor,0.3013,0.6,0.4,False,False
+02.Unmarked_p1_c0097,Gate Valve,Valve,0.3357,0.6,0.4,False,False
+02.Unmarked_p1_c0097,Globe Valve,Valve,0.2552,0.6,0.4,False,False
+02.Unmarked_p1_c0097,Butterfly Valve,Valve,0.1762,0.6,0.4,False,False
+02.Unmarked_p1_c0097,Check Valve,Valve,0.2154,0.6,0.4,False,False
+02.Unmarked_p1_c0097,Control Valve,Valve,0.2363,0.6,0.4,False,False
+02.Unmarked_p1_c0097,Needle Valve,Valve,0.198,0.6,0.4,False,False
+02.Unmarked_p1_c0097,Relief Valve,Valve,0.3069,0.6,0.4,False,False
+02.Unmarked_p1_c0097,Solenoid Valve,Valve,0.2154,0.6,0.4,False,False
+02.Unmarked_p1_c0097,3-Way Valve,Valve,0.1682,0.6,0.4,False,False
+02.Unmarked_p1_c0097,Diaphragm Valve,Valve,0.1395,0.6,0.4,False,False
+02.Unmarked_p1_c0097,Centrifugal Pump,Pump,0.2631,0.6,0.4,False,False
+02.Unmarked_p1_c0097,Rotary Pump,Pump,0.1807,0.6,0.4,False,False
+02.Unmarked_p1_c0097,Heat Exchanger,Heat Exchanger,0.2863,0.6,0.4,False,False
+02.Unmarked_p1_c0097,Condenser,Heat Exchanger,0.2333,0.6,0.4,False,False
+02.Unmarked_p1_c0097,Reboiler,Heat Exchanger,0.211,0.6,0.4,False,False
+02.Unmarked_p1_c0097,Cooler,Heat Exchanger,0.3007,0.6,0.4,False,False
+02.Unmarked_p1_c0097,Vessel,Vessel,0.2706,0.6,0.4,False,False
+02.Unmarked_p1_c0097,Tank,Vessel,0.2706,0.6,0.4,False,False
+02.Unmarked_p1_c0097,Drum,Vessel,0.2389,0.6,0.4,False,False
+02.Unmarked_p1_c0097,Filter,Filter,0.2803,0.6,0.4,False,False
+02.Unmarked_p1_c0097,Strainer,Filter,0.2738,0.6,0.4,False,False
+02.Unmarked_p1_c0097,Compressor,Compressor,0.2939,0.6,0.4,False,False
+02.Unmarked_p1_c0101,Gate Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0101,Globe Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0101,Butterfly Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0101,Check Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0101,Control Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0101,Needle Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0101,Relief Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0101,Solenoid Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0101,3-Way Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0101,Diaphragm Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0101,Centrifugal Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0101,Rotary Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0101,Heat Exchanger,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0101,Condenser,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0101,Reboiler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0101,Cooler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0101,Vessel,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0101,Tank,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0101,Drum,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0101,Filter,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0101,Strainer,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0101,Compressor,Compressor,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0108,Gate Valve,Valve,0.3235,0.6,0.4,False,False
+02.Unmarked_p1_c0108,Globe Valve,Valve,0.3499,0.6,0.4,False,False
+02.Unmarked_p1_c0108,Butterfly Valve,Valve,0.2567,0.6,0.4,False,False
+02.Unmarked_p1_c0108,Check Valve,Valve,0.2318,0.6,0.4,False,False
+02.Unmarked_p1_c0108,Control Valve,Valve,0.2215,0.6,0.4,False,False
+02.Unmarked_p1_c0108,Needle Valve,Valve,0.1689,0.6,0.4,False,False
+02.Unmarked_p1_c0108,Relief Valve,Valve,0.3933,0.6,0.4,False,False
+02.Unmarked_p1_c0108,Solenoid Valve,Valve,0.2318,0.6,0.4,False,False
+02.Unmarked_p1_c0108,3-Way Valve,Valve,0.2277,0.6,0.4,False,False
+02.Unmarked_p1_c0108,Diaphragm Valve,Valve,0.1871,0.6,0.4,False,False
+02.Unmarked_p1_c0108,Centrifugal Pump,Pump,0.2893,0.6,0.4,False,False
+02.Unmarked_p1_c0108,Rotary Pump,Pump,0.2075,0.6,0.4,False,False
+02.Unmarked_p1_c0108,Heat Exchanger,Heat Exchanger,0.2786,0.6,0.4,False,False
+02.Unmarked_p1_c0108,Condenser,Heat Exchanger,0.2498,0.6,0.4,False,False
+02.Unmarked_p1_c0108,Reboiler,Heat Exchanger,0.219,0.6,0.4,False,False
+02.Unmarked_p1_c0108,Cooler,Heat Exchanger,0.3093,0.6,0.4,False,False
+02.Unmarked_p1_c0108,Vessel,Vessel,0.3335,0.6,0.4,False,False
+02.Unmarked_p1_c0108,Tank,Vessel,0.3805,0.6,0.4,False,False
+02.Unmarked_p1_c0108,Drum,Vessel,0.3151,0.6,0.4,False,False
+02.Unmarked_p1_c0108,Filter,Filter,0.3747,0.6,0.4,False,False
+02.Unmarked_p1_c0108,Strainer,Filter,0.2892,0.6,0.4,False,False
+02.Unmarked_p1_c0108,Compressor,Compressor,0.2893,0.6,0.4,False,False
+02.Unmarked_p1_c0118,Gate Valve,Valve,0.3149,0.6,0.4,False,False
+02.Unmarked_p1_c0118,Globe Valve,Valve,0.2916,0.6,0.4,False,False
+02.Unmarked_p1_c0118,Butterfly Valve,Valve,0.1684,0.6,0.4,False,False
+02.Unmarked_p1_c0118,Check Valve,Valve,0.1766,0.6,0.4,False,False
+02.Unmarked_p1_c0118,Control Valve,Valve,0.2016,0.6,0.4,False,False
+02.Unmarked_p1_c0118,Needle Valve,Valve,0.1574,0.6,0.4,False,False
+02.Unmarked_p1_c0118,Relief Valve,Valve,0.3604,0.6,0.4,False,False
+02.Unmarked_p1_c0118,Solenoid Valve,Valve,0.1766,0.6,0.4,False,False
+02.Unmarked_p1_c0118,3-Way Valve,Valve,0.189,0.6,0.4,False,False
+02.Unmarked_p1_c0118,Diaphragm Valve,Valve,0.1624,0.6,0.4,False,False
+02.Unmarked_p1_c0118,Centrifugal Pump,Pump,0.2532,0.6,0.4,False,False
+02.Unmarked_p1_c0118,Rotary Pump,Pump,0.2089,0.6,0.4,False,False
+02.Unmarked_p1_c0118,Heat Exchanger,Heat Exchanger,0.3457,0.6,0.4,False,False
+02.Unmarked_p1_c0118,Condenser,Heat Exchanger,0.282,0.6,0.4,False,False
+02.Unmarked_p1_c0118,Reboiler,Heat Exchanger,0.2272,0.6,0.4,False,False
+02.Unmarked_p1_c0118,Cooler,Heat Exchanger,0.3803,0.6,0.4,False,False
+02.Unmarked_p1_c0118,Vessel,Vessel,0.3123,0.6,0.4,False,False
+02.Unmarked_p1_c0118,Tank,Vessel,0.294,0.6,0.4,False,False
+02.Unmarked_p1_c0118,Drum,Vessel,0.2921,0.6,0.4,False,False
+02.Unmarked_p1_c0118,Filter,Filter,0.3204,0.6,0.4,False,False
+02.Unmarked_p1_c0118,Strainer,Filter,0.3265,0.6,0.4,False,False
+02.Unmarked_p1_c0118,Compressor,Compressor,0.3275,0.6,0.4,False,False
+02.Unmarked_p1_c0119,Gate Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0119,Globe Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0119,Butterfly Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0119,Check Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0119,Control Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0119,Needle Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0119,Relief Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0119,Solenoid Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0119,3-Way Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0119,Diaphragm Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0119,Centrifugal Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0119,Rotary Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0119,Heat Exchanger,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0119,Condenser,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0119,Reboiler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0119,Cooler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0119,Vessel,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0119,Tank,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0119,Drum,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0119,Filter,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0119,Strainer,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0119,Compressor,Compressor,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0123,Gate Valve,Valve,0.374,0.6,0.4,False,False
+02.Unmarked_p1_c0123,Globe Valve,Valve,0.1956,0.6,0.4,False,False
+02.Unmarked_p1_c0123,Butterfly Valve,Valve,0.1357,0.6,0.4,False,False
+02.Unmarked_p1_c0123,Check Valve,Valve,0.2343,0.6,0.4,False,False
+02.Unmarked_p1_c0123,Control Valve,Valve,0.1731,0.6,0.4,False,False
+02.Unmarked_p1_c0123,Needle Valve,Valve,0.2206,0.6,0.4,False,False
+02.Unmarked_p1_c0123,Relief Valve,Valve,0.3022,0.6,0.4,False,False
+02.Unmarked_p1_c0123,Solenoid Valve,Valve,0.2109,0.6,0.4,False,False
+02.Unmarked_p1_c0123,3-Way Valve,Valve,0.1688,0.6,0.4,False,False
+02.Unmarked_p1_c0123,Diaphragm Valve,Valve,0.2343,0.6,0.4,False,False
+02.Unmarked_p1_c0123,Centrifugal Pump,Pump,0.2692,0.6,0.4,False,False
+02.Unmarked_p1_c0123,Rotary Pump,Pump,0.1847,0.6,0.4,False,False
+02.Unmarked_p1_c0123,Heat Exchanger,Heat Exchanger,0.3211,0.6,0.4,False,False
+02.Unmarked_p1_c0123,Condenser,Heat Exchanger,0.2507,0.6,0.4,False,False
+02.Unmarked_p1_c0123,Reboiler,Heat Exchanger,0.2139,0.6,0.4,False,False
+02.Unmarked_p1_c0123,Cooler,Heat Exchanger,0.3093,0.6,0.4,False,False
+02.Unmarked_p1_c0123,Vessel,Vessel,0.417,0.6,0.4,True,True
+02.Unmarked_p1_c0123,Tank,Vessel,0.3356,0.6,0.4,False,False
+02.Unmarked_p1_c0123,Drum,Vessel,0.3053,0.6,0.4,False,False
+02.Unmarked_p1_c0123,Filter,Filter,0.3525,0.6,0.4,False,False
+02.Unmarked_p1_c0123,Strainer,Filter,0.3211,0.6,0.4,False,False
+02.Unmarked_p1_c0123,Compressor,Compressor,0.2908,0.6,0.4,False,False
+02.Unmarked_p1_c0124,Gate Valve,Valve,0.3509,0.6,0.4,False,False
+02.Unmarked_p1_c0124,Globe Valve,Valve,0.248,0.6,0.4,False,False
+02.Unmarked_p1_c0124,Butterfly Valve,Valve,0.239,0.6,0.4,False,False
+02.Unmarked_p1_c0124,Check Valve,Valve,0.2439,0.6,0.4,False,False
+02.Unmarked_p1_c0124,Control Valve,Valve,0.1887,0.6,0.4,False,False
+02.Unmarked_p1_c0124,Needle Valve,Valve,0.217,0.6,0.4,False,False
+02.Unmarked_p1_c0124,Relief Valve,Valve,0.3301,0.6,0.4,False,False
+02.Unmarked_p1_c0124,Solenoid Valve,Valve,0.2439,0.6,0.4,False,False
+02.Unmarked_p1_c0124,3-Way Valve,Valve,0.2056,0.6,0.4,False,False
+02.Unmarked_p1_c0124,Diaphragm Valve,Valve,0.2305,0.6,0.4,False,False
+02.Unmarked_p1_c0124,Centrifugal Pump,Pump,0.27,0.6,0.4,False,False
+02.Unmarked_p1_c0124,Rotary Pump,Pump,0.187,0.6,0.4,False,False
+02.Unmarked_p1_c0124,Heat Exchanger,Heat Exchanger,0.3211,0.6,0.4,False,False
+02.Unmarked_p1_c0124,Condenser,Heat Exchanger,0.2705,0.6,0.4,False,False
+02.Unmarked_p1_c0124,Reboiler,Heat Exchanger,0.2178,0.6,0.4,False,False
+02.Unmarked_p1_c0124,Cooler,Heat Exchanger,0.3064,0.6,0.4,False,False
+02.Unmarked_p1_c0124,Vessel,Vessel,0.4115,0.6,0.4,True,True
+02.Unmarked_p1_c0124,Tank,Vessel,0.3373,0.6,0.4,False,False
+02.Unmarked_p1_c0124,Drum,Vessel,0.3076,0.6,0.4,False,False
+02.Unmarked_p1_c0124,Filter,Filter,0.3484,0.6,0.4,False,False
+02.Unmarked_p1_c0124,Strainer,Filter,0.3211,0.6,0.4,False,False
+02.Unmarked_p1_c0124,Compressor,Compressor,0.2998,0.6,0.4,False,False
+02.Unmarked_p1_c0125,Gate Valve,Valve,0.382,0.6,0.4,False,False
+02.Unmarked_p1_c0125,Globe Valve,Valve,0.1667,0.6,0.4,False,False
+02.Unmarked_p1_c0125,Butterfly Valve,Valve,0.1322,0.6,0.4,False,False
+02.Unmarked_p1_c0125,Check Valve,Valve,0.216,0.6,0.4,False,False
+02.Unmarked_p1_c0125,Control Valve,Valve,0.1675,0.6,0.4,False,False
+02.Unmarked_p1_c0125,Needle Valve,Valve,0.2187,0.6,0.4,False,False
+02.Unmarked_p1_c0125,Relief Valve,Valve,0.2749,0.6,0.4,False,False
+02.Unmarked_p1_c0125,Solenoid Valve,Valve,0.1848,0.6,0.4,False,False
+02.Unmarked_p1_c0125,3-Way Valve,Valve,0.1704,0.6,0.4,False,False
+02.Unmarked_p1_c0125,Diaphragm Valve,Valve,0.216,0.6,0.4,False,False
+02.Unmarked_p1_c0125,Centrifugal Pump,Pump,0.275,0.6,0.4,False,False
+02.Unmarked_p1_c0125,Rotary Pump,Pump,0.1701,0.6,0.4,False,False
+02.Unmarked_p1_c0125,Heat Exchanger,Heat Exchanger,0.3092,0.6,0.4,False,False
+02.Unmarked_p1_c0125,Condenser,Heat Exchanger,0.2509,0.6,0.4,False,False
+02.Unmarked_p1_c0125,Reboiler,Heat Exchanger,0.2253,0.6,0.4,False,False
+02.Unmarked_p1_c0125,Cooler,Heat Exchanger,0.2916,0.6,0.4,False,False
+02.Unmarked_p1_c0125,Vessel,Vessel,0.3999,0.6,0.4,False,False
+02.Unmarked_p1_c0125,Tank,Vessel,0.321,0.6,0.4,False,False
+02.Unmarked_p1_c0125,Drum,Vessel,0.2981,0.6,0.4,False,False
+02.Unmarked_p1_c0125,Filter,Filter,0.3545,0.6,0.4,False,False
+02.Unmarked_p1_c0125,Strainer,Filter,0.2979,0.6,0.4,False,False
+02.Unmarked_p1_c0125,Compressor,Compressor,0.2805,0.6,0.4,False,False
+02.Unmarked_p1_c0126,Gate Valve,Valve,0.382,0.6,0.4,False,False
+02.Unmarked_p1_c0126,Globe Valve,Valve,0.1667,0.6,0.4,False,False
+02.Unmarked_p1_c0126,Butterfly Valve,Valve,0.128,0.6,0.4,False,False
+02.Unmarked_p1_c0126,Check Valve,Valve,0.216,0.6,0.4,False,False
+02.Unmarked_p1_c0126,Control Valve,Valve,0.1675,0.6,0.4,False,False
+02.Unmarked_p1_c0126,Needle Valve,Valve,0.2187,0.6,0.4,False,False
+02.Unmarked_p1_c0126,Relief Valve,Valve,0.2749,0.6,0.4,False,False
+02.Unmarked_p1_c0126,Solenoid Valve,Valve,0.1848,0.6,0.4,False,False
+02.Unmarked_p1_c0126,3-Way Valve,Valve,0.1704,0.6,0.4,False,False
+02.Unmarked_p1_c0126,Diaphragm Valve,Valve,0.216,0.6,0.4,False,False
+02.Unmarked_p1_c0126,Centrifugal Pump,Pump,0.275,0.6,0.4,False,False
+02.Unmarked_p1_c0126,Rotary Pump,Pump,0.1784,0.6,0.4,False,False
+02.Unmarked_p1_c0126,Heat Exchanger,Heat Exchanger,0.3092,0.6,0.4,False,False
+02.Unmarked_p1_c0126,Condenser,Heat Exchanger,0.2509,0.6,0.4,False,False
+02.Unmarked_p1_c0126,Reboiler,Heat Exchanger,0.2253,0.6,0.4,False,False
+02.Unmarked_p1_c0126,Cooler,Heat Exchanger,0.2916,0.6,0.4,False,False
+02.Unmarked_p1_c0126,Vessel,Vessel,0.3999,0.6,0.4,False,False
+02.Unmarked_p1_c0126,Tank,Vessel,0.321,0.6,0.4,False,False
+02.Unmarked_p1_c0126,Drum,Vessel,0.2981,0.6,0.4,False,False
+02.Unmarked_p1_c0126,Filter,Filter,0.358,0.6,0.4,False,False
+02.Unmarked_p1_c0126,Strainer,Filter,0.2979,0.6,0.4,False,False
+02.Unmarked_p1_c0126,Compressor,Compressor,0.2805,0.6,0.4,False,False
+02.Unmarked_p1_c0127,Gate Valve,Valve,0.3799,0.6,0.4,False,False
+02.Unmarked_p1_c0127,Globe Valve,Valve,0.1956,0.6,0.4,False,False
+02.Unmarked_p1_c0127,Butterfly Valve,Valve,0.1515,0.6,0.4,False,False
+02.Unmarked_p1_c0127,Check Valve,Valve,0.2159,0.6,0.4,False,False
+02.Unmarked_p1_c0127,Control Valve,Valve,0.1675,0.6,0.4,False,False
+02.Unmarked_p1_c0127,Needle Valve,Valve,0.217,0.6,0.4,False,False
+02.Unmarked_p1_c0127,Relief Valve,Valve,0.2769,0.6,0.4,False,False
+02.Unmarked_p1_c0127,Solenoid Valve,Valve,0.2055,0.6,0.4,False,False
+02.Unmarked_p1_c0127,3-Way Valve,Valve,0.1764,0.6,0.4,False,False
+02.Unmarked_p1_c0127,Diaphragm Valve,Valve,0.2159,0.6,0.4,False,False
+02.Unmarked_p1_c0127,Centrifugal Pump,Pump,0.2733,0.6,0.4,False,False
+02.Unmarked_p1_c0127,Rotary Pump,Pump,0.197,0.6,0.4,False,False
+02.Unmarked_p1_c0127,Heat Exchanger,Heat Exchanger,0.3092,0.6,0.4,False,False
+02.Unmarked_p1_c0127,Condenser,Heat Exchanger,0.2576,0.6,0.4,False,False
+02.Unmarked_p1_c0127,Reboiler,Heat Exchanger,0.2227,0.6,0.4,False,False
+02.Unmarked_p1_c0127,Cooler,Heat Exchanger,0.2926,0.6,0.4,False,False
+02.Unmarked_p1_c0127,Vessel,Vessel,0.4022,0.6,0.4,True,True
+02.Unmarked_p1_c0127,Tank,Vessel,0.3204,0.6,0.4,False,False
+02.Unmarked_p1_c0127,Drum,Vessel,0.2982,0.6,0.4,False,False
+02.Unmarked_p1_c0127,Filter,Filter,0.3939,0.6,0.4,False,False
+02.Unmarked_p1_c0127,Strainer,Filter,0.2973,0.6,0.4,False,False
+02.Unmarked_p1_c0127,Compressor,Compressor,0.2962,0.6,0.4,False,False
+02.Unmarked_p1_c0128,Gate Valve,Valve,0.382,0.6,0.4,False,False
+02.Unmarked_p1_c0128,Globe Valve,Valve,0.1667,0.6,0.4,False,False
+02.Unmarked_p1_c0128,Butterfly Valve,Valve,0.128,0.6,0.4,False,False
+02.Unmarked_p1_c0128,Check Valve,Valve,0.216,0.6,0.4,False,False
+02.Unmarked_p1_c0128,Control Valve,Valve,0.1675,0.6,0.4,False,False
+02.Unmarked_p1_c0128,Needle Valve,Valve,0.2187,0.6,0.4,False,False
+02.Unmarked_p1_c0128,Relief Valve,Valve,0.2749,0.6,0.4,False,False
+02.Unmarked_p1_c0128,Solenoid Valve,Valve,0.1848,0.6,0.4,False,False
+02.Unmarked_p1_c0128,3-Way Valve,Valve,0.1704,0.6,0.4,False,False
+02.Unmarked_p1_c0128,Diaphragm Valve,Valve,0.216,0.6,0.4,False,False
+02.Unmarked_p1_c0128,Centrifugal Pump,Pump,0.275,0.6,0.4,False,False
+02.Unmarked_p1_c0128,Rotary Pump,Pump,0.1662,0.6,0.4,False,False
+02.Unmarked_p1_c0128,Heat Exchanger,Heat Exchanger,0.3092,0.6,0.4,False,False
+02.Unmarked_p1_c0128,Condenser,Heat Exchanger,0.2509,0.6,0.4,False,False
+02.Unmarked_p1_c0128,Reboiler,Heat Exchanger,0.2253,0.6,0.4,False,False
+02.Unmarked_p1_c0128,Cooler,Heat Exchanger,0.2916,0.6,0.4,False,False
+02.Unmarked_p1_c0128,Vessel,Vessel,0.3999,0.6,0.4,False,False
+02.Unmarked_p1_c0128,Tank,Vessel,0.321,0.6,0.4,False,False
+02.Unmarked_p1_c0128,Drum,Vessel,0.2981,0.6,0.4,False,False
+02.Unmarked_p1_c0128,Filter,Filter,0.3489,0.6,0.4,False,False
+02.Unmarked_p1_c0128,Strainer,Filter,0.2979,0.6,0.4,False,False
+02.Unmarked_p1_c0128,Compressor,Compressor,0.2805,0.6,0.4,False,False
+02.Unmarked_p1_c0129,Gate Valve,Valve,0.382,0.6,0.4,False,False
+02.Unmarked_p1_c0129,Globe Valve,Valve,0.1667,0.6,0.4,False,False
+02.Unmarked_p1_c0129,Butterfly Valve,Valve,0.1294,0.6,0.4,False,False
+02.Unmarked_p1_c0129,Check Valve,Valve,0.216,0.6,0.4,False,False
+02.Unmarked_p1_c0129,Control Valve,Valve,0.1675,0.6,0.4,False,False
+02.Unmarked_p1_c0129,Needle Valve,Valve,0.2187,0.6,0.4,False,False
+02.Unmarked_p1_c0129,Relief Valve,Valve,0.2749,0.6,0.4,False,False
+02.Unmarked_p1_c0129,Solenoid Valve,Valve,0.1848,0.6,0.4,False,False
+02.Unmarked_p1_c0129,3-Way Valve,Valve,0.1704,0.6,0.4,False,False
+02.Unmarked_p1_c0129,Diaphragm Valve,Valve,0.216,0.6,0.4,False,False
+02.Unmarked_p1_c0129,Centrifugal Pump,Pump,0.275,0.6,0.4,False,False
+02.Unmarked_p1_c0129,Rotary Pump,Pump,0.2063,0.6,0.4,False,False
+02.Unmarked_p1_c0129,Heat Exchanger,Heat Exchanger,0.3092,0.6,0.4,False,False
+02.Unmarked_p1_c0129,Condenser,Heat Exchanger,0.2509,0.6,0.4,False,False
+02.Unmarked_p1_c0129,Reboiler,Heat Exchanger,0.2253,0.6,0.4,False,False
+02.Unmarked_p1_c0129,Cooler,Heat Exchanger,0.2916,0.6,0.4,False,False
+02.Unmarked_p1_c0129,Vessel,Vessel,0.3999,0.6,0.4,False,False
+02.Unmarked_p1_c0129,Tank,Vessel,0.321,0.6,0.4,False,False
+02.Unmarked_p1_c0129,Drum,Vessel,0.2981,0.6,0.4,False,False
+02.Unmarked_p1_c0129,Filter,Filter,0.3495,0.6,0.4,False,False
+02.Unmarked_p1_c0129,Strainer,Filter,0.2979,0.6,0.4,False,False
+02.Unmarked_p1_c0129,Compressor,Compressor,0.2805,0.6,0.4,False,False
+02.Unmarked_p1_c0130,Gate Valve,Valve,0.3482,0.6,0.4,False,False
+02.Unmarked_p1_c0130,Globe Valve,Valve,0.3451,0.6,0.4,False,False
+02.Unmarked_p1_c0130,Butterfly Valve,Valve,0.2671,0.6,0.4,False,False
+02.Unmarked_p1_c0130,Check Valve,Valve,0.2789,0.6,0.4,False,False
+02.Unmarked_p1_c0130,Control Valve,Valve,0.1893,0.6,0.4,False,False
+02.Unmarked_p1_c0130,Needle Valve,Valve,0.2013,0.6,0.4,False,False
+02.Unmarked_p1_c0130,Relief Valve,Valve,0.3939,0.6,0.4,False,False
+02.Unmarked_p1_c0130,Solenoid Valve,Valve,0.2789,0.6,0.4,False,False
+02.Unmarked_p1_c0130,3-Way Valve,Valve,0.2265,0.6,0.4,False,False
+02.Unmarked_p1_c0130,Diaphragm Valve,Valve,0.2034,0.6,0.4,False,False
+02.Unmarked_p1_c0130,Centrifugal Pump,Pump,0.3542,0.6,0.4,False,False
+02.Unmarked_p1_c0130,Rotary Pump,Pump,0.1904,0.6,0.4,False,False
+02.Unmarked_p1_c0130,Heat Exchanger,Heat Exchanger,0.3073,0.6,0.4,False,False
+02.Unmarked_p1_c0130,Condenser,Heat Exchanger,0.3045,0.6,0.4,False,False
+02.Unmarked_p1_c0130,Reboiler,Heat Exchanger,0.2179,0.6,0.4,False,False
+02.Unmarked_p1_c0130,Cooler,Heat Exchanger,0.3717,0.6,0.4,False,False
+02.Unmarked_p1_c0130,Vessel,Vessel,0.4133,0.6,0.4,True,True
+02.Unmarked_p1_c0130,Tank,Vessel,0.3111,0.6,0.4,False,False
+02.Unmarked_p1_c0130,Drum,Vessel,0.3047,0.6,0.4,False,False
+02.Unmarked_p1_c0130,Filter,Filter,0.3395,0.6,0.4,False,False
+02.Unmarked_p1_c0130,Strainer,Filter,0.3333,0.6,0.4,False,False
+02.Unmarked_p1_c0130,Compressor,Compressor,0.3786,0.6,0.4,False,False
+02.Unmarked_p1_c0131,Gate Valve,Valve,0.3509,0.6,0.4,False,False
+02.Unmarked_p1_c0131,Globe Valve,Valve,0.248,0.6,0.4,False,False
+02.Unmarked_p1_c0131,Butterfly Valve,Valve,0.239,0.6,0.4,False,False
+02.Unmarked_p1_c0131,Check Valve,Valve,0.2439,0.6,0.4,False,False
+02.Unmarked_p1_c0131,Control Valve,Valve,0.1887,0.6,0.4,False,False
+02.Unmarked_p1_c0131,Needle Valve,Valve,0.217,0.6,0.4,False,False
+02.Unmarked_p1_c0131,Relief Valve,Valve,0.3301,0.6,0.4,False,False
+02.Unmarked_p1_c0131,Solenoid Valve,Valve,0.2439,0.6,0.4,False,False
+02.Unmarked_p1_c0131,3-Way Valve,Valve,0.2056,0.6,0.4,False,False
+02.Unmarked_p1_c0131,Diaphragm Valve,Valve,0.2305,0.6,0.4,False,False
+02.Unmarked_p1_c0131,Centrifugal Pump,Pump,0.27,0.6,0.4,False,False
+02.Unmarked_p1_c0131,Rotary Pump,Pump,0.187,0.6,0.4,False,False
+02.Unmarked_p1_c0131,Heat Exchanger,Heat Exchanger,0.3211,0.6,0.4,False,False
+02.Unmarked_p1_c0131,Condenser,Heat Exchanger,0.2705,0.6,0.4,False,False
+02.Unmarked_p1_c0131,Reboiler,Heat Exchanger,0.2178,0.6,0.4,False,False
+02.Unmarked_p1_c0131,Cooler,Heat Exchanger,0.3064,0.6,0.4,False,False
+02.Unmarked_p1_c0131,Vessel,Vessel,0.4115,0.6,0.4,True,True
+02.Unmarked_p1_c0131,Tank,Vessel,0.3373,0.6,0.4,False,False
+02.Unmarked_p1_c0131,Drum,Vessel,0.3076,0.6,0.4,False,False
+02.Unmarked_p1_c0131,Filter,Filter,0.3484,0.6,0.4,False,False
+02.Unmarked_p1_c0131,Strainer,Filter,0.3211,0.6,0.4,False,False
+02.Unmarked_p1_c0131,Compressor,Compressor,0.2998,0.6,0.4,False,False
+02.Unmarked_p1_c0137,Gate Valve,Valve,0.408,0.6,0.4,True,False
+02.Unmarked_p1_c0137,Globe Valve,Valve,0.2661,0.6,0.4,False,False
+02.Unmarked_p1_c0137,Butterfly Valve,Valve,0.1612,0.6,0.4,False,False
+02.Unmarked_p1_c0137,Check Valve,Valve,0.2303,0.6,0.4,False,False
+02.Unmarked_p1_c0137,Control Valve,Valve,0.171,0.6,0.4,False,False
+02.Unmarked_p1_c0137,Needle Valve,Valve,0.1913,0.6,0.4,False,False
+02.Unmarked_p1_c0137,Relief Valve,Valve,0.4121,0.6,0.4,True,False
+02.Unmarked_p1_c0137,Solenoid Valve,Valve,0.1414,0.6,0.4,False,False
+02.Unmarked_p1_c0137,3-Way Valve,Valve,0.166,0.6,0.4,False,False
+02.Unmarked_p1_c0137,Diaphragm Valve,Valve,0.2303,0.6,0.4,False,False
+02.Unmarked_p1_c0137,Centrifugal Pump,Pump,0.2507,0.6,0.4,False,False
+02.Unmarked_p1_c0137,Rotary Pump,Pump,0.2131,0.6,0.4,False,False
+02.Unmarked_p1_c0137,Heat Exchanger,Heat Exchanger,0.3842,0.6,0.4,False,False
+02.Unmarked_p1_c0137,Condenser,Heat Exchanger,0.2534,0.6,0.4,False,False
+02.Unmarked_p1_c0137,Reboiler,Heat Exchanger,0.2806,0.6,0.4,False,False
+02.Unmarked_p1_c0137,Cooler,Heat Exchanger,0.3443,0.6,0.4,False,False
+02.Unmarked_p1_c0137,Vessel,Vessel,0.479,0.6,0.4,True,True
+02.Unmarked_p1_c0137,Tank,Vessel,0.479,0.6,0.4,True,False
+02.Unmarked_p1_c0137,Drum,Vessel,0.4066,0.6,0.4,True,False
+02.Unmarked_p1_c0137,Filter,Filter,0.3544,0.6,0.4,False,False
+02.Unmarked_p1_c0137,Strainer,Filter,0.3277,0.6,0.4,False,False
+02.Unmarked_p1_c0137,Compressor,Compressor,0.2949,0.6,0.4,False,False
+02.Unmarked_p1_c0143,Gate Valve,Valve,0.408,0.6,0.4,True,False
+02.Unmarked_p1_c0143,Globe Valve,Valve,0.28,0.6,0.4,False,False
+02.Unmarked_p1_c0143,Butterfly Valve,Valve,0.1553,0.6,0.4,False,False
+02.Unmarked_p1_c0143,Check Valve,Valve,0.2339,0.6,0.4,False,False
+02.Unmarked_p1_c0143,Control Valve,Valve,0.1907,0.6,0.4,False,False
+02.Unmarked_p1_c0143,Needle Valve,Valve,0.2075,0.6,0.4,False,False
+02.Unmarked_p1_c0143,Relief Valve,Valve,0.4121,0.6,0.4,True,False
+02.Unmarked_p1_c0143,Solenoid Valve,Valve,0.1403,0.6,0.4,False,False
+02.Unmarked_p1_c0143,3-Way Valve,Valve,0.1713,0.6,0.4,False,False
+02.Unmarked_p1_c0143,Diaphragm Valve,Valve,0.2339,0.6,0.4,False,False
+02.Unmarked_p1_c0143,Centrifugal Pump,Pump,0.2507,0.6,0.4,False,False
+02.Unmarked_p1_c0143,Rotary Pump,Pump,0.2138,0.6,0.4,False,False
+02.Unmarked_p1_c0143,Heat Exchanger,Heat Exchanger,0.3842,0.6,0.4,False,False
+02.Unmarked_p1_c0143,Condenser,Heat Exchanger,0.2534,0.6,0.4,False,False
+02.Unmarked_p1_c0143,Reboiler,Heat Exchanger,0.2814,0.6,0.4,False,False
+02.Unmarked_p1_c0143,Cooler,Heat Exchanger,0.3443,0.6,0.4,False,False
+02.Unmarked_p1_c0143,Vessel,Vessel,0.4797,0.6,0.4,True,True
+02.Unmarked_p1_c0143,Tank,Vessel,0.4797,0.6,0.4,True,False
+02.Unmarked_p1_c0143,Drum,Vessel,0.4066,0.6,0.4,True,False
+02.Unmarked_p1_c0143,Filter,Filter,0.3544,0.6,0.4,False,False
+02.Unmarked_p1_c0143,Strainer,Filter,0.3277,0.6,0.4,False,False
+02.Unmarked_p1_c0143,Compressor,Compressor,0.317,0.6,0.4,False,False
+02.Unmarked_p1_c0146,Gate Valve,Valve,0.3697,0.6,0.4,False,False
+02.Unmarked_p1_c0146,Globe Valve,Valve,0.2297,0.6,0.4,False,False
+02.Unmarked_p1_c0146,Butterfly Valve,Valve,0.1912,0.6,0.4,False,False
+02.Unmarked_p1_c0146,Check Valve,Valve,0.2506,0.6,0.4,False,False
+02.Unmarked_p1_c0146,Control Valve,Valve,0.2049,0.6,0.4,False,False
+02.Unmarked_p1_c0146,Needle Valve,Valve,0.2718,0.6,0.4,False,False
+02.Unmarked_p1_c0146,Relief Valve,Valve,0.4268,0.6,0.4,True,False
+02.Unmarked_p1_c0146,Solenoid Valve,Valve,0.2032,0.6,0.4,False,False
+02.Unmarked_p1_c0146,3-Way Valve,Valve,0.2187,0.9,0.4,False,False
+02.Unmarked_p1_c0146,Diaphragm Valve,Valve,0.2506,0.6,0.4,False,False
+02.Unmarked_p1_c0146,Centrifugal Pump,Pump,0.5064,0.6,0.4,True,False
+02.Unmarked_p1_c0146,Rotary Pump,Pump,0.246,0.6,0.4,False,False
+02.Unmarked_p1_c0146,Heat Exchanger,Heat Exchanger,0.4076,0.6,0.4,True,False
+02.Unmarked_p1_c0146,Condenser,Heat Exchanger,0.2953,0.6,0.4,False,False
+02.Unmarked_p1_c0146,Reboiler,Heat Exchanger,0.2856,0.6,0.4,False,False
+02.Unmarked_p1_c0146,Cooler,Heat Exchanger,0.3728,0.6,0.4,False,False
+02.Unmarked_p1_c0146,Vessel,Vessel,0.5049,0.6,0.4,True,False
+02.Unmarked_p1_c0146,Tank,Vessel,0.4608,0.6,0.4,True,False
+02.Unmarked_p1_c0146,Drum,Vessel,0.552,0.6,0.4,True,True
+02.Unmarked_p1_c0146,Filter,Filter,0.4179,0.7,0.4,True,False
+02.Unmarked_p1_c0146,Strainer,Filter,0.4428,0.7,0.4,True,False
+02.Unmarked_p1_c0146,Compressor,Compressor,0.5064,0.6,0.4,True,False
+02.Unmarked_p1_c0147,Gate Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0147,Globe Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0147,Butterfly Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0147,Check Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0147,Control Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0147,Needle Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0147,Relief Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0147,Solenoid Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0147,3-Way Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0147,Diaphragm Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0147,Centrifugal Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0147,Rotary Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0147,Heat Exchanger,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0147,Condenser,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0147,Reboiler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0147,Cooler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0147,Vessel,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0147,Tank,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0147,Drum,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0147,Filter,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0147,Strainer,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0147,Compressor,Compressor,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0149,Gate Valve,Valve,0.3873,0.6,0.4,False,False
+02.Unmarked_p1_c0149,Globe Valve,Valve,0.1806,0.6,0.4,False,False
+02.Unmarked_p1_c0149,Butterfly Valve,Valve,0.131,0.6,0.4,False,False
+02.Unmarked_p1_c0149,Check Valve,Valve,0.2889,0.6,0.4,False,False
+02.Unmarked_p1_c0149,Control Valve,Valve,0.2022,0.6,0.4,False,False
+02.Unmarked_p1_c0149,Needle Valve,Valve,0.1744,0.6,0.4,False,False
+02.Unmarked_p1_c0149,Relief Valve,Valve,0.3754,0.6,0.4,False,False
+02.Unmarked_p1_c0149,Solenoid Valve,Valve,0.1615,0.6,0.4,False,False
+02.Unmarked_p1_c0149,3-Way Valve,Valve,0.1907,0.6,0.4,False,False
+02.Unmarked_p1_c0149,Diaphragm Valve,Valve,0.2889,0.6,0.4,False,False
+02.Unmarked_p1_c0149,Centrifugal Pump,Pump,0.2686,0.6,0.4,False,False
+02.Unmarked_p1_c0149,Rotary Pump,Pump,0.1948,0.6,0.4,False,False
+02.Unmarked_p1_c0149,Heat Exchanger,Heat Exchanger,0.4602,0.7,0.4,True,True
+02.Unmarked_p1_c0149,Condenser,Heat Exchanger,0.2971,0.7,0.4,False,False
+02.Unmarked_p1_c0149,Reboiler,Heat Exchanger,0.2082,0.6,0.4,False,False
+02.Unmarked_p1_c0149,Cooler,Heat Exchanger,0.3206,0.6,0.4,False,False
+02.Unmarked_p1_c0149,Vessel,Vessel,0.4504,0.6,0.4,True,False
+02.Unmarked_p1_c0149,Tank,Vessel,0.4485,0.6,0.4,True,False
+02.Unmarked_p1_c0149,Drum,Vessel,0.3971,0.6,0.4,False,False
+02.Unmarked_p1_c0149,Filter,Filter,0.385,0.6,0.4,False,False
+02.Unmarked_p1_c0149,Strainer,Filter,0.3654,0.7,0.4,False,False
+02.Unmarked_p1_c0149,Compressor,Compressor,0.3758,0.6,0.4,False,False
+02.Unmarked_p1_c0150,Gate Valve,Valve,0.2257,0.6,0.4,False,False
+02.Unmarked_p1_c0150,Globe Valve,Valve,0.1895,0.6,0.4,False,False
+02.Unmarked_p1_c0150,Butterfly Valve,Valve,0.1542,0.6,0.4,False,False
+02.Unmarked_p1_c0150,Check Valve,Valve,0.1537,0.7,0.4,False,False
+02.Unmarked_p1_c0150,Control Valve,Valve,0.1696,0.7,0.4,False,False
+02.Unmarked_p1_c0150,Needle Valve,Valve,0.1729,0.7,0.4,False,False
+02.Unmarked_p1_c0150,Relief Valve,Valve,0.1688,0.6,0.4,False,False
+02.Unmarked_p1_c0150,Solenoid Valve,Valve,0.1537,0.7,0.4,False,False
+02.Unmarked_p1_c0150,3-Way Valve,Valve,0.1722,0.7,0.4,False,False
+02.Unmarked_p1_c0150,Diaphragm Valve,Valve,0.1408,0.6,0.4,False,False
+02.Unmarked_p1_c0150,Centrifugal Pump,Pump,0.1914,0.6,0.4,False,False
+02.Unmarked_p1_c0150,Rotary Pump,Pump,0.1452,0.6,0.4,False,False
+02.Unmarked_p1_c0150,Heat Exchanger,Heat Exchanger,0.1849,0.7,0.4,False,False
+02.Unmarked_p1_c0150,Condenser,Heat Exchanger,0.1543,0.6,0.4,False,False
+02.Unmarked_p1_c0150,Reboiler,Heat Exchanger,0.1559,0.7,0.4,False,False
+02.Unmarked_p1_c0150,Cooler,Heat Exchanger,0.1789,0.7,0.4,False,False
+02.Unmarked_p1_c0150,Vessel,Vessel,0.232,0.6,0.4,False,False
+02.Unmarked_p1_c0150,Tank,Vessel,0.1862,0.6,0.4,False,False
+02.Unmarked_p1_c0150,Drum,Vessel,0.1944,0.6,0.4,False,False
+02.Unmarked_p1_c0150,Filter,Filter,0.2073,0.6,0.4,False,False
+02.Unmarked_p1_c0150,Strainer,Filter,0.1996,0.7,0.4,False,False
+02.Unmarked_p1_c0150,Compressor,Compressor,0.2044,0.6,0.4,False,False
+02.Unmarked_p1_c0151,Gate Valve,Valve,0.2937,0.6,0.4,False,False
+02.Unmarked_p1_c0151,Globe Valve,Valve,0.1839,0.6,0.4,False,False
+02.Unmarked_p1_c0151,Butterfly Valve,Valve,0.121,0.6,0.4,False,False
+02.Unmarked_p1_c0151,Check Valve,Valve,0.214,0.6,0.4,False,False
+02.Unmarked_p1_c0151,Control Valve,Valve,0.174,0.6,0.4,False,False
+02.Unmarked_p1_c0151,Needle Valve,Valve,0.1624,0.6,0.4,False,False
+02.Unmarked_p1_c0151,Relief Valve,Valve,0.2429,0.6,0.4,False,False
+02.Unmarked_p1_c0151,Solenoid Valve,Valve,0.1668,0.6,0.4,False,False
+02.Unmarked_p1_c0151,3-Way Valve,Valve,0.2088,0.6,0.4,False,False
+02.Unmarked_p1_c0151,Diaphragm Valve,Valve,0.214,0.6,0.4,False,False
+02.Unmarked_p1_c0151,Centrifugal Pump,Pump,0.2311,0.6,0.4,False,False
+02.Unmarked_p1_c0151,Rotary Pump,Pump,0.1902,0.6,0.4,False,False
+02.Unmarked_p1_c0151,Heat Exchanger,Heat Exchanger,0.2759,0.7,0.4,False,False
+02.Unmarked_p1_c0151,Condenser,Heat Exchanger,0.1938,0.6,0.4,False,False
+02.Unmarked_p1_c0151,Reboiler,Heat Exchanger,0.2569,0.6,0.4,False,False
+02.Unmarked_p1_c0151,Cooler,Heat Exchanger,0.2441,0.6,0.4,False,False
+02.Unmarked_p1_c0151,Vessel,Vessel,0.3225,0.6,0.4,False,False
+02.Unmarked_p1_c0151,Tank,Vessel,0.3225,0.6,0.4,False,False
+02.Unmarked_p1_c0151,Drum,Vessel,0.3692,0.7,0.4,False,False
+02.Unmarked_p1_c0151,Filter,Filter,0.26,0.6,0.4,False,False
+02.Unmarked_p1_c0151,Strainer,Filter,0.2287,0.6,0.4,False,False
+02.Unmarked_p1_c0151,Compressor,Compressor,0.2663,0.6,0.4,False,False
+02.Unmarked_p1_c0152,Gate Valve,Valve,0.3505,0.6,0.4,False,False
+02.Unmarked_p1_c0152,Globe Valve,Valve,0.1739,0.6,0.4,False,False
+02.Unmarked_p1_c0152,Butterfly Valve,Valve,0.1281,0.6,0.4,False,False
+02.Unmarked_p1_c0152,Check Valve,Valve,0.2311,0.6,0.4,False,False
+02.Unmarked_p1_c0152,Control Valve,Valve,0.2095,0.6,0.4,False,False
+02.Unmarked_p1_c0152,Needle Valve,Valve,0.1681,0.6,0.4,False,False
+02.Unmarked_p1_c0152,Relief Valve,Valve,0.3257,0.6,0.4,False,False
+02.Unmarked_p1_c0152,Solenoid Valve,Valve,0.1643,0.6,0.4,False,False
+02.Unmarked_p1_c0152,3-Way Valve,Valve,0.2157,0.6,0.4,False,False
+02.Unmarked_p1_c0152,Diaphragm Valve,Valve,0.2311,0.6,0.4,False,False
+02.Unmarked_p1_c0152,Centrifugal Pump,Pump,0.234,0.6,0.4,False,False
+02.Unmarked_p1_c0152,Rotary Pump,Pump,0.1836,0.6,0.4,False,False
+02.Unmarked_p1_c0152,Heat Exchanger,Heat Exchanger,0.3279,0.7,0.4,False,False
+02.Unmarked_p1_c0152,Condenser,Heat Exchanger,0.2623,0.7,0.4,False,False
+02.Unmarked_p1_c0152,Reboiler,Heat Exchanger,0.2066,0.6,0.4,False,False
+02.Unmarked_p1_c0152,Cooler,Heat Exchanger,0.296,0.6,0.4,False,False
+02.Unmarked_p1_c0152,Vessel,Vessel,0.3353,0.6,0.4,False,False
+02.Unmarked_p1_c0152,Tank,Vessel,0.3353,0.6,0.4,False,False
+02.Unmarked_p1_c0152,Drum,Vessel,0.364,0.6,0.4,False,False
+02.Unmarked_p1_c0152,Filter,Filter,0.2978,0.6,0.4,False,False
+02.Unmarked_p1_c0152,Strainer,Filter,0.2412,0.6,0.4,False,False
+02.Unmarked_p1_c0152,Compressor,Compressor,0.2936,0.6,0.4,False,False
+02.Unmarked_p1_c0153,Gate Valve,Valve,0.2373,0.6,0.4,False,False
+02.Unmarked_p1_c0153,Globe Valve,Valve,0.1985,0.6,0.4,False,False
+02.Unmarked_p1_c0153,Butterfly Valve,Valve,0.1479,0.6,0.4,False,False
+02.Unmarked_p1_c0153,Check Valve,Valve,0.1413,0.6,0.4,False,False
+02.Unmarked_p1_c0153,Control Valve,Valve,0.1772,0.6,0.4,False,False
+02.Unmarked_p1_c0153,Needle Valve,Valve,0.1667,0.6,0.4,False,False
+02.Unmarked_p1_c0153,Relief Valve,Valve,0.1695,0.6,0.4,False,False
+02.Unmarked_p1_c0153,Solenoid Valve,Valve,0.1353,0.6,0.4,False,False
+02.Unmarked_p1_c0153,3-Way Valve,Valve,0.1876,0.6,0.4,False,False
+02.Unmarked_p1_c0153,Diaphragm Valve,Valve,0.1413,0.6,0.4,False,False
+02.Unmarked_p1_c0153,Centrifugal Pump,Pump,0.1852,0.7,0.4,False,False
+02.Unmarked_p1_c0153,Rotary Pump,Pump,0.1524,0.6,0.4,False,False
+02.Unmarked_p1_c0153,Heat Exchanger,Heat Exchanger,0.2059,0.6,0.4,False,False
+02.Unmarked_p1_c0153,Condenser,Heat Exchanger,0.1582,0.6,0.4,False,False
+02.Unmarked_p1_c0153,Reboiler,Heat Exchanger,0.1939,0.7,0.4,False,False
+02.Unmarked_p1_c0153,Cooler,Heat Exchanger,0.1945,0.6,0.4,False,False
+02.Unmarked_p1_c0153,Vessel,Vessel,0.2538,0.6,0.4,False,False
+02.Unmarked_p1_c0153,Tank,Vessel,0.2386,0.6,0.4,False,False
+02.Unmarked_p1_c0153,Drum,Vessel,0.1777,0.6,0.4,False,False
+02.Unmarked_p1_c0153,Filter,Filter,0.2392,0.6,0.4,False,False
+02.Unmarked_p1_c0153,Strainer,Filter,0.1931,0.6,0.4,False,False
+02.Unmarked_p1_c0153,Compressor,Compressor,0.2037,0.6,0.4,False,False
+02.Unmarked_p1_c0154,Gate Valve,Valve,0.2518,0.6,0.4,False,False
+02.Unmarked_p1_c0154,Globe Valve,Valve,0.2339,0.6,0.4,False,False
+02.Unmarked_p1_c0154,Butterfly Valve,Valve,0.2043,0.6,0.4,False,False
+02.Unmarked_p1_c0154,Check Valve,Valve,0.186,0.6,0.4,False,False
+02.Unmarked_p1_c0154,Control Valve,Valve,0.1785,0.6,0.4,False,False
+02.Unmarked_p1_c0154,Needle Valve,Valve,0.1819,0.6,0.4,False,False
+02.Unmarked_p1_c0154,Relief Valve,Valve,0.2101,0.6,0.4,False,False
+02.Unmarked_p1_c0154,Solenoid Valve,Valve,0.186,0.6,0.4,False,False
+02.Unmarked_p1_c0154,3-Way Valve,Valve,0.1813,0.7,0.4,False,False
+02.Unmarked_p1_c0154,Diaphragm Valve,Valve,0.1761,0.6,0.4,False,False
+02.Unmarked_p1_c0154,Centrifugal Pump,Pump,0.2385,0.7,0.4,False,False
+02.Unmarked_p1_c0154,Rotary Pump,Pump,0.2064,0.7,0.4,False,False
+02.Unmarked_p1_c0154,Heat Exchanger,Heat Exchanger,0.2249,0.7,0.4,False,False
+02.Unmarked_p1_c0154,Condenser,Heat Exchanger,0.196,0.6,0.4,False,False
+02.Unmarked_p1_c0154,Reboiler,Heat Exchanger,0.2111,0.6,0.4,False,False
+02.Unmarked_p1_c0154,Cooler,Heat Exchanger,0.2708,0.6,0.4,False,False
+02.Unmarked_p1_c0154,Vessel,Vessel,0.2273,0.7,0.4,False,False
+02.Unmarked_p1_c0154,Tank,Vessel,0.2309,0.6,0.4,False,False
+02.Unmarked_p1_c0154,Drum,Vessel,0.2232,0.6,0.4,False,False
+02.Unmarked_p1_c0154,Filter,Filter,0.223,0.6,0.4,False,False
+02.Unmarked_p1_c0154,Strainer,Filter,0.245,0.6,0.4,False,False
+02.Unmarked_p1_c0154,Compressor,Compressor,0.2238,0.6,0.4,False,False
+02.Unmarked_p1_c0156,Gate Valve,Valve,0.3836,0.7,0.4,False,False
+02.Unmarked_p1_c0156,Globe Valve,Valve,0.183,0.6,0.4,False,False
+02.Unmarked_p1_c0156,Butterfly Valve,Valve,0.1197,0.6,0.4,False,False
+02.Unmarked_p1_c0156,Check Valve,Valve,0.2751,0.6,0.4,False,False
+02.Unmarked_p1_c0156,Control Valve,Valve,0.1817,0.6,0.4,False,False
+02.Unmarked_p1_c0156,Needle Valve,Valve,0.1727,0.6,0.4,False,False
+02.Unmarked_p1_c0156,Relief Valve,Valve,0.3073,0.6,0.4,False,False
+02.Unmarked_p1_c0156,Solenoid Valve,Valve,0.1588,0.6,0.4,False,False
+02.Unmarked_p1_c0156,3-Way Valve,Valve,0.2099,0.6,0.4,False,False
+02.Unmarked_p1_c0156,Diaphragm Valve,Valve,0.2751,0.6,0.4,False,False
+02.Unmarked_p1_c0156,Centrifugal Pump,Pump,0.2563,0.6,0.4,False,False
+02.Unmarked_p1_c0156,Rotary Pump,Pump,0.1829,0.6,0.4,False,False
+02.Unmarked_p1_c0156,Heat Exchanger,Heat Exchanger,0.4446,0.7,0.4,True,False
+02.Unmarked_p1_c0156,Condenser,Heat Exchanger,0.2263,0.6,0.4,False,False
+02.Unmarked_p1_c0156,Reboiler,Heat Exchanger,0.2597,0.6,0.4,False,False
+02.Unmarked_p1_c0156,Cooler,Heat Exchanger,0.3074,0.6,0.4,False,False
+02.Unmarked_p1_c0156,Vessel,Vessel,0.466,0.6,0.4,True,True
+02.Unmarked_p1_c0156,Tank,Vessel,0.466,0.6,0.4,True,False
+02.Unmarked_p1_c0156,Drum,Vessel,0.4466,0.7,0.4,True,False
+02.Unmarked_p1_c0156,Filter,Filter,0.3331,0.6,0.4,False,False
+02.Unmarked_p1_c0156,Strainer,Filter,0.3049,0.6,0.4,False,False
+02.Unmarked_p1_c0156,Compressor,Compressor,0.3472,0.6,0.4,False,False
+02.Unmarked_p1_c0157,Gate Valve,Valve,0.2569,0.6,0.4,False,False
+02.Unmarked_p1_c0157,Globe Valve,Valve,0.1485,0.6,0.4,False,False
+02.Unmarked_p1_c0157,Butterfly Valve,Valve,0.0878,0.6,0.4,False,False
+02.Unmarked_p1_c0157,Check Valve,Valve,0.1542,0.6,0.4,False,False
+02.Unmarked_p1_c0157,Control Valve,Valve,0.2022,0.6,0.4,False,False
+02.Unmarked_p1_c0157,Needle Valve,Valve,0.1273,0.6,0.4,False,False
+02.Unmarked_p1_c0157,Relief Valve,Valve,0.291,0.6,0.4,False,False
+02.Unmarked_p1_c0157,Solenoid Valve,Valve,0.1532,0.6,0.4,False,False
+02.Unmarked_p1_c0157,3-Way Valve,Valve,0.1601,0.6,0.4,False,False
+02.Unmarked_p1_c0157,Diaphragm Valve,Valve,0.1542,0.6,0.4,False,False
+02.Unmarked_p1_c0157,Centrifugal Pump,Pump,0.2109,0.6,0.4,False,False
+02.Unmarked_p1_c0157,Rotary Pump,Pump,0.1946,0.6,0.4,False,False
+02.Unmarked_p1_c0157,Heat Exchanger,Heat Exchanger,0.3185,0.6,0.4,False,False
+02.Unmarked_p1_c0157,Condenser,Heat Exchanger,0.2388,0.6,0.4,False,False
+02.Unmarked_p1_c0157,Reboiler,Heat Exchanger,0.2121,0.6,0.4,False,False
+02.Unmarked_p1_c0157,Cooler,Heat Exchanger,0.2994,0.6,0.4,False,False
+02.Unmarked_p1_c0157,Vessel,Vessel,0.2939,0.6,0.4,False,False
+02.Unmarked_p1_c0157,Tank,Vessel,0.3122,0.6,0.4,False,False
+02.Unmarked_p1_c0157,Drum,Vessel,0.2834,0.6,0.4,False,False
+02.Unmarked_p1_c0157,Filter,Filter,0.2701,0.6,0.4,False,False
+02.Unmarked_p1_c0157,Strainer,Filter,0.3262,0.6,0.4,False,False
+02.Unmarked_p1_c0157,Compressor,Compressor,0.2721,0.6,0.4,False,False
+02.Unmarked_p1_c0158,Gate Valve,Valve,0.3705,0.7,0.4,False,False
+02.Unmarked_p1_c0158,Globe Valve,Valve,0.185,0.6,0.4,False,False
+02.Unmarked_p1_c0158,Butterfly Valve,Valve,0.1166,0.6,0.4,False,False
+02.Unmarked_p1_c0158,Check Valve,Valve,0.2617,0.6,0.4,False,False
+02.Unmarked_p1_c0158,Control Valve,Valve,0.1756,0.6,0.4,False,False
+02.Unmarked_p1_c0158,Needle Valve,Valve,0.1494,0.6,0.4,False,False
+02.Unmarked_p1_c0158,Relief Valve,Valve,0.3176,0.6,0.4,False,False
+02.Unmarked_p1_c0158,Solenoid Valve,Valve,0.173,0.6,0.4,False,False
+02.Unmarked_p1_c0158,3-Way Valve,Valve,0.1991,0.6,0.4,False,False
+02.Unmarked_p1_c0158,Diaphragm Valve,Valve,0.2617,0.6,0.4,False,False
+02.Unmarked_p1_c0158,Centrifugal Pump,Pump,0.2473,0.6,0.4,False,False
+02.Unmarked_p1_c0158,Rotary Pump,Pump,0.2111,0.6,0.4,False,False
+02.Unmarked_p1_c0158,Heat Exchanger,Heat Exchanger,0.4316,0.7,0.4,True,False
+02.Unmarked_p1_c0158,Condenser,Heat Exchanger,0.2342,0.6,0.4,False,False
+02.Unmarked_p1_c0158,Reboiler,Heat Exchanger,0.2527,0.6,0.4,False,False
+02.Unmarked_p1_c0158,Cooler,Heat Exchanger,0.296,0.6,0.4,False,False
+02.Unmarked_p1_c0158,Vessel,Vessel,0.432,0.6,0.4,True,True
+02.Unmarked_p1_c0158,Tank,Vessel,0.432,0.6,0.4,True,False
+02.Unmarked_p1_c0158,Drum,Vessel,0.413,0.7,0.4,True,False
+02.Unmarked_p1_c0158,Filter,Filter,0.3304,0.6,0.4,False,False
+02.Unmarked_p1_c0158,Strainer,Filter,0.2819,0.6,0.4,False,False
+02.Unmarked_p1_c0158,Compressor,Compressor,0.3519,0.6,0.4,False,False
+02.Unmarked_p1_c0160,Gate Valve,Valve,0.3873,0.6,0.4,False,False
+02.Unmarked_p1_c0160,Globe Valve,Valve,0.1806,0.6,0.4,False,False
+02.Unmarked_p1_c0160,Butterfly Valve,Valve,0.1219,0.6,0.4,False,False
+02.Unmarked_p1_c0160,Check Valve,Valve,0.2889,0.6,0.4,False,False
+02.Unmarked_p1_c0160,Control Valve,Valve,0.2355,0.6,0.4,False,False
+02.Unmarked_p1_c0160,Needle Valve,Valve,0.1794,0.6,0.4,False,False
+02.Unmarked_p1_c0160,Relief Valve,Valve,0.3754,0.6,0.4,False,False
+02.Unmarked_p1_c0160,Solenoid Valve,Valve,0.1619,0.6,0.4,False,False
+02.Unmarked_p1_c0160,3-Way Valve,Valve,0.1907,0.6,0.4,False,False
+02.Unmarked_p1_c0160,Diaphragm Valve,Valve,0.2889,0.6,0.4,False,False
+02.Unmarked_p1_c0160,Centrifugal Pump,Pump,0.2686,0.6,0.4,False,False
+02.Unmarked_p1_c0160,Rotary Pump,Pump,0.1948,0.6,0.4,False,False
+02.Unmarked_p1_c0160,Heat Exchanger,Heat Exchanger,0.4602,0.7,0.4,True,True
+02.Unmarked_p1_c0160,Condenser,Heat Exchanger,0.2971,0.7,0.4,False,False
+02.Unmarked_p1_c0160,Reboiler,Heat Exchanger,0.2087,0.6,0.4,False,False
+02.Unmarked_p1_c0160,Cooler,Heat Exchanger,0.3206,0.6,0.4,False,False
+02.Unmarked_p1_c0160,Vessel,Vessel,0.4504,0.6,0.4,True,False
+02.Unmarked_p1_c0160,Tank,Vessel,0.4485,0.6,0.4,True,False
+02.Unmarked_p1_c0160,Drum,Vessel,0.3971,0.6,0.4,False,False
+02.Unmarked_p1_c0160,Filter,Filter,0.385,0.6,0.4,False,False
+02.Unmarked_p1_c0160,Strainer,Filter,0.3654,0.7,0.4,False,False
+02.Unmarked_p1_c0160,Compressor,Compressor,0.3758,0.6,0.4,False,False
+02.Unmarked_p1_c0161,Gate Valve,Valve,0.2118,0.6,0.4,False,False
+02.Unmarked_p1_c0161,Globe Valve,Valve,0.231,0.6,0.4,False,False
+02.Unmarked_p1_c0161,Butterfly Valve,Valve,0.1698,0.7,0.4,False,False
+02.Unmarked_p1_c0161,Check Valve,Valve,0.1714,0.7,0.4,False,False
+02.Unmarked_p1_c0161,Control Valve,Valve,0.1822,0.6,0.4,False,False
+02.Unmarked_p1_c0161,Needle Valve,Valve,0.1893,0.6,0.4,False,False
+02.Unmarked_p1_c0161,Relief Valve,Valve,0.1959,0.6,0.4,False,False
+02.Unmarked_p1_c0161,Solenoid Valve,Valve,0.1714,0.7,0.4,False,False
+02.Unmarked_p1_c0161,3-Way Valve,Valve,0.1641,0.6,0.4,False,False
+02.Unmarked_p1_c0161,Diaphragm Valve,Valve,0.1341,0.7,0.4,False,False
+02.Unmarked_p1_c0161,Centrifugal Pump,Pump,0.2012,0.6,0.4,False,False
+02.Unmarked_p1_c0161,Rotary Pump,Pump,0.1499,0.6,0.4,False,False
+02.Unmarked_p1_c0161,Heat Exchanger,Heat Exchanger,0.2117,0.6,0.4,False,False
+02.Unmarked_p1_c0161,Condenser,Heat Exchanger,0.2024,0.6,0.4,False,False
+02.Unmarked_p1_c0161,Reboiler,Heat Exchanger,0.203,0.6,0.4,False,False
+02.Unmarked_p1_c0161,Cooler,Heat Exchanger,0.1929,0.6,0.4,False,False
+02.Unmarked_p1_c0161,Vessel,Vessel,0.2358,0.6,0.4,False,False
+02.Unmarked_p1_c0161,Tank,Vessel,0.2266,0.7,0.4,False,False
+02.Unmarked_p1_c0161,Drum,Vessel,0.2077,0.6,0.4,False,False
+02.Unmarked_p1_c0161,Filter,Filter,0.2583,0.6,0.4,False,False
+02.Unmarked_p1_c0161,Strainer,Filter,0.2282,0.6,0.4,False,False
+02.Unmarked_p1_c0161,Compressor,Compressor,0.224,0.6,0.4,False,False
+02.Unmarked_p1_c0162,Gate Valve,Valve,0.2448,0.6,0.4,False,False
+02.Unmarked_p1_c0162,Globe Valve,Valve,0.1831,0.6,0.4,False,False
+02.Unmarked_p1_c0162,Butterfly Valve,Valve,0.1518,0.6,0.4,False,False
+02.Unmarked_p1_c0162,Check Valve,Valve,0.1497,0.6,0.4,False,False
+02.Unmarked_p1_c0162,Control Valve,Valve,0.1695,0.6,0.4,False,False
+02.Unmarked_p1_c0162,Needle Valve,Valve,0.1575,0.6,0.4,False,False
+02.Unmarked_p1_c0162,Relief Valve,Valve,0.1802,0.6,0.4,False,False
+02.Unmarked_p1_c0162,Solenoid Valve,Valve,0.1497,0.6,0.4,False,False
+02.Unmarked_p1_c0162,3-Way Valve,Valve,0.1683,0.6,0.4,False,False
+02.Unmarked_p1_c0162,Diaphragm Valve,Valve,0.126,0.6,0.4,False,False
+02.Unmarked_p1_c0162,Centrifugal Pump,Pump,0.2026,0.6,0.4,False,False
+02.Unmarked_p1_c0162,Rotary Pump,Pump,0.1469,0.7,0.4,False,False
+02.Unmarked_p1_c0162,Heat Exchanger,Heat Exchanger,0.2125,0.6,0.4,False,False
+02.Unmarked_p1_c0162,Condenser,Heat Exchanger,0.1626,0.6,0.4,False,False
+02.Unmarked_p1_c0162,Reboiler,Heat Exchanger,0.1648,0.7,0.4,False,False
+02.Unmarked_p1_c0162,Cooler,Heat Exchanger,0.1768,0.6,0.4,False,False
+02.Unmarked_p1_c0162,Vessel,Vessel,0.2655,0.6,0.4,False,False
+02.Unmarked_p1_c0162,Tank,Vessel,0.2275,0.6,0.4,False,False
+02.Unmarked_p1_c0162,Drum,Vessel,0.1672,0.6,0.4,False,False
+02.Unmarked_p1_c0162,Filter,Filter,0.2078,0.6,0.4,False,False
+02.Unmarked_p1_c0162,Strainer,Filter,0.1806,0.6,0.4,False,False
+02.Unmarked_p1_c0162,Compressor,Compressor,0.2026,0.6,0.4,False,False
+02.Unmarked_p1_c0163,Gate Valve,Valve,0.3873,0.6,0.4,False,False
+02.Unmarked_p1_c0163,Globe Valve,Valve,0.1806,0.6,0.4,False,False
+02.Unmarked_p1_c0163,Butterfly Valve,Valve,0.1323,0.6,0.4,False,False
+02.Unmarked_p1_c0163,Check Valve,Valve,0.2889,0.6,0.4,False,False
+02.Unmarked_p1_c0163,Control Valve,Valve,0.1938,0.6,0.4,False,False
+02.Unmarked_p1_c0163,Needle Valve,Valve,0.176,0.6,0.4,False,False
+02.Unmarked_p1_c0163,Relief Valve,Valve,0.3754,0.6,0.4,False,False
+02.Unmarked_p1_c0163,Solenoid Valve,Valve,0.1649,0.6,0.4,False,False
+02.Unmarked_p1_c0163,3-Way Valve,Valve,0.1907,0.6,0.4,False,False
+02.Unmarked_p1_c0163,Diaphragm Valve,Valve,0.2889,0.6,0.4,False,False
+02.Unmarked_p1_c0163,Centrifugal Pump,Pump,0.2686,0.6,0.4,False,False
+02.Unmarked_p1_c0163,Rotary Pump,Pump,0.1925,0.6,0.4,False,False
+02.Unmarked_p1_c0163,Heat Exchanger,Heat Exchanger,0.4602,0.7,0.4,True,True
+02.Unmarked_p1_c0163,Condenser,Heat Exchanger,0.2971,0.7,0.4,False,False
+02.Unmarked_p1_c0163,Reboiler,Heat Exchanger,0.2128,0.6,0.4,False,False
+02.Unmarked_p1_c0163,Cooler,Heat Exchanger,0.3206,0.6,0.4,False,False
+02.Unmarked_p1_c0163,Vessel,Vessel,0.4504,0.6,0.4,True,False
+02.Unmarked_p1_c0163,Tank,Vessel,0.4485,0.6,0.4,True,False
+02.Unmarked_p1_c0163,Drum,Vessel,0.3971,0.6,0.4,False,False
+02.Unmarked_p1_c0163,Filter,Filter,0.385,0.6,0.4,False,False
+02.Unmarked_p1_c0163,Strainer,Filter,0.3654,0.7,0.4,False,False
+02.Unmarked_p1_c0163,Compressor,Compressor,0.3758,0.6,0.4,False,False
+02.Unmarked_p1_c0164,Gate Valve,Valve,0.2192,0.6,0.4,False,False
+02.Unmarked_p1_c0164,Globe Valve,Valve,0.2232,0.6,0.4,False,False
+02.Unmarked_p1_c0164,Butterfly Valve,Valve,0.2045,0.6,0.4,False,False
+02.Unmarked_p1_c0164,Check Valve,Valve,0.1858,0.6,0.4,False,False
+02.Unmarked_p1_c0164,Control Valve,Valve,0.1744,0.6,0.4,False,False
+02.Unmarked_p1_c0164,Needle Valve,Valve,0.181,0.6,0.4,False,False
+02.Unmarked_p1_c0164,Relief Valve,Valve,0.1936,0.6,0.4,False,False
+02.Unmarked_p1_c0164,Solenoid Valve,Valve,0.1858,0.6,0.4,False,False
+02.Unmarked_p1_c0164,3-Way Valve,Valve,0.1848,0.7,0.4,False,False
+02.Unmarked_p1_c0164,Diaphragm Valve,Valve,0.1747,0.6,0.4,False,False
+02.Unmarked_p1_c0164,Centrifugal Pump,Pump,0.2284,0.7,0.4,False,False
+02.Unmarked_p1_c0164,Rotary Pump,Pump,0.1855,0.7,0.4,False,False
+02.Unmarked_p1_c0164,Heat Exchanger,Heat Exchanger,0.2355,0.6,0.4,False,False
+02.Unmarked_p1_c0164,Condenser,Heat Exchanger,0.194,0.7,0.4,False,False
+02.Unmarked_p1_c0164,Reboiler,Heat Exchanger,0.2007,0.6,0.4,False,False
+02.Unmarked_p1_c0164,Cooler,Heat Exchanger,0.2774,0.6,0.4,False,False
+02.Unmarked_p1_c0164,Vessel,Vessel,0.214,0.6,0.4,False,False
+02.Unmarked_p1_c0164,Tank,Vessel,0.2198,0.6,0.4,False,False
+02.Unmarked_p1_c0164,Drum,Vessel,0.214,0.6,0.4,False,False
+02.Unmarked_p1_c0164,Filter,Filter,0.2149,0.6,0.4,False,False
+02.Unmarked_p1_c0164,Strainer,Filter,0.2429,0.6,0.4,False,False
+02.Unmarked_p1_c0164,Compressor,Compressor,0.2196,0.6,0.4,False,False
+02.Unmarked_p1_c0165,Gate Valve,Valve,0.2144,0.6,0.4,False,False
+02.Unmarked_p1_c0165,Globe Valve,Valve,0.2371,0.6,0.4,False,False
+02.Unmarked_p1_c0165,Butterfly Valve,Valve,0.2105,0.6,0.4,False,False
+02.Unmarked_p1_c0165,Check Valve,Valve,0.1705,0.6,0.4,False,False
+02.Unmarked_p1_c0165,Control Valve,Valve,0.1807,0.6,0.4,False,False
+02.Unmarked_p1_c0165,Needle Valve,Valve,0.1716,0.6,0.4,False,False
+02.Unmarked_p1_c0165,Relief Valve,Valve,0.2069,0.6,0.4,False,False
+02.Unmarked_p1_c0165,Solenoid Valve,Valve,0.1699,0.6,0.4,False,False
+02.Unmarked_p1_c0165,3-Way Valve,Valve,0.1789,0.7,0.4,False,False
+02.Unmarked_p1_c0165,Diaphragm Valve,Valve,0.1705,0.6,0.4,False,False
+02.Unmarked_p1_c0165,Centrifugal Pump,Pump,0.2207,0.7,0.4,False,False
+02.Unmarked_p1_c0165,Rotary Pump,Pump,0.2084,0.7,0.4,False,False
+02.Unmarked_p1_c0165,Heat Exchanger,Heat Exchanger,0.2329,0.6,0.4,False,False
+02.Unmarked_p1_c0165,Condenser,Heat Exchanger,0.196,0.6,0.4,False,False
+02.Unmarked_p1_c0165,Reboiler,Heat Exchanger,0.2008,0.6,0.4,False,False
+02.Unmarked_p1_c0165,Cooler,Heat Exchanger,0.2769,0.6,0.4,False,False
+02.Unmarked_p1_c0165,Vessel,Vessel,0.2175,0.6,0.4,False,False
+02.Unmarked_p1_c0165,Tank,Vessel,0.2139,0.6,0.4,False,False
+02.Unmarked_p1_c0165,Drum,Vessel,0.2175,0.6,0.4,False,False
+02.Unmarked_p1_c0165,Filter,Filter,0.2216,0.6,0.4,False,False
+02.Unmarked_p1_c0165,Strainer,Filter,0.2324,0.6,0.4,False,False
+02.Unmarked_p1_c0165,Compressor,Compressor,0.2214,0.6,0.4,False,False
+02.Unmarked_p1_c0166,Gate Valve,Valve,0.2164,0.6,0.4,False,False
+02.Unmarked_p1_c0166,Globe Valve,Valve,0.2459,0.6,0.4,False,False
+02.Unmarked_p1_c0166,Butterfly Valve,Valve,0.2098,0.6,0.4,False,False
+02.Unmarked_p1_c0166,Check Valve,Valve,0.182,0.6,0.4,False,False
+02.Unmarked_p1_c0166,Control Valve,Valve,0.1725,0.6,0.4,False,False
+02.Unmarked_p1_c0166,Needle Valve,Valve,0.1884,0.6,0.4,False,False
+02.Unmarked_p1_c0166,Relief Valve,Valve,0.231,0.6,0.4,False,False
+02.Unmarked_p1_c0166,Solenoid Valve,Valve,0.182,0.6,0.4,False,False
+02.Unmarked_p1_c0166,3-Way Valve,Valve,0.1868,0.7,0.4,False,False
+02.Unmarked_p1_c0166,Diaphragm Valve,Valve,0.1704,0.6,0.4,False,False
+02.Unmarked_p1_c0166,Centrifugal Pump,Pump,0.2216,0.6,0.4,False,False
+02.Unmarked_p1_c0166,Rotary Pump,Pump,0.1983,0.7,0.4,False,False
+02.Unmarked_p1_c0166,Heat Exchanger,Heat Exchanger,0.2645,0.6,0.4,False,False
+02.Unmarked_p1_c0166,Condenser,Heat Exchanger,0.1928,0.6,0.4,False,False
+02.Unmarked_p1_c0166,Reboiler,Heat Exchanger,0.2011,0.6,0.4,False,False
+02.Unmarked_p1_c0166,Cooler,Heat Exchanger,0.2804,0.6,0.4,False,False
+02.Unmarked_p1_c0166,Vessel,Vessel,0.2267,0.6,0.4,False,False
+02.Unmarked_p1_c0166,Tank,Vessel,0.2092,0.6,0.4,False,False
+02.Unmarked_p1_c0166,Drum,Vessel,0.2267,0.6,0.4,False,False
+02.Unmarked_p1_c0166,Filter,Filter,0.2111,0.6,0.4,False,False
+02.Unmarked_p1_c0166,Strainer,Filter,0.2681,0.6,0.4,False,False
+02.Unmarked_p1_c0166,Compressor,Compressor,0.2411,0.6,0.4,False,False
+02.Unmarked_p1_c0168,Gate Valve,Valve,0.3505,0.6,0.4,False,False
+02.Unmarked_p1_c0168,Globe Valve,Valve,0.165,0.6,0.4,False,False
+02.Unmarked_p1_c0168,Butterfly Valve,Valve,0.1278,0.6,0.4,False,False
+02.Unmarked_p1_c0168,Check Valve,Valve,0.2311,0.6,0.4,False,False
+02.Unmarked_p1_c0168,Control Valve,Valve,0.1977,0.6,0.4,False,False
+02.Unmarked_p1_c0168,Needle Valve,Valve,0.1717,0.6,0.4,False,False
+02.Unmarked_p1_c0168,Relief Valve,Valve,0.3257,0.6,0.4,False,False
+02.Unmarked_p1_c0168,Solenoid Valve,Valve,0.1457,0.6,0.4,False,False
+02.Unmarked_p1_c0168,3-Way Valve,Valve,0.2157,0.6,0.4,False,False
+02.Unmarked_p1_c0168,Diaphragm Valve,Valve,0.2311,0.6,0.4,False,False
+02.Unmarked_p1_c0168,Centrifugal Pump,Pump,0.237,0.6,0.4,False,False
+02.Unmarked_p1_c0168,Rotary Pump,Pump,0.1835,0.6,0.4,False,False
+02.Unmarked_p1_c0168,Heat Exchanger,Heat Exchanger,0.3279,0.7,0.4,False,False
+02.Unmarked_p1_c0168,Condenser,Heat Exchanger,0.2623,0.7,0.4,False,False
+02.Unmarked_p1_c0168,Reboiler,Heat Exchanger,0.2072,0.6,0.4,False,False
+02.Unmarked_p1_c0168,Cooler,Heat Exchanger,0.296,0.6,0.4,False,False
+02.Unmarked_p1_c0168,Vessel,Vessel,0.3353,0.6,0.4,False,False
+02.Unmarked_p1_c0168,Tank,Vessel,0.3353,0.6,0.4,False,False
+02.Unmarked_p1_c0168,Drum,Vessel,0.364,0.6,0.4,False,False
+02.Unmarked_p1_c0168,Filter,Filter,0.3024,0.6,0.4,False,False
+02.Unmarked_p1_c0168,Strainer,Filter,0.2412,0.6,0.4,False,False
+02.Unmarked_p1_c0168,Compressor,Compressor,0.2936,0.6,0.4,False,False
+02.Unmarked_p1_c0169,Gate Valve,Valve,0.3873,0.6,0.4,False,False
+02.Unmarked_p1_c0169,Globe Valve,Valve,0.1806,0.6,0.4,False,False
+02.Unmarked_p1_c0169,Butterfly Valve,Valve,0.1308,0.6,0.4,False,False
+02.Unmarked_p1_c0169,Check Valve,Valve,0.2889,0.6,0.4,False,False
+02.Unmarked_p1_c0169,Control Valve,Valve,0.1927,0.6,0.4,False,False
+02.Unmarked_p1_c0169,Needle Valve,Valve,0.1743,0.6,0.4,False,False
+02.Unmarked_p1_c0169,Relief Valve,Valve,0.3754,0.6,0.4,False,False
+02.Unmarked_p1_c0169,Solenoid Valve,Valve,0.163,0.6,0.4,False,False
+02.Unmarked_p1_c0169,3-Way Valve,Valve,0.1907,0.6,0.4,False,False
+02.Unmarked_p1_c0169,Diaphragm Valve,Valve,0.2889,0.6,0.4,False,False
+02.Unmarked_p1_c0169,Centrifugal Pump,Pump,0.2686,0.6,0.4,False,False
+02.Unmarked_p1_c0169,Rotary Pump,Pump,0.1849,0.6,0.4,False,False
+02.Unmarked_p1_c0169,Heat Exchanger,Heat Exchanger,0.4602,0.7,0.4,True,True
+02.Unmarked_p1_c0169,Condenser,Heat Exchanger,0.2971,0.7,0.4,False,False
+02.Unmarked_p1_c0169,Reboiler,Heat Exchanger,0.2102,0.6,0.4,False,False
+02.Unmarked_p1_c0169,Cooler,Heat Exchanger,0.3206,0.6,0.4,False,False
+02.Unmarked_p1_c0169,Vessel,Vessel,0.4504,0.6,0.4,True,False
+02.Unmarked_p1_c0169,Tank,Vessel,0.4485,0.6,0.4,True,False
+02.Unmarked_p1_c0169,Drum,Vessel,0.3971,0.6,0.4,False,False
+02.Unmarked_p1_c0169,Filter,Filter,0.385,0.6,0.4,False,False
+02.Unmarked_p1_c0169,Strainer,Filter,0.3654,0.7,0.4,False,False
+02.Unmarked_p1_c0169,Compressor,Compressor,0.3758,0.6,0.4,False,False
+02.Unmarked_p1_c0177,Gate Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0177,Globe Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0177,Butterfly Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0177,Check Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0177,Control Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0177,Needle Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0177,Relief Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0177,Solenoid Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0177,3-Way Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0177,Diaphragm Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0177,Centrifugal Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0177,Rotary Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0177,Heat Exchanger,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0177,Condenser,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0177,Reboiler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0177,Cooler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0177,Vessel,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0177,Tank,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0177,Drum,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0177,Filter,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0177,Strainer,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0177,Compressor,Compressor,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0179,Gate Valve,Valve,0.2089,0.6,0.4,False,False
+02.Unmarked_p1_c0179,Globe Valve,Valve,0.218,0.6,0.4,False,False
+02.Unmarked_p1_c0179,Butterfly Valve,Valve,0.1892,0.6,0.4,False,False
+02.Unmarked_p1_c0179,Check Valve,Valve,0.2338,0.6,0.4,False,False
+02.Unmarked_p1_c0179,Control Valve,Valve,0.2204,0.6,0.4,False,False
+02.Unmarked_p1_c0179,Needle Valve,Valve,0.2716,0.6,0.4,False,False
+02.Unmarked_p1_c0179,Relief Valve,Valve,0.2527,0.6,0.4,False,False
+02.Unmarked_p1_c0179,Solenoid Valve,Valve,0.2338,0.6,0.4,False,False
+02.Unmarked_p1_c0179,3-Way Valve,Valve,0.2118,0.6,0.4,False,False
+02.Unmarked_p1_c0179,Diaphragm Valve,Valve,0.1637,0.6,0.4,False,False
+02.Unmarked_p1_c0179,Centrifugal Pump,Pump,0.2598,0.6,0.4,False,False
+02.Unmarked_p1_c0179,Rotary Pump,Pump,0.2657,0.6,0.4,False,False
+02.Unmarked_p1_c0179,Heat Exchanger,Heat Exchanger,0.3486,0.6,0.4,False,False
+02.Unmarked_p1_c0179,Condenser,Heat Exchanger,0.2603,0.6,0.4,False,False
+02.Unmarked_p1_c0179,Reboiler,Heat Exchanger,0.2562,0.6,0.4,False,False
+02.Unmarked_p1_c0179,Cooler,Heat Exchanger,0.2804,0.6,0.4,False,False
+02.Unmarked_p1_c0179,Vessel,Vessel,0.2854,0.6,0.4,False,False
+02.Unmarked_p1_c0179,Tank,Vessel,0.2634,0.6,0.4,False,False
+02.Unmarked_p1_c0179,Drum,Vessel,0.2854,0.6,0.4,False,False
+02.Unmarked_p1_c0179,Filter,Filter,0.2847,0.6,0.4,False,False
+02.Unmarked_p1_c0179,Strainer,Filter,0.2641,0.6,0.4,False,False
+02.Unmarked_p1_c0179,Compressor,Compressor,0.3626,0.6,0.4,False,False
+02.Unmarked_p1_c0184,Gate Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0184,Globe Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0184,Butterfly Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0184,Check Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0184,Control Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0184,Needle Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0184,Relief Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0184,Solenoid Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0184,3-Way Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0184,Diaphragm Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0184,Centrifugal Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0184,Rotary Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0184,Heat Exchanger,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0184,Condenser,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0184,Reboiler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0184,Cooler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0184,Vessel,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0184,Tank,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0184,Drum,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0184,Filter,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0184,Strainer,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0184,Compressor,Compressor,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0188,Gate Valve,Valve,0.2548,0.6,0.4,False,False
+02.Unmarked_p1_c0188,Globe Valve,Valve,0.2827,0.6,0.4,False,False
+02.Unmarked_p1_c0188,Butterfly Valve,Valve,0.1807,0.6,0.4,False,False
+02.Unmarked_p1_c0188,Check Valve,Valve,0.2174,0.9,0.4,False,False
+02.Unmarked_p1_c0188,Control Valve,Valve,0.2182,0.8,0.4,False,False
+02.Unmarked_p1_c0188,Needle Valve,Valve,0.2464,0.6,0.4,False,False
+02.Unmarked_p1_c0188,Relief Valve,Valve,0.2161,0.7,0.4,False,False
+02.Unmarked_p1_c0188,Solenoid Valve,Valve,0.2174,0.9,0.4,False,False
+02.Unmarked_p1_c0188,3-Way Valve,Valve,0.2395,0.6,0.4,False,False
+02.Unmarked_p1_c0188,Diaphragm Valve,Valve,0.1627,0.6,0.4,False,False
+02.Unmarked_p1_c0188,Centrifugal Pump,Pump,0.2932,0.9,0.4,False,False
+02.Unmarked_p1_c0188,Rotary Pump,Pump,0.2851,0.6,0.4,False,False
+02.Unmarked_p1_c0188,Heat Exchanger,Heat Exchanger,0.372,0.6,0.4,False,False
+02.Unmarked_p1_c0188,Condenser,Heat Exchanger,0.2842,0.6,0.4,False,False
+02.Unmarked_p1_c0188,Reboiler,Heat Exchanger,0.2507,0.8,0.4,False,False
+02.Unmarked_p1_c0188,Cooler,Heat Exchanger,0.311,0.6,0.4,False,False
+02.Unmarked_p1_c0188,Vessel,Vessel,0.3041,0.8,0.4,False,False
+02.Unmarked_p1_c0188,Tank,Vessel,0.2618,0.8,0.4,False,False
+02.Unmarked_p1_c0188,Drum,Vessel,0.2822,0.9,0.4,False,False
+02.Unmarked_p1_c0188,Filter,Filter,0.3241,0.6,0.4,False,False
+02.Unmarked_p1_c0188,Strainer,Filter,0.2719,0.6,0.4,False,False
+02.Unmarked_p1_c0188,Compressor,Compressor,0.4509,0.9,0.4,True,True
+02.Unmarked_p1_c0191,Gate Valve,Valve,0.2174,0.6,0.4,False,False
+02.Unmarked_p1_c0191,Globe Valve,Valve,0.1958,0.6,0.4,False,False
+02.Unmarked_p1_c0191,Butterfly Valve,Valve,0.1641,0.7,0.4,False,False
+02.Unmarked_p1_c0191,Check Valve,Valve,0.1757,0.6,0.4,False,False
+02.Unmarked_p1_c0191,Control Valve,Valve,0.2024,0.6,0.4,False,False
+02.Unmarked_p1_c0191,Needle Valve,Valve,0.1947,0.6,0.4,False,False
+02.Unmarked_p1_c0191,Relief Valve,Valve,0.238,0.6,0.4,False,False
+02.Unmarked_p1_c0191,Solenoid Valve,Valve,0.1757,0.6,0.4,False,False
+02.Unmarked_p1_c0191,3-Way Valve,Valve,0.1884,0.6,0.4,False,False
+02.Unmarked_p1_c0191,Diaphragm Valve,Valve,0.1673,0.7,0.4,False,False
+02.Unmarked_p1_c0191,Centrifugal Pump,Pump,0.2955,0.6,0.4,False,False
+02.Unmarked_p1_c0191,Rotary Pump,Pump,0.2064,0.6,0.4,False,False
+02.Unmarked_p1_c0191,Heat Exchanger,Heat Exchanger,0.3007,0.7,0.4,False,False
+02.Unmarked_p1_c0191,Condenser,Heat Exchanger,0.2094,0.6,0.4,False,False
+02.Unmarked_p1_c0191,Reboiler,Heat Exchanger,0.2237,0.6,0.4,False,False
+02.Unmarked_p1_c0191,Cooler,Heat Exchanger,0.279,0.6,0.4,False,False
+02.Unmarked_p1_c0191,Vessel,Vessel,0.3069,0.6,0.4,False,False
+02.Unmarked_p1_c0191,Tank,Vessel,0.2786,0.6,0.4,False,False
+02.Unmarked_p1_c0191,Drum,Vessel,0.3401,0.6,0.4,False,False
+02.Unmarked_p1_c0191,Filter,Filter,0.2888,0.6,0.4,False,False
+02.Unmarked_p1_c0191,Strainer,Filter,0.319,0.6,0.4,False,False
+02.Unmarked_p1_c0191,Compressor,Compressor,0.308,0.7,0.4,False,False
+02.Unmarked_p1_c0192,Gate Valve,Valve,0.2288,0.6,0.4,False,False
+02.Unmarked_p1_c0192,Globe Valve,Valve,0.1774,0.6,0.4,False,False
+02.Unmarked_p1_c0192,Butterfly Valve,Valve,0.1124,0.6,0.4,False,False
+02.Unmarked_p1_c0192,Check Valve,Valve,0.1406,0.6,0.4,False,False
+02.Unmarked_p1_c0192,Control Valve,Valve,0.1694,0.6,0.4,False,False
+02.Unmarked_p1_c0192,Needle Valve,Valve,0.197,0.6,0.4,False,False
+02.Unmarked_p1_c0192,Relief Valve,Valve,0.2055,0.6,0.4,False,False
+02.Unmarked_p1_c0192,Solenoid Valve,Valve,0.1406,0.6,0.4,False,False
+02.Unmarked_p1_c0192,3-Way Valve,Valve,0.1565,0.6,0.4,False,False
+02.Unmarked_p1_c0192,Diaphragm Valve,Valve,0.1259,0.6,0.4,False,False
+02.Unmarked_p1_c0192,Centrifugal Pump,Pump,0.2406,0.6,0.4,False,False
+02.Unmarked_p1_c0192,Rotary Pump,Pump,0.1759,0.6,0.4,False,False
+02.Unmarked_p1_c0192,Heat Exchanger,Heat Exchanger,0.2958,0.6,0.4,False,False
+02.Unmarked_p1_c0192,Condenser,Heat Exchanger,0.1943,0.6,0.4,False,False
+02.Unmarked_p1_c0192,Reboiler,Heat Exchanger,0.2219,0.6,0.4,False,False
+02.Unmarked_p1_c0192,Cooler,Heat Exchanger,0.1938,0.6,0.4,False,False
+02.Unmarked_p1_c0192,Vessel,Vessel,0.3355,0.6,0.4,False,False
+02.Unmarked_p1_c0192,Tank,Vessel,0.2998,0.6,0.4,False,False
+02.Unmarked_p1_c0192,Drum,Vessel,0.28,0.6,0.4,False,False
+02.Unmarked_p1_c0192,Filter,Filter,0.2637,0.6,0.4,False,False
+02.Unmarked_p1_c0192,Strainer,Filter,0.2432,0.6,0.4,False,False
+02.Unmarked_p1_c0192,Compressor,Compressor,0.2596,0.6,0.4,False,False
+02.Unmarked_p1_c0194,Gate Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0194,Globe Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0194,Butterfly Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0194,Check Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0194,Control Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0194,Needle Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0194,Relief Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0194,Solenoid Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0194,3-Way Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0194,Diaphragm Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0194,Centrifugal Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0194,Rotary Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0194,Heat Exchanger,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0194,Condenser,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0194,Reboiler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0194,Cooler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0194,Vessel,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0194,Tank,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0194,Drum,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0194,Filter,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0194,Strainer,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0194,Compressor,Compressor,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0195,Gate Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0195,Globe Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0195,Butterfly Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0195,Check Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0195,Control Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0195,Needle Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0195,Relief Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0195,Solenoid Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0195,3-Way Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0195,Diaphragm Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0195,Centrifugal Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0195,Rotary Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0195,Heat Exchanger,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0195,Condenser,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0195,Reboiler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0195,Cooler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0195,Vessel,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0195,Tank,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0195,Drum,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0195,Filter,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0195,Strainer,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0195,Compressor,Compressor,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0197,Gate Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0197,Globe Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0197,Butterfly Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0197,Check Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0197,Control Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0197,Needle Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0197,Relief Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0197,Solenoid Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0197,3-Way Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0197,Diaphragm Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0197,Centrifugal Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0197,Rotary Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0197,Heat Exchanger,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0197,Condenser,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0197,Reboiler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0197,Cooler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0197,Vessel,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0197,Tank,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0197,Drum,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0197,Filter,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0197,Strainer,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0197,Compressor,Compressor,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0208,Gate Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0208,Globe Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0208,Butterfly Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0208,Check Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0208,Control Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0208,Needle Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0208,Relief Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0208,Solenoid Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0208,3-Way Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0208,Diaphragm Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0208,Centrifugal Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0208,Rotary Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0208,Heat Exchanger,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0208,Condenser,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0208,Reboiler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0208,Cooler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0208,Vessel,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0208,Tank,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0208,Drum,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0208,Filter,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0208,Strainer,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0208,Compressor,Compressor,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0209,Gate Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0209,Globe Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0209,Butterfly Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0209,Check Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0209,Control Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0209,Needle Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0209,Relief Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0209,Solenoid Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0209,3-Way Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0209,Diaphragm Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0209,Centrifugal Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0209,Rotary Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0209,Heat Exchanger,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0209,Condenser,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0209,Reboiler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0209,Cooler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0209,Vessel,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0209,Tank,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0209,Drum,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0209,Filter,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0209,Strainer,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0209,Compressor,Compressor,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0214,Gate Valve,Valve,0.2075,0.6,0.4,False,False
+02.Unmarked_p1_c0214,Globe Valve,Valve,0.1879,0.6,0.4,False,False
+02.Unmarked_p1_c0214,Butterfly Valve,Valve,0.1545,0.6,0.4,False,False
+02.Unmarked_p1_c0214,Check Valve,Valve,0.2772,0.6,0.4,False,False
+02.Unmarked_p1_c0214,Control Valve,Valve,0.131,0.6,0.4,False,False
+02.Unmarked_p1_c0214,Needle Valve,Valve,0.2426,0.6,0.4,False,False
+02.Unmarked_p1_c0214,Relief Valve,Valve,0.2184,0.6,0.4,False,False
+02.Unmarked_p1_c0214,Solenoid Valve,Valve,0.2772,0.6,0.4,False,False
+02.Unmarked_p1_c0214,3-Way Valve,Valve,0.165,0.6,0.4,False,False
+02.Unmarked_p1_c0214,Diaphragm Valve,Valve,0.1896,0.6,0.4,False,False
+02.Unmarked_p1_c0214,Centrifugal Pump,Pump,0.2201,0.6,0.4,False,False
+02.Unmarked_p1_c0214,Rotary Pump,Pump,0.0954,0.6,0.4,False,False
+02.Unmarked_p1_c0214,Heat Exchanger,Heat Exchanger,0.2144,0.6,0.4,False,False
+02.Unmarked_p1_c0214,Condenser,Heat Exchanger,0.189,0.6,0.4,False,False
+02.Unmarked_p1_c0214,Reboiler,Heat Exchanger,0.181,0.6,0.4,False,False
+02.Unmarked_p1_c0214,Cooler,Heat Exchanger,0.247,0.6,0.4,False,False
+02.Unmarked_p1_c0214,Vessel,Vessel,0.2747,0.6,0.4,False,False
+02.Unmarked_p1_c0214,Tank,Vessel,0.2747,0.6,0.4,False,False
+02.Unmarked_p1_c0214,Drum,Vessel,0.233,0.6,0.4,False,False
+02.Unmarked_p1_c0214,Filter,Filter,0.2591,0.6,0.4,False,False
+02.Unmarked_p1_c0214,Strainer,Filter,0.264,0.6,0.4,False,False
+02.Unmarked_p1_c0214,Compressor,Compressor,0.2202,0.6,0.4,False,False
+02.Unmarked_p1_c0216,Gate Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0216,Globe Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0216,Butterfly Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0216,Check Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0216,Control Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0216,Needle Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0216,Relief Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0216,Solenoid Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0216,3-Way Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0216,Diaphragm Valve,Valve,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0216,Centrifugal Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0216,Rotary Pump,Pump,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0216,Heat Exchanger,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0216,Condenser,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0216,Reboiler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0216,Cooler,Heat Exchanger,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0216,Vessel,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0216,Tank,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0216,Drum,Vessel,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0216,Filter,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0216,Strainer,Filter,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0216,Compressor,Compressor,0.0,1.0,0.4,False,False
+02.Unmarked_p1_c0217,Gate Valve,Valve,0.2018,0.6,0.4,False,False
+02.Unmarked_p1_c0217,Globe Valve,Valve,0.141,0.6,0.4,False,False
+02.Unmarked_p1_c0217,Butterfly Valve,Valve,0.1012,0.7,0.4,False,False
+02.Unmarked_p1_c0217,Check Valve,Valve,0.1614,0.6,0.4,False,False
+02.Unmarked_p1_c0217,Control Valve,Valve,0.1419,0.6,0.4,False,False
+02.Unmarked_p1_c0217,Needle Valve,Valve,0.1125,0.6,0.4,False,False
+02.Unmarked_p1_c0217,Relief Valve,Valve,0.2083,0.6,0.4,False,False
+02.Unmarked_p1_c0217,Solenoid Valve,Valve,0.1614,0.6,0.4,False,False
+02.Unmarked_p1_c0217,3-Way Valve,Valve,0.1188,0.6,0.4,False,False
+02.Unmarked_p1_c0217,Diaphragm Valve,Valve,0.1608,0.6,0.4,False,False
+02.Unmarked_p1_c0217,Centrifugal Pump,Pump,0.1919,0.7,0.4,False,False
+02.Unmarked_p1_c0217,Rotary Pump,Pump,0.2401,0.7,0.4,False,False
+02.Unmarked_p1_c0217,Heat Exchanger,Heat Exchanger,0.2422,0.7,0.4,False,False
+02.Unmarked_p1_c0217,Condenser,Heat Exchanger,0.1742,0.7,0.4,False,False
+02.Unmarked_p1_c0217,Reboiler,Heat Exchanger,0.2142,0.6,0.4,False,False
+02.Unmarked_p1_c0217,Cooler,Heat Exchanger,0.1857,0.6,0.4,False,False
+02.Unmarked_p1_c0217,Vessel,Vessel,0.2141,0.6,0.4,False,False
+02.Unmarked_p1_c0217,Tank,Vessel,0.2374,0.7,0.4,False,False
+02.Unmarked_p1_c0217,Drum,Vessel,0.2714,0.7,0.4,False,False
+02.Unmarked_p1_c0217,Filter,Filter,0.2652,0.6,0.4,False,False
+02.Unmarked_p1_c0217,Strainer,Filter,0.2503,0.6,0.4,False,False
+02.Unmarked_p1_c0217,Compressor,Compressor,0.2589,0.6,0.4,False,False
+02.Unmarked_p1_c0218,Gate Valve,Valve,0.2234,0.6,0.4,False,False
+02.Unmarked_p1_c0218,Globe Valve,Valve,0.1448,0.6,0.4,False,False
+02.Unmarked_p1_c0218,Butterfly Valve,Valve,0.1076,0.7,0.4,False,False
+02.Unmarked_p1_c0218,Check Valve,Valve,0.1644,0.6,0.4,False,False
+02.Unmarked_p1_c0218,Control Valve,Valve,0.1385,0.6,0.4,False,False
+02.Unmarked_p1_c0218,Needle Valve,Valve,0.0997,0.6,0.4,False,False
+02.Unmarked_p1_c0218,Relief Valve,Valve,0.201,0.6,0.4,False,False
+02.Unmarked_p1_c0218,Solenoid Valve,Valve,0.1528,0.6,0.4,False,False
+02.Unmarked_p1_c0218,3-Way Valve,Valve,0.1107,0.6,0.4,False,False
+02.Unmarked_p1_c0218,Diaphragm Valve,Valve,0.1644,0.6,0.4,False,False
+02.Unmarked_p1_c0218,Centrifugal Pump,Pump,0.1848,0.7,0.4,False,False
+02.Unmarked_p1_c0218,Rotary Pump,Pump,0.1732,0.7,0.4,False,False
+02.Unmarked_p1_c0218,Heat Exchanger,Heat Exchanger,0.2287,0.7,0.4,False,False
+02.Unmarked_p1_c0218,Condenser,Heat Exchanger,0.1664,0.7,0.4,False,False
+02.Unmarked_p1_c0218,Reboiler,Heat Exchanger,0.227,0.6,0.4,False,False
+02.Unmarked_p1_c0218,Cooler,Heat Exchanger,0.1664,0.6,0.4,False,False
+02.Unmarked_p1_c0218,Vessel,Vessel,0.2235,0.6,0.4,False,False
+02.Unmarked_p1_c0218,Tank,Vessel,0.2495,0.7,0.4,False,False
+02.Unmarked_p1_c0218,Drum,Vessel,0.2538,0.7,0.4,False,False
+02.Unmarked_p1_c0218,Filter,Filter,0.2475,0.6,0.4,False,False
+02.Unmarked_p1_c0218,Strainer,Filter,0.2264,0.6,0.4,False,False
+02.Unmarked_p1_c0218,Compressor,Compressor,0.2194,0.6,0.4,False,False
