@@ -7,7 +7,8 @@ _ROOT = os.path.dirname(os.path.abspath(__file__))
 if _ROOT not in sys.path:
     sys.path.insert(0, _ROOT)
 
-from line_association.adapters import CoordinateTransformer, load_line_tags
+from line_processing.adapters import CoordinateTransformer
+from line_association.adapters import load_line_tags
 from line_association import LineTagAssociator, LineAssociationConfig, LineAssociationExporter
 from line_processing.line_processor import LineProcessor
 from line_processing.line_processor_config import LineProcessorConfig

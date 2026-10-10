@@ -2,12 +2,13 @@ import pandas as pd
 from typing import List, Dict, Tuple, Set, Optional, Any
 
 # Reuse existing helpers
-from line_association.models import LineFragment, InlineComponent, SuperPipeline
-from line_association.geometry import (
+from .models import LineFragment, InlineComponent, SuperPipeline
+from .geometry import (
     segments_touch, endpoint_touches_body, is_point_near_bbox, segments_collinear_gap
 )
-from line_association.adapters import CoordinateTransformer
-from line_association.rules import InlineComponentMatcher
+from .adapters import CoordinateTransformer, load_line_fragments, load_components
+from .matcher import InlineComponentMatcher
+from .exporter import export_super_pipelines as _export_super_pipelines
 from .line_processor_config import LineProcessorConfig
 
 
@@ -54,23 +55,16 @@ class LineProcessor:
     def __init__(self, config: Optional[LineProcessorConfig] = None):
         self.config = config or LineProcessorConfig()
         
-        # Instantiate the inline component matcher using compatible config
-        from line_association.config import LineAssociationConfig
-        compat_config = LineAssociationConfig()
-        compat_config.on_path_threshold_pt = self.config.on_path_threshold_pt
-        compat_config.major_equipment_types = self.config.major_equipment_types
-        self.component_matcher = InlineComponentMatcher(compat_config)
+        self.component_matcher = InlineComponentMatcher(self.config)
     
     def load_and_filter_fragments(
         self, csv_path: str, needed_rows: Optional[Set[int]] = None, transformer: Optional[CoordinateTransformer] = None
     ) -> List[LineFragment]:
         """Loads line fragments and applies the needed_rows filter immediately."""
-        from line_association.adapters import load_line_fragments
         return load_line_fragments(csv_path, needed_rows=needed_rows, transformer=transformer)
 
     def load_components(self, csv_path: str) -> List[InlineComponent]:
         """Loads components."""
-        from line_association.adapters import load_components
         return load_components(csv_path)
 
     def _find_inline_component_edges(
@@ -341,8 +335,6 @@ class LineProcessor:
         fragments: List[LineFragment], out_dir: str, stem: str, components: List[InlineComponent]
     ):
         """Exports the generated super pipelines."""
-        from line_association import LineAssociationExporter
-        exporter = LineAssociationExporter()
-        exporter.export_super_pipelines(
+        _export_super_pipelines(
             super_pipelines, branches, fragments, out_dir, stem, components=components
         )
