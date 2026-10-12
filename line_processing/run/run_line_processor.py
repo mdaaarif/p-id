@@ -1,17 +1,18 @@
-import os
+﻿import os
 import sys
 import argparse
 
 # Ensure project root is on sys.path
-_ROOT = os.path.dirname(os.path.abspath(__file__))
+from pathlib import Path
+_ROOT = str(Path(__file__).resolve().parents[2])
 if _ROOT not in sys.path:
     sys.path.insert(0, _ROOT)
 
-from line_processing.adapters import CoordinateTransformer
+from line_processing.utils.adapters import CoordinateTransformer
 from line_association.adapters import load_line_tags
 from line_association import LineTagAssociator, LineAssociationConfig, LineAssociationExporter
-from line_processing.line_processor import LineProcessor
-from line_processing.line_processor_config import LineProcessorConfig
+from line_processing.src.line_processor import LineProcessor
+from line_processing.config.line_processor_config import LineProcessorConfig
 from line_association import summarize_line_association, format_line_stats
 
 def run_association(stem: str = "02.Unmarked", out_dir: str = "results/LE_csv"):
@@ -72,3 +73,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+

@@ -2,7 +2,8 @@
 import os
 import pandas as pd
 from typing import List, Dict, Tuple
-from .models import LineFragment, InlineComponent, SuperPipeline
+from typing import Any, Optional
+from ..src.models import LineFragment, InlineComponent, SuperPipeline
 
 def export_super_pipelines(
     super_pipelines: List[SuperPipeline],

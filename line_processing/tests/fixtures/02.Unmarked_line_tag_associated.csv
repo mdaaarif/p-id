@@ -1,0 +1,238 @@
+Group_ID,Line_Type,Matched_Line_Tag,Match_Distance_pt,Match_Pass,Confidence
+1,Elbow,,,,Unmatched
+2,Elbow,"3""-FL-101-1204-A11A",7.68,Pass 1,High
+3,Elbow,,,,Unmatched
+4,Horizontal,"3""-WP-101-4811-B19A-IH",7.5,Pass 1,High
+5,Horizontal,,,,Unmatched
+6,Elbow,"48""-P-101-2701-A19A-IH",7.51,Pass 1,High
+7,Horizontal,,,,Unmatched
+8,Horizontal,"36""-P-101-1210-A19A-IH",7.5,Pass 1,High
+9,Horizontal,,,,Unmatched
+10,Horizontal,,,,Unmatched
+11,Elbow,,,,Unmatched
+12,Elbow,"14""-P-101-1209-B1A-IT",6.78,Pass 1,High
+13,Horizontal,,,,Unmatched
+14,Horizontal,,,,Unmatched
+15,Straight,,,,Unmatched
+16,Horizontal,,,,Unmatched
+17,Horizontal,,,,Unmatched
+18,Elbow,"12""-P-101-1205-B1A-IT",7.98,Pass 1,High
+19,Straight,,,,Unmatched
+20,Horizontal,,,,Unmatched
+21,Horizontal,"26""-P-101-1214-A19A-IH",67.16,Pass 2,Medium
+22,Horizontal,,,,Unmatched
+23,Horizontal,,,,Unmatched
+24,Vertical,,,,Unmatched
+25,Vertical,,,,Unmatched
+26,Vertical,"12""-P-101-1206-B1A-IT",7.92,Pass 1,High
+27,Vertical,,,,Unmatched
+28,Vertical,,,,Unmatched
+29,Vertical,,,,Unmatched
+30,Vertical,,,,Unmatched
+31,Vertical,,,,Unmatched
+32,Horizontal,,,,Unmatched
+33,Horizontal,"2""-SV-101-1204-B1A-IT",67.06,Pass 2,Medium
+34,Horizontal,,,,Unmatched
+35,Horizontal,,,,Unmatched
+36,Horizontal,,,,Unmatched
+37,Straight,,,,Unmatched
+38,Straight,"2""-SV-101-1201-B1A-IT",61.55,Pass 2,Medium
+39,Horizontal,"2""-SV-101-1202-B1A-IT",61.52,Pass 2,Medium
+40,Horizontal,,,,Unmatched
+41,Elbow,"2""-WP-101-1202-B19A-IH",6.3,Pass 1,High
+42,Elbow,"2""-WP-101-1204-B19A-IH",7.68,Pass 1,High
+43,Horizontal,,,,Unmatched
+44,Horizontal,,,,Unmatched
+45,Straight,,,,Unmatched
+46,Horizontal,,,,Unmatched
+47,Elbow,,,,Unmatched
+48,Elbow,,,,Unmatched
+49,Elbow,,,,Unmatched
+50,Elbow,,,,Unmatched
+51,Elbow,,,,Unmatched
+52,Horizontal,,,,Unmatched
+53,Straight,,,,Unmatched
+54,Straight,,,,Unmatched
+55,Horizontal,,,,Unmatched
+56,Horizontal,,,,Unmatched
+57,Horizontal,,,,Unmatched
+58,Straight,,,,Unmatched
+59,Straight,"2""-P-101-1221-B1A-IT",27.78,Pass 1,High
+60,Elbow,"2""-P-101-1222-B1A-IT",27.81,Pass 1,High
+61,Elbow,"2""-P-101-1220-B1A-IT",7.5,Pass 1,High
+62,Horizontal,,,,Unmatched
+63,Horizontal,"2""-P-101-1223-B1A-IT",7.74,Pass 1,High
+64,Horizontal,,,,Unmatched
+65,Straight,,,,Unmatched
+66,Elbow,"3""-FL-101-1202-A11A",7.5,Pass 1,High
+67,Horizontal,,,,Unmatched
+68,Horizontal,,,,Unmatched
+69,Horizontal,,,,Unmatched
+70,Horizontal,,,,Unmatched
+71,Horizontal,,,,Unmatched
+72,Horizontal,,,,Unmatched
+73,Elbow,"3""-FL-101-1203-A11A",7.5,Pass 1,High
+74,Straight,,,,Unmatched
+75,Horizontal,,,,Unmatched
+76,Horizontal,,,,Unmatched
+77,Horizontal,,,,Unmatched
+78,Horizontal,,,,Unmatched
+79,Horizontal,,,,Unmatched
+80,Horizontal,,,,Unmatched
+81,Horizontal,,,,Unmatched
+82,Horizontal,,,,Unmatched
+83,Horizontal,,,,Unmatched
+84,Horizontal,,,,Unmatched
+85,Vertical,"26""-P-101-1215-A19A-IH",7.5,Pass 1,High
+86,Vertical,,,,Unmatched
+87,Straight,,,,Unmatched
+88,Straight,,,,Unmatched
+89,Horizontal,,,,Unmatched
+90,Horizontal,,,,Unmatched
+91,Horizontal,,,,Unmatched
+92,Horizontal,,,,Unmatched
+93,Vertical,,,,Unmatched
+94,Vertical,"12""-P-101-1207-B1A-IT",7.98,Pass 1,High
+95,Vertical,,,,Unmatched
+96,Vertical,,,,Unmatched
+97,Vertical,,,,Unmatched
+98,Vertical,"12""-P-101-1203-B1A-IT",7.98,Pass 1,High
+99,Vertical,,,,Unmatched
+100,Horizontal,,,,Unmatched
+101,Horizontal,,,,Unmatched
+102,Horizontal,,,,Unmatched
+103,Horizontal,,,,Unmatched
+104,Horizontal,,,,Unmatched
+105,Horizontal,,,,Unmatched
+106,Horizontal,,,,Unmatched
+107,Horizontal,,,,Unmatched
+108,Horizontal,,,,Unmatched
+109,Horizontal,,,,Unmatched
+110,Horizontal,"24""-P-101-1216-A19A-IS",7.5,Pass 1,High
+111,Vertical,,,,Unmatched
+112,Vertical,,,,Unmatched
+113,Vertical,"26""-P-101-1213-A19A-IH",7.68,Pass 1,High
+114,Vertical,,,,Unmatched
+115,Vertical,,,,Unmatched
+116,Elbow,"24""-P-101-1218-A19A-IS",7.5,Pass 1,High
+117,Horizontal,,,,Unmatched
+118,Horizontal,,,,Unmatched
+119,Horizontal,,,,Unmatched
+120,Horizontal,,,,Unmatched
+121,Horizontal,,,,Unmatched
+122,Straight,,,,Unmatched
+123,Straight,,,,Unmatched
+124,Horizontal,,,,Unmatched
+125,Horizontal,,,,Unmatched
+126,Horizontal,,,,Unmatched
+127,Horizontal,,,,Unmatched
+128,Elbow,,,,Unmatched
+129,Elbow,,,,Unmatched
+130,Horizontal,,,,Unmatched
+131,Elbow,,,,Unmatched
+132,Straight,,,,Unmatched
+133,Horizontal,,,,Unmatched
+134,Horizontal,,,,Unmatched
+135,Horizontal,,,,Unmatched
+136,Horizontal,,,,Unmatched
+137,Horizontal,,,,Unmatched
+138,Vertical,,,,Unmatched
+139,Vertical,,,,Unmatched
+140,Vertical,"12""-P-101-1208-B1A-IT",7.92,Pass 1,High
+141,Vertical,,,,Unmatched
+142,Vertical,,,,Unmatched
+143,Vertical,"12""-P-101-1204-B1A-IT",7.99,Pass 1,High
+144,Vertical,,,,Unmatched
+145,Vertical,,,,Unmatched
+146,Horizontal,,,,Unmatched
+147,Elbow,,,,Unmatched
+148,Horizontal,,,,Unmatched
+149,Horizontal,,,,Unmatched
+150,Horizontal,,,,Unmatched
+151,Horizontal,,,,Unmatched
+152,Horizontal,,,,Unmatched
+153,Horizontal,,,,Unmatched
+154,Horizontal,,,,Unmatched
+155,Horizontal,,,,Unmatched
+156,Horizontal,,,,Unmatched
+157,Horizontal,,,,Unmatched
+158,Horizontal,,,,Unmatched
+159,Horizontal,,,,Unmatched
+160,Horizontal,,,,Unmatched
+161,Horizontal,,,,Unmatched
+162,Horizontal,,,,Unmatched
+163,Horizontal,,,,Unmatched
+164,Horizontal,,,,Unmatched
+165,Vertical,,,,Unmatched
+166,Vertical,,,,Unmatched
+167,Vertical,,,,Unmatched
+168,Vertical,,,,Unmatched
+169,Vertical,,,,Unmatched
+170,Vertical,,,,Unmatched
+171,Vertical,,,,Unmatched
+172,Vertical,,,,Unmatched
+173,Vertical,,,,Unmatched
+174,Elbow,,,,Unmatched
+175,Horizontal,,,,Unmatched
+176,Straight,"24""-P-101-1113-B1A-IT",7.26,Pass 1,High
+177,Horizontal,"24""-P-101-1219-A19A-IS",7.5,Pass 1,High
+178,Horizontal,,,,Unmatched
+179,Horizontal,,,,Unmatched
+180,Horizontal,,,,Unmatched
+181,Elbow,"24""-P-101-1217-A19A-IS",7.5,Pass 1,High
+182,Horizontal,,,,Unmatched
+183,Vertical,,,,Unmatched
+184,Vertical,"2""-WP-101-1201-B19A-IH",7.5,Pass 1,High
+185,Straight,,,,Unmatched
+186,Vertical,,,,Unmatched
+187,Vertical,"26""-P-101-1212-A19A-IH",7.5,Pass 1,High
+188,Vertical,,,,Unmatched
+189,Vertical,,,,Unmatched
+190,Straight,,,,Unmatched
+191,Straight,,,,Unmatched
+192,Vertical,"12""-P-101-1201-B1A-IT",7.98,Pass 1,High
+193,Straight,"12""-P-101-1202-B1A-IT",7.92,Pass 1,High
+194,Vertical,,,,Unmatched
+195,Vertical,,,,Unmatched
+196,Vertical,,,,Unmatched
+197,Vertical,,,,Unmatched
+198,Vertical,,,,Unmatched
+199,Vertical,,,,Unmatched
+200,Vertical,,,,Unmatched
+201,Vertical,,,,Unmatched
+202,Vertical,"2""-WP-101-1203-B19A-IH",7.5,Pass 1,High
+203,Vertical,,,,Unmatched
+204,Vertical,,,,Unmatched
+205,Vertical,,,,Unmatched
+206,Vertical,,,,Unmatched
+207,Vertical,,,,Unmatched
+208,Vertical,,,,Unmatched
+209,Straight,,,,Unmatched
+210,Vertical,,,,Unmatched
+211,Vertical,,,,Unmatched
+212,Vertical,"2""-SV-101-1203-B1A-IT",74.86,Pass 2,Medium
+213,Vertical,,,,Unmatched
+214,Vertical,,,,Unmatched
+215,Vertical,,,,Unmatched
+216,Vertical,,,,Unmatched
+217,Vertical,,,,Unmatched
+218,Vertical,,,,Unmatched
+219,Vertical,,,,Unmatched
+220,Vertical,,,,Unmatched
+221,Vertical,,,,Unmatched
+222,Vertical,,,,Unmatched
+223,Vertical,,,,Unmatched
+224,Vertical,,,,Unmatched
+225,Vertical,,,,Unmatched
+226,Vertical,,,,Unmatched
+227,Vertical,,,,Unmatched
+228,Vertical,,,,Unmatched
+229,Vertical,,,,Unmatched
+230,Vertical,,,,Unmatched
+231,Vertical,,,,Unmatched
+232,Vertical,,,,Unmatched
+233,Vertical,,,,Unmatched
+234,Vertical,,,,Unmatched
+235,Vertical,,,,Unmatched
+236,Vertical,,,,Unmatched
+237,Vertical,"24""-P-101-1209-B1A-IT",25.21,Pass 1,High

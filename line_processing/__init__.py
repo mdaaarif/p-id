@@ -1,3 +1,3 @@
 # Exposes LineProcessor and Config
-from .line_processor import LineProcessor
-from .line_processor_config import LineProcessorConfig
+from .src.line_processor import LineProcessor
+from .config.line_processor_config import LineProcessorConfig

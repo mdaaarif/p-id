@@ -2,7 +2,7 @@
 import ast
 import pandas as pd
 from typing import List, Optional, Set, Tuple, Any
-from .models import Point, BBox, Segment, LineFragment, InlineComponent
+from ..src.models import Point, BBox, Segment, LineFragment, InlineComponent
 
 class CoordinateTransformer:
     """

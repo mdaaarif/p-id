@@ -1,7 +1,7 @@
 # Copied from line_association/geometry.py so line_processing is self-contained
 import math
 from typing import Tuple, List, Optional
-from .models import Point, BBox, Segment, LineFragment
+from ..src.models import Point, BBox, Segment, LineFragment
 
 def point_to_segment_distance(
     px: float, py: float, x1: float, y1: float, x2: float, y2: float, clamping_penalty: float = 0.0

@@ -3,13 +3,13 @@ from typing import List, Dict, Tuple, Set, Optional, Any
 
 # Reuse existing helpers
 from .models import LineFragment, InlineComponent, SuperPipeline
-from .geometry import (
+from ..utils.geometry import (
     segments_touch, endpoint_touches_body, is_point_near_bbox, segments_collinear_gap
 )
-from .adapters import CoordinateTransformer, load_line_fragments, load_components
+from ..utils.adapters import CoordinateTransformer, load_line_fragments, load_components
 from .matcher import InlineComponentMatcher
-from .exporter import export_super_pipelines as _export_super_pipelines
-from .line_processor_config import LineProcessorConfig
+from ..utils.exporter import export_super_pipelines as _export_super_pipelines
+from ..config.line_processor_config import LineProcessorConfig
 
 
 class DisjointSetUnion:

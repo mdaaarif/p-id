@@ -1,9 +1,10 @@
 # Copied from line_association/rules.py so line_processing is self-contained
 import math
 from typing import List, Optional
-from .models import LineFragment, InlineComponent
-from .geometry import is_component_on_path
-from .line_processor_config import LineProcessorConfig
+from typing import Dict, Tuple, Any
+from .models import LineFragment, InlineComponent, SuperPipeline
+from ..utils.geometry import is_component_on_path
+from ..config.line_processor_config import LineProcessorConfig
 
 class InlineComponentMatcher:
     """
